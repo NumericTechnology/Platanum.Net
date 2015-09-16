@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7B140B04-C328-4539-9EC4-E9EFBE605404}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KPComponents</RootNamespace>
+    <AssemblyName>KPComponents</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <DocumentationFile>bin\Release\KPComponents.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>KPComponents.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <DelaySign>false</DelaySign>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\Assemblies\AjaxControlToolkit\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.ActiveRecord">
+      <HintPath>..\Assemblies\ActiveRecord\Castle.ActiveRecord.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Report\Microsoft.ReportViewer.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Report\Microsoft.ReportViewer.DataVisualization.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Report\Microsoft.ReportViewer.Design.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Report\Microsoft.ReportViewer.ProcessingObjectModel.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Report\Microsoft.ReportViewer.WebDesign.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\Report\Microsoft.ReportViewer.WebForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NHibernate, Version=3.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\ActiveRecord\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.Validator, Version=1.3.1.4000, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\NHibernate.Validator\NHibernate.Validator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Asset\KPAssetLoader.cs" />
+    <Compile Include="Asset\KPCssClass.cs" />
+    <Compile Include="KPAlert\KPAlert.cs" />
+    <Compile Include="KPAlert\KPAlertTypeEnum.cs" />
+    <Compile Include="KPComponents\Base\KPCompositeControlBase.cs" />
+    <Compile Include="KPComponents\KPButton\KPButtonControl.cs" />
+    <Compile Include="KPComponents\KPCheckBox\KPCheckBoxField.cs" />
+    <Compile Include="KPComponents\KPComboBox\KPComboBox.cs" />
+    <Compile Include="KPComponents\KPComboBox\KPComboBoxField.cs" />
+    <Compile Include="KPComponents\KPData\IKPComponentData.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormBaseControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormButton\KPFormButtonSimpleControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormDetailControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormGrid\KPFormGridField.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormGrid\KPFormGridFieldCollection.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormGrid\KPFormGridModel.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormGrid\KPFormGridModelCollection.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemDateTimeControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemButtonControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemCheckBoxControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemComboControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemControlBase.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemControlHelper.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemEntityControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemGridControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemKeyControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemMasterDetailControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemPasswordControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemSpacerControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemTextControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemControl\KPFormItemZoomControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItemFactory.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormHelpModel.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemDateTime.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormBaseModel.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemButton.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemCheckBox.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemEntity.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemGrid.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemKeyFieldsCollection.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemModelEntityField.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemModelField.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemSpacer.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemZoom.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormMasterDetail\KPMappingKeyModel.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormMasterDetail\KPFormItemMasterDetail.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormMasterDetail\KPFormMasterDetailModel.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormMasterDetail\KPFormMasterDetailModelCollection.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormTab\KPFormTabControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormTab\KPFormTabModel.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormTab\KPFormTabModelCollection.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormZoom\KPFormZoomModelCollection.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormZoom\KPFormZoomModel.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemCombo.cs" />
+    <Compile Include="KPComponents\KPGridView\KPViewButton\KPViewButtonModel.cs" />
+    <Compile Include="KPComponents\KPGridView\KPViewButton\KPViewButtonModelCollection.cs" />
+    <Compile Include="KPComponents\KPGridView\KPViewButton\KPViewButtonSimple.cs" />
+    <Compile Include="KPComponents\KPGridView\KPGridViewControl.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPBooleanModel.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPEntityModel.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPEnumModel.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPGridBaseControl.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPGridDetailControl.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPItemModel.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPItemTextModel.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPJqGridControl.cs" />
+    <Compile Include="KPComponents\KPLabel\KPCaptionControl.cs" />
+    <Compile Include="KPComponents\KPMasterDetail\DetailEntity.cs" />
+    <Compile Include="KPComponents\KPMasterDetail\DetailSession.cs" />
+    <Compile Include="KPComponents\KPMasterDetail\KPMasterDetailGridControl.cs" />
+    <Compile Include="KPComponents\KPMasterDetail\KPMasterDetailField.cs" />
+    <Compile Include="KPComponents\KPTab\KPTabControl.cs" />
+    <Compile Include="KPComponents\KPTextBox\KPTextBoxZoomField.cs" />
+    <Compile Include="KPComponents\KPZoom\KPZoomControl.cs" />
+    <Compile Include="KPComponents\KPZoom\KPZoomField.cs" />
+    <Compile Include="KPDelegate\KPDelegates.cs" />
+    <Compile Include="KPEvent\KPEvents.cs" />
+    <Compile Include="KPExtension\KPControlExtension.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormButton\KPFormButtonModel.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormButton\KPFormButtonModelCollection.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormButton\KPFormButtonSimple.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormControl.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemKey.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemModel.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemModelCollection.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemPassword.cs" />
+    <Compile Include="KPComponents\KPForm\KPFormItem\KPFormItemText.cs" />
+    <Compile Include="KPGeneric\GenericComparer.cs" />
+    <Compile Include="KPGeneric\IStateManagedItem.cs" />
+    <Compile Include="KPGeneric\StateManagedCollection.cs" />
+    <Compile Include="KPGeneric\StateManagedCompositeControl.cs" />
+    <Compile Include="KPGeneric\StateManagedItem.cs" />
+    <Compile Include="KPComponents\KPHidden\KPHiddenControl.cs" />
+    <Compile Include="KPComponents\KPJqGrid\Filter\KPFilter.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPColumnModel.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPItemModelCollection.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPGridControl.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPGridHandler.cs" />
+    <Compile Include="KPComponents\KPJqGrid\KPGridJsonProperties.cs" />
+    <Compile Include="KPGlobal\KPGlobal.cs" />
+    <Compile Include="KPJson\KPJsonBase.cs" />
+    <Compile Include="KPJson\KPJsonJqGrid.cs" />
+    <Compile Include="KPComponents\KPLabel\KPLabelControl.cs" />
+    <Compile Include="KPLog\LogHelper.cs" />
+    <Compile Include="KPMaster\KPMasterPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KPComponents\KPMenu\KPMenuControl.cs" />
+    <Compile Include="KPPages\KPPage.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KPPages\KPPageBase.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KPComponents\KPReport\KPReportControl.cs" />
+    <Compile Include="KPComponents\KPReport\KPReportEntityConfig.cs" />
+    <Compile Include="KPComponents\KPReport\KPReportFactory.cs" />
+    <Compile Include="KPSecurity\Authenticate.cs" />
+    <Compile Include="KPSecurity\KPFormsAuthentication.cs" />
+    <Compile Include="KPSecurity\KPFrwSecurity.cs" />
+    <Compile Include="KPSession\KPSessionData.cs" />
+    <Compile Include="KPSession\KPSessionDetailData.cs" />
+    <Compile Include="KPSession\KPSessionHelper.cs" />
+    <Compile Include="KPComponents\KPTextBox\KPTextBoxField.cs" />
+    <Compile Include="KPSession\KPSessionJQGrid.cs" />
+    <Compile Include="KPSession\KPSessionMasterDetailData.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="KPComponents\KPTextBox\KPTextBoxFire.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Asset\Styles\KPComponentsBasic.css" />
+    <EmbeddedResource Include="Asset\Img\KPComponent.bmp" />
+    <Content Include="KPConfiguration.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KPAttributes\KPAttributes.csproj">
+      <Project>{84147d9b-69af-4b59-990c-69c8769ace62}</Project>
+      <Name>KPAttributes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPBO\KPBO.csproj">
+      <Project>{AE062F12-4A0C-49EA-9642-1CA1494B4DD4}</Project>
+      <Name>KPBO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPComponentsReport\KPComponents.Report.csproj">
+      <Project>{aa8e9881-a0be-43c9-803f-6e354ae01cc4}</Project>
+      <Name>KPComponents.Report</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPCore\KPCore.csproj">
+      <Project>{6ED172B2-CAA2-4CDE-95F1-02EB7A514130}</Project>
+      <Name>KPCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPData\KPData.csproj">
+      <Project>{4a1dc787-5f55-4c2d-b6d0-0a7c75a71fbd}</Project>
+      <Name>KPData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPEntity\KPEntity.csproj">
+      <Project>{F26F884E-EB94-4659-B774-BA2AE0CDC90F}</Project>
+      <Name>KPEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPEnumerator\KPEnumerator.csproj">
+      <Project>{e844bae8-2364-498a-8fe1-6751e344b3d6}</Project>
+      <Name>KPEnumerator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPGlobalization\KPGlobalization.csproj">
+      <Project>{586fa852-8709-4e7c-bd11-047d2be71260}</Project>
+      <Name>KPGlobalization</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KPComponents.snk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy /y $(ProjectDir)$(OutDir)$(TargetFileName) "..\..\..\..\Assemblies_KPFramework.Net"
+</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

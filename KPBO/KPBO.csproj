@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AE062F12-4A0C-49EA-9642-1CA1494B4DD4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KPBO</RootNamespace>
+    <AssemblyName>KPBO</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>KPBO.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.ActiveRecord, Version=3.0.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\ActiveRecord\Castle.ActiveRecord.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate, Version=3.1.0.4000, Culture=neutral, PublicKeyToken=aa95f207798dfdb4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\ActiveRecord\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.Validator, Version=1.3.1.4000, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\NHibernate.Validator\NHibernate.Validator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseBO.cs" />
+    <Compile Include="FrwActivityLogBO.cs" />
+    <Compile Include="FrwDatatypeBO.cs" />
+    <Compile Include="FrwMenuBO.cs" />
+    <Compile Include="FrwParamBO.cs" />
+    <Compile Include="FrwParamListBO.cs" />
+    <Compile Include="FrwProfileComponentBO.cs" />
+    <Compile Include="FrwProfileWindowBO.cs" />
+    <Compile Include="FrwReleaseBO.cs" />
+    <Compile Include="FrwUserProfileBO.cs" />
+    <Compile Include="FrwProfileBO.cs" />
+    <Compile Include="FrwCompanyBO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FrwComponentBO.cs" />
+    <Compile Include="FrwParamValueBO.cs" />
+    <Compile Include="FrwUserBO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FrwUserCompanyBO.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="FrwWindowBO.cs" />
+    <Compile Include="Parameters\FrwParamEnum.cs" />
+    <Compile Include="Parameters\FrwParametersHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validator\InvalidValueBO.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KPAttributes\KPAttributes.csproj">
+      <Project>{84147d9b-69af-4b59-990c-69c8769ace62}</Project>
+      <Name>KPAttributes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPCore\KPCore.csproj">
+      <Project>{6ED172B2-CAA2-4CDE-95F1-02EB7A514130}</Project>
+      <Name>KPCore</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPData\KPData.csproj">
+      <Project>{4A1DC787-5F55-4C2D-B6D0-0A7C75A71FBD}</Project>
+      <Name>KPData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPEntity\KPEntity.csproj">
+      <Project>{F26F884E-EB94-4659-B774-BA2AE0CDC90F}</Project>
+      <Name>KPEntity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPEnumerator\KPEnumerator.csproj">
+      <Project>{e844bae8-2364-498a-8fe1-6751e344b3d6}</Project>
+      <Name>KPEnumerator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPGlobalization\KPGlobalization.csproj">
+      <Project>{586fa852-8709-4e7c-bd11-047d2be71260}</Project>
+      <Name>KPGlobalization</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KPBO.snk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy /y $(ProjectDir)$(OutDir)$(TargetFileName) "..\..\..\..\Assemblies_KPFramework.Net"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

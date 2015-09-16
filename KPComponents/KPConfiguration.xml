@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<KPConfiguration>
+	<KPGridView>
+		<MaxRows>5</MaxRows>
+    <AllowPaging>true</AllowPaging>
+		<KPImages>
+			<AscendingSort>~/Images/KPGridView/descending.png</AscendingSort>
+			<DescendingSort>~/Images/KPGridView/ascending.png</DescendingSort>
+			<PagingImageFirst>~/Images/KPGridView/first.png</PagingImageFirst>
+			<PagingImagePrevious>~/Images/KPGridView/previous.png</PagingImagePrevious>
+			<PagingImageNext>~/Images/KPGridView/next.png</PagingImageNext>
+			<PagingImageLast>~/Images/KPGridView/last.png</PagingImageLast>
+		</KPImages>
+		<KPPaging>
+			<HorizontalAlign>Center</HorizontalAlign>
+			<Position>3</Position>
+			<MaxPages>10</MaxPages>
+		</KPPaging>
+		<KPStyle>
+			<CssClassGridView>KPGridView</CssClassGridView>
+			<ColorLine>
+				<SelectedLine>#CCC</SelectedLine>
+				<IntercalatedColor>#FFF</IntercalatedColor>
+				<RowCssClass>KPRowGridView</RowCssClass>
+			</ColorLine>
+		</KPStyle>
+	</KPGridView>
+</KPConfiguration>

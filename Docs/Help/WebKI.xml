@@ -1,0 +1,1718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Add method">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.Add Method " Url="html/f1be8a4a-b7d6-e149-f0dc-3fe0ea2986c8.htm" />
+    <HelpKINode Title="StateManagedCollection(T).Add Method " Url="html/9f768508-966a-3c33-a9f1-fe3c9f3c4a71.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddEntityInMemoryDataSource method" Url="html/96427525-56f1-b73d-9b5d-e65326654632.htm" />
+  <HelpKINode Title="AddErrorView method" Url="html/7c43392c-9ac8-5825-1085-2a6088d47692.htm" />
+  <HelpKINode Title="AddFormItem method" Url="html/e57570c6-ead2-586d-becb-3fc000f51550.htm" />
+  <HelpKINode Title="AlertTitle field" Url="html/ba24ad67-43c1-4602-d042-d0c0a43c6fec.htm" />
+  <HelpKINode Title="AuthenticateAndRedirect method" Url="html/22e15cac-bb25-f56e-f0ca-0226066d7b97.htm" />
+  <HelpKINode Title="AutoGenerateColumns property" Url="html/beb7c677-1d90-f56d-8853-fa495f9d4cef.htm" />
+  <HelpKINode Title="BetterFindControl(Of T) method" Url="html/f3200d7b-5ac1-56e7-5623-54a78bb06cce.htm" />
+  <HelpKINode Title="BetterFindControl&lt;T&gt; method" Url="html/f3200d7b-5ac1-56e7-5623-54a78bb06cce.htm" />
+  <HelpKINode Title="ButtonItem property" Url="html/14297a92-a505-d052-a0bb-044e48b91d90.htm" />
+  <HelpKINode Title="Cancel property" Url="html/b06cbb3c-0da7-2a1a-feef-4e2aa4c3b844.htm" />
+  <HelpKINode Title="Caption property" Url="html/1453fb9e-4d67-71a2-d8bb-7a9fb371777c.htm" />
+  <HelpKINode Title="Clear method">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.Clear Method " Url="html/85cb5883-892e-219f-9189-587ecddf587a.htm" />
+    <HelpKINode Title="StateManagedCollection(T).Clear Method " Url="html/032423d3-50f8-6337-6486-88619594e390.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Click event">
+    <HelpKINode Title="KPFormButtonSimple.Click Event" Url="html/ee310996-31b5-1484-6425-13c4762b1f5b.htm" />
+    <HelpKINode Title="KPViewButtonSimple.Click Event" Url="html/a933e18f-259d-b58a-7c7a-2425081395be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CloneDataSource method" Url="html/36d11ca8-751f-2af8-f688-0c4b2be74102.htm" />
+  <HelpKINode Title="ClosePage method" Url="html/83d851dc-bf88-cb6b-7f43-36bd290dc2ea.htm" />
+  <HelpKINode Title="ClosePageAndReloadView method" Url="html/0210c2b7-05a9-1904-51f7-3769d18f750c.htm" />
+  <HelpKINode Title="ClosePageForm method" Url="html/b4e7bc2e-d9ac-1791-2975-9383fe6cb3eb.htm" />
+  <HelpKINode Title="Compare method" Url="html/386083f6-9423-aeba-1158-4d7de2d7fdee.htm" />
+  <HelpKINode Title="Contains method">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.Contains Method " Url="html/6a43e7e4-897b-a1de-7b89-390efd620f34.htm" />
+    <HelpKINode Title="StateManagedCollection(T).Contains Method " Url="html/f2fb5732-24db-0db4-d0d0-93503a2addb8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ControlButton field" Url="html/6b69803c-1efa-071a-00d1-ac5344ce2d35.htm" />
+  <HelpKINode Title="ControlButton property" Url="html/0c1ae911-e22a-730d-ec61-6144749a27b6.htm" />
+  <HelpKINode Title="ControlCheckBox field" Url="html/04c0e633-13a6-1133-dc4a-98b6060a208e.htm" />
+  <HelpKINode Title="ControlComboBox field" Url="html/646b2094-1c9b-1850-1904-df506a034543.htm" />
+  <HelpKINode Title="ControlField property">
+    <HelpKINode Title="KPFormItemButtonControl.ControlField Property " Url="html/f9bad2c7-4517-badd-cd8f-1aa4122e8a2c.htm" />
+    <HelpKINode Title="KPFormItemCheckBoxControl.ControlField Property " Url="html/54c9d5e0-2365-5b15-24ac-beefa0bc0ef8.htm" />
+    <HelpKINode Title="KPFormItemComboControl.ControlField Property " Url="html/13bd33d2-2011-6446-1b40-41ad3c01c2c7.htm" />
+    <HelpKINode Title="KPFormItemDateTimeControl.ControlField Property " Url="html/58a0ad9c-754e-5dca-6509-1ace9e3ec42c.htm" />
+    <HelpKINode Title="KPFormItemEntityControl.ControlField Property " Url="html/0cfd133b-41ea-5be7-d95e-91500c8d7e28.htm" />
+    <HelpKINode Title="KPFormItemKeyControl.ControlField Property " Url="html/d8fdbc5d-dee7-6cd7-f99d-96aafffbe493.htm" />
+    <HelpKINode Title="KPFormItemPasswordControl.ControlField Property " Url="html/881ecad4-3167-4ecd-3ec0-90d9fb8317ce.htm" />
+    <HelpKINode Title="KPFormItemTextControl.ControlField Property " Url="html/f820f743-20a5-65d7-f30d-cbb8352a859a.htm" />
+    <HelpKINode Title="KPFormItemZoomControl.ControlField Property " Url="html/5e4ac53d-090c-babf-f5c6-337c4344e2b3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ControlInput field" Url="html/18dae805-2b79-0bb5-679f-773128174f83.htm" />
+  <HelpKINode Title="ControlLabel property">
+    <HelpKINode Title="KPCaptionControl.ControlLabel Property " Url="html/cab5de13-6f81-c2a9-ae65-2381f2a71cdc.htm" />
+    <HelpKINode Title="KPFormItemComboControl.ControlLabel Property " Url="html/e2023923-4eea-b15f-ea10-419e13f2d61b.htm" />
+    <HelpKINode Title="KPFormItemDateTimeControl.ControlLabel Property " Url="html/dd730f61-d51c-b47d-65c0-72340ce65960.htm" />
+    <HelpKINode Title="KPFormItemEntityControl.ControlLabel Property " Url="html/deec6b77-8489-984d-ecff-a10f44d6802c.htm" />
+    <HelpKINode Title="KPFormItemPasswordControl.ControlLabel Property " Url="html/84b6bfcd-8043-469d-6646-da7f7b1a74dd.htm" />
+    <HelpKINode Title="KPFormItemTextControl.ControlLabel Property " Url="html/5d1fe6d0-9d55-bdae-242e-062700feb92c.htm" />
+    <HelpKINode Title="KPFormItemZoomControl.ControlLabel Property " Url="html/84ef02f9-165b-9b66-06b4-75680176bfa7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Controls property" Url="html/601e427f-f7f9-ff2c-b076-7d670886f0d5.htm" />
+  <HelpKINode Title="ControlsFieldset property" Url="html/7c42894d-c43b-8671-6b53-c7d12c3ef4be.htm" />
+  <HelpKINode Title="CopyTo method">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.CopyTo Method " Url="html/a435d7e4-fb90-ad53-63cd-3ddb18d0381e.htm" />
+    <HelpKINode Title="StateManagedCollection(T).CopyTo Method " Url="html/d2b679f3-a6cf-909a-34a9-fe742dcea1df.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Count property">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.Count Property " Url="html/9e1a13c9-f3b6-0ecd-7b77-9136ab643ac5.htm" />
+    <HelpKINode Title="StateManagedCollection(T).Count Property " Url="html/2d8256c3-0fa8-fe23-c8ef-37962583fede.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateChildControls method">
+    <HelpKINode Title="KPCaptionControl.CreateChildControls Method " Url="html/2c70ac9d-fa60-f71b-6591-5f18435eef07.htm" />
+    <HelpKINode Title="KPFormButtonSimpleControl.CreateChildControls Method " Url="html/ec0f4a38-3881-923f-5173-ea446e9dcec2.htm" />
+    <HelpKINode Title="KPFormControl.CreateChildControls Method " Url="html/ae1e6f52-550e-224a-36d6-7bc61a9c2300.htm" />
+    <HelpKINode Title="KPFormItemButtonControl.CreateChildControls Method " Url="html/16962ecb-735d-6f02-5310-87d41594b7fe.htm" />
+    <HelpKINode Title="KPFormItemCheckBoxControl.CreateChildControls Method " Url="html/83dcbaa7-8c86-cc0c-e1ad-6cd5ce3cf420.htm" />
+    <HelpKINode Title="KPFormItemComboControl.CreateChildControls Method " Url="html/c4bab913-ccb8-5004-423e-2518c2b309db.htm" />
+    <HelpKINode Title="KPFormItemDateTimeControl.CreateChildControls Method " Url="html/275e5914-3d11-c40c-dfa2-5fae981604a9.htm" />
+    <HelpKINode Title="KPFormItemEntityControl.CreateChildControls Method " Url="html/8e2cb2ef-4bbc-f255-4224-6fc9119e2190.htm" />
+    <HelpKINode Title="KPFormItemGridControl.CreateChildControls Method " Url="html/86d8fdeb-8997-6edf-1e2e-c52daae42e5a.htm" />
+    <HelpKINode Title="KPFormItemKeyControl.CreateChildControls Method " Url="html/c59cdb90-213f-fa92-12a5-06be69aea242.htm" />
+    <HelpKINode Title="KPFormItemPasswordControl.CreateChildControls Method " Url="html/824a094e-bc63-d31c-2abd-557030711f17.htm" />
+    <HelpKINode Title="KPFormItemSpacerControl.CreateChildControls Method " Url="html/f1014ec8-9553-df94-fafd-72cc856d0285.htm" />
+    <HelpKINode Title="KPFormItemTextControl.CreateChildControls Method " Url="html/b7988bfe-04af-e014-77ea-4e9a2d31faec.htm" />
+    <HelpKINode Title="KPFormItemZoomControl.CreateChildControls Method " Url="html/6135bacf-b7e1-011a-8359-3f78951c71c3.htm" />
+    <HelpKINode Title="KPFormTabControl.CreateChildControls Method " Url="html/bb918192-1abe-e85f-1dc3-ebbae6b02cd0.htm" />
+    <HelpKINode Title="KPGridControl.CreateChildControls Method " Url="html/6d8e67ce-db5a-b51f-a463-bf5f1fb9539b.htm" />
+    <HelpKINode Title="KPGridViewControl.CreateChildControls Method " Url="html/d8e9832d-ecbe-14bc-ca6b-bfc5b96cfff6.htm" />
+    <HelpKINode Title="KPMenuControl.CreateChildControls Method " Url="html/79729f9a-29b3-88c6-3eda-6ce9fc46c7c8.htm" />
+    <HelpKINode Title="KPTextBoxField.CreateChildControls Method " Url="html/b25b6ac4-4c66-ecc0-0c50-26f8569491cb.htm" />
+    <HelpKINode Title="KPTextBoxFire.CreateChildControls Method " Url="html/f8f0175a-7f2e-55cc-bfb8-e76927e1a043.htm" />
+    <HelpKINode Title="KPTextBoxZoomField.CreateChildControls Method " Url="html/3c030cfc-28d8-358d-c074-33ef78a3f0b9.htm" />
+    <HelpKINode Title="KPZoomField.CreateChildControls Method " Url="html/33e4abbc-3270-b64d-f979-cb06cf04e681.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateFormItemFactory method" Url="html/f4005e8a-3438-febb-2347-f083f54aea2a.htm" />
+  <HelpKINode Title="CreateIDField method" Url="html/f67adb3c-1ec5-b0e0-ffd8-24beb8eace15.htm" />
+  <HelpKINode Title="CreateIDLabel method" Url="html/d796c4c4-f508-ba30-66c4-f13024978457.htm" />
+  <HelpKINode Title="CssClass property" Url="html/d4e1045d-a18e-ae9d-ec26-35408db551af.htm" />
+  <HelpKINode Title="CustomFalse property" Url="html/2444080f-f025-87cd-04fd-ceaefffea989.htm" />
+  <HelpKINode Title="CustomTrue property" Url="html/903836c2-bc2f-9a6f-7f1b-d57c2c7c74cb.htm" />
+  <HelpKINode Title="DashboardTitle property" Url="html/54277585-a8d0-46ce-ad2b-451fe621892b.htm" />
+  <HelpKINode Title="DashboardUrl property" Url="html/2dcbc4b8-e27f-fd10-0bb3-71004275dca3.htm" />
+  <HelpKINode Title="DataBind method" Url="html/40461143-8fcc-9b1c-a3db-2932eb235f10.htm" />
+  <HelpKINode Title="DataName property" Url="html/cac2be3f-b762-4590-f2c2-d8c8982da164.htm" />
+  <HelpKINode Title="DataSource property" Url="html/96257cfa-62df-3bae-39ce-b129abb8be93.htm" />
+  <HelpKINode Title="DataSourceAltered property" Url="html/2e11e0ee-caf5-362e-5707-a04c4b15c10a.htm" />
+  <HelpKINode Title="DataValue property" Url="html/7373764b-6b01-aac8-d6d3-620e789e0ce2.htm" />
+  <HelpKINode Title="Description property">
+    <HelpKINode Title="KPFormItemCheckBox.Description Property " Url="html/0ae2fb3a-a1d3-eace-af3c-194a389386ee.htm" />
+    <HelpKINode Title="KPZoomField.Description Property " Url="html/d3d45e2b-4f59-fe68-dc72-e69e3ba2ebef.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DescriptionWidth property">
+    <HelpKINode Title="KPFormItemZoom.DescriptionWidth Property " Url="html/6a3f08ee-c0f7-b873-2cdc-276c328398e0.htm" />
+    <HelpKINode Title="KPZoomField.DescriptionWidth Property " Url="html/e3c49058-df2c-313f-d53b-f21631efd01c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DisplaySearchField property" Url="html/e3b52fec-6c72-b704-8ad2-a16b3d57ce2b.htm" />
+  <HelpKINode Title="DoubleClickAction property" Url="html/7bb1348e-2890-7e3b-1bfb-37b9aba135e1.htm" />
+  <HelpKINode Title="Editable property" Url="html/2f6dd996-a444-d5d4-1bb9-927f822d8a38.htm" />
+  <HelpKINode Title="Enabled property" Url="html/b410dd26-d839-3956-fe86-b16641c46c46.htm" />
+  <HelpKINode Title="EnableDelete property" Url="html/af6521de-65ea-d2ab-2048-9588877ed3f8.htm" />
+  <HelpKINode Title="EnableEdit property" Url="html/70919562-7b57-3a85-4e5a-efc192c67a2b.htm" />
+  <HelpKINode Title="EnableMemoryDataSource property" Url="html/18400b07-a3c6-8ce5-363f-e8367db0992b.htm" />
+  <HelpKINode Title="EnableNew property" Url="html/ddef4162-7121-84af-8153-cca9c0bfe30d.htm" />
+  <HelpKINode Title="EnableSave property" Url="html/7fb9bedd-e9a1-1942-9370-c4f9dcfc05b0.htm" />
+  <HelpKINode Title="Entity property">
+    <HelpKINode Title="KPComboBoxItemField.Entity Property " Url="html/5b9d5af3-6eaf-11a7-1f54-90e16637902a.htm" />
+    <HelpKINode Title="KPSessionData.Entity Property " Url="html/d52d2e57-0ec3-1661-46b3-fd69d2b35ca2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Error enumeration member" Url="html/229b5e1d-3e87-b317-d6b2-f971d7655475.htm" />
+  <HelpKINode Title="ErrorsViewer property" Url="html/35551bd4-846e-c0d3-5c8a-89d78caa7c4d.htm" />
+  <HelpKINode Title="Field property" Url="html/58fa23e9-3b13-f8bc-234a-1b26c1b70159.htm" />
+  <HelpKINode Title="FieldName property">
+    <HelpKINode Title="IKPComponentData.FieldName Property " Url="html/90e9fe44-5f6f-7e0e-736e-d87d29d83f9a.htm" />
+    <HelpKINode Title="KPCaptionControl.FieldName Property " Url="html/f5acad90-56cc-123d-2afd-55b590a4c518.htm" />
+    <HelpKINode Title="KPCheckBoxField.FieldName Property " Url="html/a967ffdf-33ea-d6c6-2da5-fac204597232.htm" />
+    <HelpKINode Title="KPComboBoxField.FieldName Property " Url="html/9dc82527-ee78-3d4d-aba8-da9050e76679.htm" />
+    <HelpKINode Title="KPFormItemModelField.FieldName Property " Url="html/6d13a42f-8483-724e-cb6e-9a195aa16134.htm" />
+    <HelpKINode Title="KPHiddenControl.FieldName Property " Url="html/0de3f74a-afed-7691-b84b-1c2ccf799dc8.htm" />
+    <HelpKINode Title="KPItemModel.FieldName Property " Url="html/5f6fb568-f77d-967d-36df-7608e518d18a.htm" />
+    <HelpKINode Title="KPLabelControl.FieldName Property " Url="html/249a276f-b10e-3ee7-58c9-6f27651a45eb.htm" />
+    <HelpKINode Title="KPTextBoxField.FieldName Property " Url="html/8794504b-f917-3d54-b63e-1b76e1209c83.htm" />
+    <HelpKINode Title="KPTextBoxZoomField.FieldName Property " Url="html/9908effe-5df0-1c7e-7b62-8f4375d8d8f8.htm" />
+    <HelpKINode Title="KPZoomField.FieldName Property " Url="html/45e9fc92-a31a-58ed-6068-6e3bcf2f165d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FieldNameDescription property">
+    <HelpKINode Title="KPEntityModel.FieldNameDescription Property " Url="html/47f65a5d-d561-e79f-6f8e-77a453500176.htm" />
+    <HelpKINode Title="KPFormItemModelEntityField.FieldNameDescription Property " Url="html/89c13859-a477-1ef9-d53e-34efba47b000.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FieldReturnId property" Url="html/74675495-38c9-e4c5-5322-a7992034389e.htm" />
+  <HelpKINode Title="FieldReturnText property" Url="html/c27b608f-a46e-d896-9fbf-248c8148e090.htm" />
+  <HelpKINode Title="FindWindowTitleById method" Url="html/1e9c410d-553a-d59b-3b49-4484516e2abb.htm" />
+  <HelpKINode Title="FormActionState property" Url="html/da1261e7-2871-4eda-1727-48399e58fd75.htm" />
+  <HelpKINode Title="FormControl property">
+    <HelpKINode Title="KPFormButtonSimpleControl.FormControl Property " Url="html/03be5bd0-6e7c-da4d-2019-d69263adb43d.htm" />
+    <HelpKINode Title="KPFormItemControlBase(FormItemType).FormControl Property " Url="html/78efa4d9-7e44-c877-7a1a-774fe64d019a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormItem property">
+    <HelpKINode Title="KPFormItemButtonControl.FormItem Property " Url="html/1072ba12-162f-4481-028d-15cf493eae49.htm" />
+    <HelpKINode Title="KPFormItemCheckBoxControl.FormItem Property " Url="html/9f71b62f-b75c-e719-5fd2-6eb960923c1c.htm" />
+    <HelpKINode Title="KPFormItemComboControl.FormItem Property " Url="html/7a1d1fef-f908-0abb-acb9-4a71831be8f1.htm" />
+    <HelpKINode Title="KPFormItemControlBase(FormItemType).FormItem Property " Url="html/fc4b63dc-a01d-5575-f5e6-36c06149147a.htm" />
+    <HelpKINode Title="KPFormItemDateTimeControl.FormItem Property " Url="html/a8b870fb-b929-7da9-f54d-913edc6614a4.htm" />
+    <HelpKINode Title="KPFormItemEntityControl.FormItem Property " Url="html/fa203c5a-3164-56e2-561a-5bfe8c28e1c6.htm" />
+    <HelpKINode Title="KPFormItemGridControl.FormItem Property " Url="html/04cea67c-e29f-5609-c536-be4fa6a4140f.htm" />
+    <HelpKINode Title="KPFormItemKeyControl.FormItem Property " Url="html/743e815b-c2f0-2f27-7096-a2d9e8256637.htm" />
+    <HelpKINode Title="KPFormItemPasswordControl.FormItem Property " Url="html/92af30c9-6388-36f6-73a8-6fcb853ba140.htm" />
+    <HelpKINode Title="KPFormItemSpacerControl.FormItem Property " Url="html/d20ea0c7-d20e-5c98-ed69-a052ecb2faa9.htm" />
+    <HelpKINode Title="KPFormItemTextControl.FormItem Property " Url="html/594ed4bb-c13a-9022-c7de-291578ebe989.htm" />
+    <HelpKINode Title="KPFormItemZoomControl.FormItem Property " Url="html/cd23ecd9-ca14-d9ec-fdce-f1bcda5bbadb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FormState property" Url="html/bb94fe21-c888-3143-fba4-bdca46166877.htm" />
+  <HelpKINode Title="GenericComparer class">
+    <HelpKINode Title="GenericComparer Class" Url="html/b61c75d2-a319-4d1d-4d4e-7ea4d897b062.htm" />
+    <HelpKINode Title="about GenericComparer class" Url="html/b61c75d2-a319-4d1d-4d4e-7ea4d897b062.htm" />
+    <HelpKINode Title="constructor" Url="html/fde9df23-10ed-f028-c5b4-30aadfd8d4fb.htm" />
+    <HelpKINode Title="methods" Url="html/6b1c1911-3172-f0b4-ff0c-3c0259b1b1c3.htm" />
+    <HelpKINode Title="properties" Url="html/9bfe7c97-0703-fea9-525f-635a06d22255.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GenericComparer.Compare method" Url="html/386083f6-9423-aeba-1158-4d7de2d7fdee.htm" />
+  <HelpKINode Title="GenericComparer.GenericComparer constructor" Url="html/fde9df23-10ed-f028-c5b4-30aadfd8d4fb.htm" />
+  <HelpKINode Title="GenericComparer.PropertyComparer property" Url="html/238253c5-d276-7ac6-8ffc-98ac24addc41.htm" />
+  <HelpKINode Title="GetCurrentCompany method" Url="html/7eacbe2d-5f4b-b629-6fb7-d18d32df9291.htm" />
+  <HelpKINode Title="GetEntitiesInMemoryDataSource(Of Entity) method" Url="html/49df9aca-9391-12dd-e3d1-f9ef16685faf.htm" />
+  <HelpKINode Title="GetEntitiesInMemoryDataSource&lt;Entity&gt; method" Url="html/49df9aca-9391-12dd-e3d1-f9ef16685faf.htm" />
+  <HelpKINode Title="GetEntitySelectedInMemoryDataSource(Of Entity) method" Url="html/1d925e14-d4b5-996f-9b3c-6b81033df8ad.htm" />
+  <HelpKINode Title="GetEntitySelectedInMemoryDataSource&lt;Entity&gt; method" Url="html/1d925e14-d4b5-996f-9b3c-6b81033df8ad.htm" />
+  <HelpKINode Title="GetEnumerator method">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.GetEnumerator Method " Url="html/3394dc83-c1f4-decd-e95a-c136b02cc8de.htm" />
+    <HelpKINode Title="StateManagedCollection(T).GetEnumerator Method " Url="html/730ac3b6-2597-cab4-37ca-9b400adf45e9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetRetrieveComboItems method" Url="html/b8bcbd38-3448-d7e8-fb63-287b33ea9499.htm" />
+  <HelpKINode Title="GetSelectedEntity(Of Entity) method" Url="html/6954abf1-b4e8-9cf7-300f-780ac724d864.htm" />
+  <HelpKINode Title="GetSelectedEntity&lt;Entity&gt; method" Url="html/6954abf1-b4e8-9cf7-300f-780ac724d864.htm" />
+  <HelpKINode Title="GetSession method" Url="html/1844fc15-ee3e-31f1-f9e4-ec8e03822ec6.htm" />
+  <HelpKINode Title="GetSessionData method" Url="html/adc30c2a-d1aa-662e-c949-d2e5f621da68.htm" />
+  <HelpKINode Title="GetTabIndexScript method" Url="html/8ba14824-c1fc-65fd-2464-49d6b99a517e.htm" />
+  <HelpKINode Title="GetWebControlsType method" Url="html/6cd24a2a-37f1-bbf1-c22d-6037942b8a36.htm" />
+  <HelpKINode Title="GridConfig property" Url="html/f00046a4-38ea-4a95-cd3f-93185568513b.htm" />
+  <HelpKINode Title="GridID property" Url="html/435ac261-1251-74db-7cea-f6c012204160.htm" />
+  <HelpKINode Title="GridIDConfig property" Url="html/eea6d26d-478e-73e0-04e0-03d050c59aca.htm" />
+  <HelpKINode Title="GridTableID property" Url="html/445b3351-9f13-27c5-eaf6-1483baf0d0f8.htm" />
+  <HelpKINode Title="GridViewField property" Url="html/797cb692-a04b-2f6b-c212-6ae8d6a2b575.htm" />
+  <HelpKINode Title="GuidValue property" Url="html/ced2b77d-cd04-98a0-0c47-40a0e4a75c4a.htm" />
+  <HelpKINode Title="HeaderName property">
+    <HelpKINode Title="KPFormGridField.HeaderName Property " Url="html/427c4b23-d7dd-9a89-2c83-752befc8c6be.htm" />
+    <HelpKINode Title="KPItemModel.HeaderName Property " Url="html/a87f4cec-4fd1-0c40-619a-cfe3d80c49a7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Height property">
+    <HelpKINode Title="KPFormItemGrid.Height Property " Url="html/4aa03130-39fc-25de-e7ed-cd5acbed0dbd.htm" />
+    <HelpKINode Title="KPFormItemSpacer.Height Property " Url="html/71605b8d-3694-01f0-c550-cefbd808d4e0.htm" />
+    <HelpKINode Title="KPFormItemText.Height Property " Url="html/7b71ad3c-58dd-0351-f486-42039657aa84.htm" />
+    <HelpKINode Title="KPGridControl.Height Property " Url="html/035e86bf-64cb-d3ec-7b67-971422f486fa.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HeightForm property" Url="html/f5845465-d2a0-62ff-b4d6-40838b126790.htm" />
+  <HelpKINode Title="HeightZoom property" Url="html/afdc76aa-1fb2-4dba-1dab-01983a4a6815.htm" />
+  <HelpKINode Title="ID property">
+    <HelpKINode Title="KPFormItemModelField.ID Property " Url="html/bf7ff52a-3152-4edd-5042-6e2ad3027d23.htm" />
+    <HelpKINode Title="KPFormZoomModel.ID Property " Url="html/dc6f782b-b837-8a6d-850e-be80c0e0c424.htm" />
+    <HelpKINode Title="StateManagedItem.ID Property " Url="html/fe3a9d9f-c5e5-280e-b7dd-7d2a73736c88.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IKPComponentData interface">
+    <HelpKINode Title="IKPComponentData Interface" Url="html/dbb41a48-f2de-a3e1-fad4-35e67058f5e8.htm" />
+    <HelpKINode Title="about IKPComponentData interface" Url="html/dbb41a48-f2de-a3e1-fad4-35e67058f5e8.htm" />
+    <HelpKINode Title="methods" Url="html/9819f288-56ea-05cf-7521-d4797b07a22e.htm" />
+    <HelpKINode Title="properties" Url="html/84a4ef7d-21a8-12a3-6892-edc4d96599ee.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IKPComponentData.FieldName property" Url="html/90e9fe44-5f6f-7e0e-736e-d87d29d83f9a.htm" />
+  <HelpKINode Title="IKPComponentData.RemoveInvalidateMsg method" Url="html/99c74af4-7bb9-ac22-2360-a2367ee20988.htm" />
+  <HelpKINode Title="IKPComponentData.SetInvalidateMsg method" Url="html/9cbd8530-7364-282d-34b5-d2ee7831f4b1.htm" />
+  <HelpKINode Title="IndexOf method">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.IndexOf Method " Url="html/a30b11e5-7925-51cd-b459-a9c924fc42a7.htm" />
+    <HelpKINode Title="StateManagedCollection(T).IndexOf Method " Url="html/5a7340a8-f1ac-d3f0-3abe-d0ec8db6f86d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IndexTab property" Url="html/1b2e9fd7-9dfc-ea43-fc15-9fb091ba3ca0.htm" />
+  <HelpKINode Title="Info enumeration member" Url="html/229b5e1d-3e87-b317-d6b2-f971d7655475.htm" />
+  <HelpKINode Title="Insert method">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.Insert Method " Url="html/24558897-677b-46b3-916e-513a9c0208d5.htm" />
+    <HelpKINode Title="StateManagedCollection(T).Insert Method " Url="html/ab551390-2b77-c2cb-2105-a8684211a309.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InvalidateField field" Url="html/f53528b4-4567-7294-646b-ed3d9516fa41.htm" />
+  <HelpKINode Title="IsGroupStyleDisplay property" Url="html/d88cca93-28d2-566a-9435-c208435180a7.htm" />
+  <HelpKINode Title="IsReadOnly property">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.IsReadOnly Property " Url="html/fa00bf46-5629-9d92-c2ad-459209e87d44.htm" />
+    <HelpKINode Title="StateManagedCollection(T).IsReadOnly Property " Url="html/4fdff4f5-5282-92bd-0c7e-9fd60e8f63f7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsRequired property">
+    <HelpKINode Title="KPCaptionControl.IsRequired Property " Url="html/9135221f-698e-d389-1d3f-17f596ffff5a.htm" />
+    <HelpKINode Title="KPFormItemModelField.IsRequired Property " Url="html/f43a8942-4fd7-b3e8-8999-fc18477d9118.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsSaveAll property" Url="html/ec02d215-6884-4e29-a11f-9aa99b50b590.htm" />
+  <HelpKINode Title="IStateManagedItem interface">
+    <HelpKINode Title="IStateManagedItem Interface" Url="html/d597e4b5-5f18-f142-6433-a900714d8cd9.htm" />
+    <HelpKINode Title="about IStateManagedItem interface" Url="html/d597e4b5-5f18-f142-6433-a900714d8cd9.htm" />
+    <HelpKINode Title="methods" Url="html/3e6dec20-0198-689b-2624-800c80125450.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IStateManagedItem.SetDirty method" Url="html/0e285011-76cd-1f17-902c-9d1fa82b0cc4.htm" />
+  <HelpKINode Title="IsTrackingViewState property">
+    <HelpKINode Title="StateManagedCollection(T).IsTrackingViewState Property " Url="html/15c3062f-396d-e735-4c42-274cd378ba58.htm" />
+    <HelpKINode Title="StateManagedCompositeControl.IsTrackingViewState Property " Url="html/2fa6f384-3e16-bdd5-9b4d-4257b07e19a5.htm" />
+    <HelpKINode Title="StateManagedItem.IsTrackingViewState Property " Url="html/ac4df1f5-3e5f-02a4-a6c2-732ef83b4e2f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsWindowAccessAllowed method" Url="html/21e64fef-3d86-cd7e-7d1d-60bbf1272880.htm" />
+  <HelpKINode Title="Item property">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.Item Property " Url="html/a68b70eb-0cbe-9be8-3aa3-3f0292b46314.htm" />
+    <HelpKINode Title="StateManagedCollection(T).Item Property " Url="html/8d8977a9-ea16-6445-7b1a-1bd2b9191661.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ItemCombo property" Url="html/64bf515d-b92d-ebee-b9f6-69182ed03e4e.htm" />
+  <HelpKINode Title="ItemGrid property" Url="html/6d9c33a0-6fd0-2003-60ee-f7e8e55fe1e5.htm" />
+  <HelpKINode Title="ItemsEntity property" Url="html/e20ece9d-1d56-0dfb-0298-3b1fa039dd16.htm" />
+  <HelpKINode Title="ItemsFieldset property" Url="html/4b170fe9-71dc-6cfd-4afc-7d4b0e657d7f.htm" />
+  <HelpKINode Title="ItemValue property" Url="html/40b49fff-79e9-1321-ab6a-2a900eb3b15a.htm" />
+  <HelpKINode Title="ItemZoom property" Url="html/d7e701d4-2fb6-6d55-9e63-eff7cc1bd014.htm" />
+  <HelpKINode Title="KPAfterControlsCreated delegate" Url="html/bc5595f4-2c7f-b35b-413b-a78394a4b372.htm" />
+  <HelpKINode Title="KPAlert class">
+    <HelpKINode Title="KPAlert Class" Url="html/f01bcc73-5940-48b4-3d42-a7ace1a60359.htm" />
+    <HelpKINode Title="about KPAlert class" Url="html/f01bcc73-5940-48b4-3d42-a7ace1a60359.htm" />
+    <HelpKINode Title="constructor" Url="html/8c2eb0b6-bb12-2320-27ba-28093f35d211.htm" />
+    <HelpKINode Title="fields" Url="html/8e645e0b-d7cf-1e59-8415-daacf28d9b0a.htm" />
+    <HelpKINode Title="methods" Url="html/bd724d04-0ffe-da80-a907-ed48e327448e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPAlert.AlertTitle field" Url="html/ba24ad67-43c1-4602-d042-d0c0a43c6fec.htm" />
+  <HelpKINode Title="KPAlert.KPAlert constructor" Url="html/8c2eb0b6-bb12-2320-27ba-28093f35d211.htm" />
+  <HelpKINode Title="KPAlert.Show method" Url="html/0fea78fd-680a-56b2-4830-8e7af78eb4eb.htm" />
+  <HelpKINode Title="KPAlert.ShowNoButton field" Url="html/3b9aa146-7779-2b38-ff4b-1d835f0cd524.htm" />
+  <HelpKINode Title="KPAlert.ShowYesButton field" Url="html/d5b2a61d-9751-8cfc-7e75-e48ab5641e29.htm" />
+  <HelpKINode Title="KPAlertTypeEnum enumeration" Url="html/229b5e1d-3e87-b317-d6b2-f971d7655475.htm" />
+  <HelpKINode Title="KPAssetLoader class">
+    <HelpKINode Title="KPAssetLoader Class" Url="html/915661a5-3886-560c-02ad-2acdf4033ccd.htm" />
+    <HelpKINode Title="about KPAssetLoader class" Url="html/915661a5-3886-560c-02ad-2acdf4033ccd.htm" />
+    <HelpKINode Title="constructor" Url="html/51966193-f1fb-8f24-3273-506721b09d99.htm" />
+    <HelpKINode Title="methods" Url="html/c54f083c-ff16-515b-0465-06a86d2cee59.htm" />
+    <HelpKINode Title="properties" Url="html/6a353abb-8a6a-38c2-4bb1-12a6984d14bd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPAssetLoader.KPAssetLoader constructor" Url="html/51966193-f1fb-8f24-3273-506721b09d99.htm" />
+  <HelpKINode Title="KPAssetLoader.Render method" Url="html/fdf86fc2-b336-1468-8e74-570eb2c1f459.htm" />
+  <HelpKINode Title="KPAssetLoader.Source property" Url="html/c7d265ef-d65d-e49f-9025-76e269f53160.htm" />
+  <HelpKINode Title="KPAssetLoader.Type property" Url="html/73d6ad38-2c78-2507-558f-10126d3d68c7.htm" />
+  <HelpKINode Title="KPBooleanModel class">
+    <HelpKINode Title="KPBooleanModel Class" Url="html/bc78f1c4-f6c5-0d1c-58ed-8a7f59974e54.htm" />
+    <HelpKINode Title="about KPBooleanModel class" Url="html/bc78f1c4-f6c5-0d1c-58ed-8a7f59974e54.htm" />
+    <HelpKINode Title="constructor" Url="html/62ceb314-c2e8-8db2-d18f-657bcc82af75.htm" />
+    <HelpKINode Title="properties" Url="html/56b6a791-ed36-8224-4f41-db8bd286233e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPBooleanModel.CustomFalse property" Url="html/2444080f-f025-87cd-04fd-ceaefffea989.htm" />
+  <HelpKINode Title="KPBooleanModel.CustomTrue property" Url="html/903836c2-bc2f-9a6f-7f1b-d57c2c7c74cb.htm" />
+  <HelpKINode Title="KPBooleanModel.KPBooleanModel constructor" Url="html/62ceb314-c2e8-8db2-d18f-657bcc82af75.htm" />
+  <HelpKINode Title="KPButtonControl class">
+    <HelpKINode Title="KPButtonControl Class" Url="html/9e80c028-6257-6414-59c9-363247123000.htm" />
+    <HelpKINode Title="about KPButtonControl class" Url="html/9e80c028-6257-6414-59c9-363247123000.htm" />
+    <HelpKINode Title="constructor" Url="html/6efdfe59-9c0f-0d11-c9d4-b7f98a61d486.htm" />
+    <HelpKINode Title="methods" Url="html/100d26ac-7013-4880-1981-959e93cca102.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPButtonControl.KPButtonControl constructor" Url="html/6efdfe59-9c0f-0d11-c9d4-b7f98a61d486.htm" />
+  <HelpKINode Title="KPButtonEventsArgs class">
+    <HelpKINode Title="KPButtonEventsArgs Class" Url="html/f6b7b756-2dbf-168c-2535-3e53017cc3fd.htm" />
+    <HelpKINode Title="about KPButtonEventsArgs class" Url="html/f6b7b756-2dbf-168c-2535-3e53017cc3fd.htm" />
+    <HelpKINode Title="constructor" Url="html/943e22da-0935-c312-5bc3-3e6d3a01099a.htm" />
+    <HelpKINode Title="properties" Url="html/993b8ea5-13fc-a191-c216-fb9aa3336a2f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPButtonEventsArgs.Cancel property" Url="html/b06cbb3c-0da7-2a1a-feef-4e2aa4c3b844.htm" />
+  <HelpKINode Title="KPButtonEventsArgs.KPButtonEventsArgs constructor" Url="html/943e22da-0935-c312-5bc3-3e6d3a01099a.htm" />
+  <HelpKINode Title="KPButtonsModel property">
+    <HelpKINode Title="KPFormControl.KPButtonsModel Property " Url="html/8e8a48f1-c7b0-6def-1f77-3c66017b77cf.htm" />
+    <HelpKINode Title="KPGridControl.KPButtonsModel Property " Url="html/0dfe8719-189f-d74e-de2c-46658f9418ce.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPButtonsModelBottom property" Url="html/8b42f172-5db0-8203-ee86-ea4699defdae.htm" />
+  <HelpKINode Title="KPButtonsModelTop property" Url="html/9e103da0-f272-86cd-d517-16ec27f64439.htm" />
+  <HelpKINode Title="KPCaptionControl class">
+    <HelpKINode Title="KPCaptionControl Class" Url="html/7bf3d910-3280-32b7-c3cb-13aba55b8963.htm" />
+    <HelpKINode Title="about KPCaptionControl class" Url="html/7bf3d910-3280-32b7-c3cb-13aba55b8963.htm" />
+    <HelpKINode Title="constructor" Url="html/bf0d8249-5f22-31f0-33a7-54de4c80e1d6.htm" />
+    <HelpKINode Title="methods" Url="html/c5754025-15dd-2097-7946-6c1ad897bfdb.htm" />
+    <HelpKINode Title="properties" Url="html/2da98037-c5b0-6cea-9a8b-b1a2c0b4e6f8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPCaptionControl.ControlLabel property" Url="html/cab5de13-6f81-c2a9-ae65-2381f2a71cdc.htm" />
+  <HelpKINode Title="KPCaptionControl.CreateChildControls method" Url="html/2c70ac9d-fa60-f71b-6591-5f18435eef07.htm" />
+  <HelpKINode Title="KPCaptionControl.FieldName property" Url="html/f5acad90-56cc-123d-2afd-55b590a4c518.htm" />
+  <HelpKINode Title="KPCaptionControl.IsRequired property" Url="html/9135221f-698e-d389-1d3f-17f596ffff5a.htm" />
+  <HelpKINode Title="KPCaptionControl.KPCaptionControl constructor" Url="html/bf0d8249-5f22-31f0-33a7-54de4c80e1d6.htm" />
+  <HelpKINode Title="KPCaptionControl.Title property" Url="html/d44fc954-2708-e05d-c803-18354398a336.htm" />
+  <HelpKINode Title="KPCheckBoxField class">
+    <HelpKINode Title="KPCheckBoxField Class" Url="html/f53fb41c-c943-b82b-7e38-c6f2249dcfc4.htm" />
+    <HelpKINode Title="about KPCheckBoxField class" Url="html/f53fb41c-c943-b82b-7e38-c6f2249dcfc4.htm" />
+    <HelpKINode Title="constructor" Url="html/caa1f8db-35ce-ace4-0fef-8b163c53fb1f.htm" />
+    <HelpKINode Title="methods" Url="html/f74ccaf5-9cbc-6651-6864-d1c950683a87.htm" />
+    <HelpKINode Title="properties" Url="html/4223388d-a054-662c-0df2-6e52caed2766.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPCheckBoxField.FieldName property" Url="html/a967ffdf-33ea-d6c6-2da5-fac204597232.htm" />
+  <HelpKINode Title="KPCheckBoxField.KPCheckBoxField constructor" Url="html/caa1f8db-35ce-ace4-0fef-8b163c53fb1f.htm" />
+  <HelpKINode Title="KPCheckBoxField.RemoveInvalidateMsg method" Url="html/cd08031d-d383-d1c4-349a-02fdad5c9ecd.htm" />
+  <HelpKINode Title="KPCheckBoxField.SetInvalidateMsg method" Url="html/8c9a0545-9b23-65f9-c685-e1b13f8bd434.htm" />
+  <HelpKINode Title="KPCheckBoxSelect delegate" Url="html/072441c8-6768-0f4a-a3a9-8ba5bae79035.htm" />
+  <HelpKINode Title="KPCheckBoxSelectDelegate property" Url="html/99f349f2-b2e8-d96a-982a-4f4849731495.htm" />
+  <HelpKINode Title="KPClick event" Url="html/ea16142a-67a1-3856-8048-47ea30da6769.htm" />
+  <HelpKINode Title="KPClickDelegate property" Url="html/7d74a43d-0d34-1154-a8b0-182a12800ecd.htm" />
+  <HelpKINode Title="KPColumnModel class">
+    <HelpKINode Title="KPColumnModel Class" Url="html/f3a204db-b8b2-6f24-a839-871f2b93f328.htm" />
+    <HelpKINode Title="about KPColumnModel class" Url="html/f3a204db-b8b2-6f24-a839-871f2b93f328.htm" />
+    <HelpKINode Title="constructor" Url="html/da02d3bd-8741-c662-0242-bd83d979b780.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPColumnModel.KPColumnModel constructor" Url="html/da02d3bd-8741-c662-0242-bd83d979b780.htm" />
+  <HelpKINode Title="KPColumnsModel property">
+    <HelpKINode Title="KPFormControl.KPColumnsModel Property " Url="html/c2ffe084-ca26-ef08-f234-b160c6126a08.htm" />
+    <HelpKINode Title="KPFormTabModel.KPColumnsModel Property " Url="html/450684ec-245f-97df-aca0-3638da8b50c8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPComboBox class">
+    <HelpKINode Title="KPComboBox Class" Url="html/f40ab784-feef-2531-04b8-ac9e1419896d.htm" />
+    <HelpKINode Title="about KPComboBox class" Url="html/f40ab784-feef-2531-04b8-ac9e1419896d.htm" />
+    <HelpKINode Title="constructor" Url="html/b164bf1f-3329-bb1b-238b-666e5c2012cd.htm" />
+    <HelpKINode Title="methods" Url="html/bd3e1a32-bb43-f4f2-7b32-a9cee7c94b59.htm" />
+    <HelpKINode Title="properties" Url="html/c182b6fd-641f-5eaf-17e6-1f11ee0e0868.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPComboBox.ItemsEntity property" Url="html/e20ece9d-1d56-0dfb-0298-3b1fa039dd16.htm" />
+  <HelpKINode Title="KPComboBox.KPComboBox constructor" Url="html/b164bf1f-3329-bb1b-238b-666e5c2012cd.htm" />
+  <HelpKINode Title="KPComboBox.SelectedIndex property" Url="html/996fafdc-d4f2-4aa2-cdf2-718b33a28310.htm" />
+  <HelpKINode Title="KPComboBox.SelectedItem property" Url="html/2239f2cb-cba7-1b73-1dd4-9c6fd236b77d.htm" />
+  <HelpKINode Title="KPComboBox.SelectedItemEntity property" Url="html/2a5a7792-a769-b48d-7dff-995452c03161.htm" />
+  <HelpKINode Title="KPComboBox.SelectedValue property" Url="html/d24fb77c-e3c7-5a79-21d3-dd3bfba1823c.htm" />
+  <HelpKINode Title="KPComboBoxField class">
+    <HelpKINode Title="KPComboBoxField Class" Url="html/a3c6635b-3409-922f-5365-a54886ab0d32.htm" />
+    <HelpKINode Title="about KPComboBoxField class" Url="html/a3c6635b-3409-922f-5365-a54886ab0d32.htm" />
+    <HelpKINode Title="constructor" Url="html/ae8bd24d-7aa7-c330-1e80-fcbf2b7c58c2.htm" />
+    <HelpKINode Title="methods" Url="html/719a901e-e393-71f0-93b6-dd87341e72a6.htm" />
+    <HelpKINode Title="properties" Url="html/807a5d75-c75c-4c24-3e2b-e2bc2504b7ae.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPComboBoxField.FieldName property" Url="html/9dc82527-ee78-3d4d-aba8-da9050e76679.htm" />
+  <HelpKINode Title="KPComboBoxField.KPComboBoxField constructor" Url="html/ae8bd24d-7aa7-c330-1e80-fcbf2b7c58c2.htm" />
+  <HelpKINode Title="KPComboBoxField.RemoveInvalidateMsg method" Url="html/b59a5ad8-a6a5-9f77-b990-6d2ab6e10670.htm" />
+  <HelpKINode Title="KPComboBoxField.SetInvalidateMsg method" Url="html/3aa4c9e6-92ec-cc9c-f379-b6d04e5fd292.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection class">
+    <HelpKINode Title="KPComboBoxFieldItemCollection Class" Url="html/df24aa92-8440-c34b-2bf3-9cc63eb31edc.htm" />
+    <HelpKINode Title="about KPComboBoxFieldItemCollection class" Url="html/df24aa92-8440-c34b-2bf3-9cc63eb31edc.htm" />
+    <HelpKINode Title="constructor" Url="html/128fa87c-632b-f777-d734-4beb011e253d.htm" />
+    <HelpKINode Title="methods" Url="html/a4764518-899c-2749-7429-d25fb6b81aac.htm" />
+    <HelpKINode Title="properties" Url="html/9a14a50c-51c5-d206-055c-b010eeccf59b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPComboBoxFieldItemCollection.Add method" Url="html/f1be8a4a-b7d6-e149-f0dc-3fe0ea2986c8.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.Clear method" Url="html/85cb5883-892e-219f-9189-587ecddf587a.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.Contains method" Url="html/6a43e7e4-897b-a1de-7b89-390efd620f34.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.CopyTo method" Url="html/a435d7e4-fb90-ad53-63cd-3ddb18d0381e.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.Count property" Url="html/9e1a13c9-f3b6-0ecd-7b77-9136ab643ac5.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.GetEnumerator method" Url="html/3394dc83-c1f4-decd-e95a-c136b02cc8de.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.IndexOf method" Url="html/a30b11e5-7925-51cd-b459-a9c924fc42a7.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.Insert method" Url="html/24558897-677b-46b3-916e-513a9c0208d5.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.IsReadOnly property" Url="html/fa00bf46-5629-9d92-c2ad-459209e87d44.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.Item property" Url="html/a68b70eb-0cbe-9be8-3aa3-3f0292b46314.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.KPComboBoxFieldItemCollection constructor" Url="html/128fa87c-632b-f777-d734-4beb011e253d.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.Remove method" Url="html/6074b367-b06f-d819-a7e4-c17703561e95.htm" />
+  <HelpKINode Title="KPComboBoxFieldItemCollection.RemoveAt method" Url="html/b5a87043-5da8-313b-18ef-87b3ea1186bb.htm" />
+  <HelpKINode Title="KPComboBoxItemField class">
+    <HelpKINode Title="KPComboBoxItemField Class" Url="html/56804acd-6c88-5751-feda-b373e3d208cf.htm" />
+    <HelpKINode Title="about KPComboBoxItemField class" Url="html/56804acd-6c88-5751-feda-b373e3d208cf.htm" />
+    <HelpKINode Title="constructor" Url="html/a0aa3e57-28ac-5926-ec8b-a3a211de482b.htm" />
+    <HelpKINode Title="properties" Url="html/416ae9f6-f432-00f4-faf3-f34f317ad69d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPComboBoxItemField.Entity property" Url="html/5b9d5af3-6eaf-11a7-1f54-90e16637902a.htm" />
+  <HelpKINode Title="KPComboBoxItemField.ItemCombo property" Url="html/64bf515d-b92d-ebee-b9f6-69182ed03e4e.htm" />
+  <HelpKINode Title="KPComboBoxItemField.KPComboBoxItemField constructor" Url="html/a0aa3e57-28ac-5926-ec8b-a3a211de482b.htm" />
+  <HelpKINode Title="KPComboSelectChange delegate" Url="html/719dc1d6-01dc-9c53-0a7d-53ed4bdf584b.htm" />
+  <HelpKINode Title="KPComboSelectChangeDelegate property" Url="html/3a7f06e6-71a7-5753-7e8b-393de337205f.htm" />
+  <HelpKINode Title="KPComponents namespace" Url="html/cc02df0a-bc13-5bf6-f2f6-054026060914.htm" />
+  <HelpKINode Title="KPComponents.Asset namespace" Url="html/391001b1-04d9-9194-e76a-2f389cfdc921.htm" />
+  <HelpKINode Title="KPComponents.Asset.KPCssClass class" Url="html/a75580b3-02d9-79f8-a87b-bd1909ba6085.htm" />
+  <HelpKINode Title="KPComponents.Generic namespace" Url="html/2828f20e-6bc0-19f1-6eed-04499878bce5.htm" />
+  <HelpKINode Title="KPComponents.Generic.IStateManagedItem interface" Url="html/d597e4b5-5f18-f142-6433-a900714d8cd9.htm" />
+  <HelpKINode Title="KPComponents.Generic.StateManagedCollection(Of T) class" Url="html/c0572df2-d7a4-6983-3025-fee7a706c756.htm" />
+  <HelpKINode Title="KPComponents.Generic.StateManagedCollection&lt;T&gt; class" Url="html/c0572df2-d7a4-6983-3025-fee7a706c756.htm" />
+  <HelpKINode Title="KPComponents.Generic.StateManagedCompositeControl class" Url="html/bbe9a884-b038-425a-f404-fd3cc1af434d.htm" />
+  <HelpKINode Title="KPComponents.Generic.StateManagedItem class" Url="html/bbc2b2a9-9ed9-2dcb-beca-20a16a96a49e.htm" />
+  <HelpKINode Title="KPComponents.KPAlert namespace" Url="html/51b49586-8f75-a2b4-e33d-2efca7f63b18.htm" />
+  <HelpKINode Title="KPComponents.KPAlert.KPAlert class" Url="html/f01bcc73-5940-48b4-3d42-a7ace1a60359.htm" />
+  <HelpKINode Title="KPComponents.KPAlert.KPAlertTypeEnum enumeration" Url="html/229b5e1d-3e87-b317-d6b2-f971d7655475.htm" />
+  <HelpKINode Title="KPComponents.KPAssetLoader class" Url="html/915661a5-3886-560c-02ad-2acdf4033ccd.htm" />
+  <HelpKINode Title="KPComponents.KPBooleanModel class" Url="html/bc78f1c4-f6c5-0d1c-58ed-8a7f59974e54.htm" />
+  <HelpKINode Title="KPComponents.KPButtonControl class" Url="html/9e80c028-6257-6414-59c9-363247123000.htm" />
+  <HelpKINode Title="KPComponents.KPCaptionControl class" Url="html/7bf3d910-3280-32b7-c3cb-13aba55b8963.htm" />
+  <HelpKINode Title="KPComponents.KPCheckBoxField class" Url="html/f53fb41c-c943-b82b-7e38-c6f2249dcfc4.htm" />
+  <HelpKINode Title="KPComponents.KPColumnModel class" Url="html/f3a204db-b8b2-6f24-a839-871f2b93f328.htm" />
+  <HelpKINode Title="KPComponents.KPComboBox class" Url="html/f40ab784-feef-2531-04b8-ac9e1419896d.htm" />
+  <HelpKINode Title="KPComponents.KPComboBoxField class" Url="html/a3c6635b-3409-922f-5365-a54886ab0d32.htm" />
+  <HelpKINode Title="KPComponents.KPComboBoxFieldItemCollection class" Url="html/df24aa92-8440-c34b-2bf3-9cc63eb31edc.htm" />
+  <HelpKINode Title="KPComponents.KPComboBoxItemField class" Url="html/56804acd-6c88-5751-feda-b373e3d208cf.htm" />
+  <HelpKINode Title="KPComponents.KPData namespace" Url="html/1c4c1507-d278-b789-108f-6c682ca3d815.htm" />
+  <HelpKINode Title="KPComponents.KPData.IKPComponentData interface" Url="html/dbb41a48-f2de-a3e1-fad4-35e67058f5e8.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate namespace" Url="html/f2f2923f-6c3c-a797-4e86-be32c80adc1e.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPAfterControlsCreated delegate" Url="html/bc5595f4-2c7f-b35b-413b-a78394a4b372.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPCheckBoxSelect delegate" Url="html/072441c8-6768-0f4a-a3a9-8ba5bae79035.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPComboSelectChange delegate" Url="html/719dc1d6-01dc-9c53-0a7d-53ed4bdf584b.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPCriterionFilter delegate" Url="html/1a675f93-182c-8c14-93d2-2d01322d4e1a.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPGetObjectDataSource delegate" Url="html/0d903a61-e5b6-e114-0c25-99a3eae66ff8.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPOrder delegate" Url="html/85679fa1-9118-a3c7-bfcc-cf017f721efa.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPRetrieveComboItems delegate" Url="html/aebe4a68-d274-7ed8-7686-57e53dcd92d2.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPSenderEntity delegate" Url="html/48d97b66-f704-9dee-135f-942cf9164c30.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPSenderEntityBefore delegate" Url="html/2178d3e5-eaff-a3a5-fd43-31995ae7b822.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPSenderEntityBO delegate" Url="html/eaa07efa-8f57-529e-95b3-7984b7bcb417.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPTextLostFocus delegate" Url="html/79c36a56-aecc-a8e7-cfc2-50317e2e52fa.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPTextPasswordLostFocus delegate" Url="html/884603fd-4384-f2ae-6ab8-e88ac28e09a6.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPZoomClick delegate" Url="html/288087cd-1738-f9e5-410d-1a41e2892a26.htm" />
+  <HelpKINode Title="KPComponents.KPDelegate.KPZoomLostFocus delegate" Url="html/ff333e45-ba42-723f-a697-1eaf3a976f0d.htm" />
+  <HelpKINode Title="KPComponents.KPEntityModel class" Url="html/c35dbc0f-6cf1-60ad-f718-7cb23cf748c1.htm" />
+  <HelpKINode Title="KPComponents.KPEnumModel class" Url="html/8ff1f22e-ece2-424d-f16e-57adc994f14e.htm" />
+  <HelpKINode Title="KPComponents.KPEvent namespace" Url="html/1ee727dd-d557-cd01-c53c-490d1e746338.htm" />
+  <HelpKINode Title="KPComponents.KPEvent.KPButtonEventsArgs class" Url="html/f6b7b756-2dbf-168c-2535-3e53017cc3fd.htm" />
+  <HelpKINode Title="KPComponents.KPForm namespace" Url="html/dcefa90a-2dbd-9925-1c31-410676e0455b.htm" />
+  <HelpKINode Title="KPComponents.KPForm.KPFormButtonModelCollection class" Url="html/503420f1-ddd2-d4b8-4e37-feadab2db215.htm" />
+  <HelpKINode Title="KPComponents.KPForm.KPFormItemFactory class" Url="html/e9069c17-b48f-785d-b470-77181e27d19d.htm" />
+  <HelpKINode Title="KPComponents.KPForm.KPFormItemModelCollection class" Url="html/58b353f9-8d87-46bf-8ae1-8056921f83ad.htm" />
+  <HelpKINode Title="KPComponents.KPForm.KPFormTabModelCollection class" Url="html/ce4a20fc-dee8-a30e-8162-bc213f1f83c6.htm" />
+  <HelpKINode Title="KPComponents.KPForm.KPViewButtonModelCollection class" Url="html/80414d1c-5981-9c36-0299-dadee16c2bbe.htm" />
+  <HelpKINode Title="KPComponents.KPFormBaseModel class" Url="html/51b3d94e-96ee-528f-f366-cbdb22749f31.htm" />
+  <HelpKINode Title="KPComponents.KPFormButtonModel class" Url="html/b2091a4f-4840-7836-a355-b36aa64112f7.htm" />
+  <HelpKINode Title="KPComponents.KPFormButtonSimple class" Url="html/bc06a31c-e16d-8e64-2ec6-512dad1725f1.htm" />
+  <HelpKINode Title="KPComponents.KPFormButtonSimpleControl class" Url="html/48d6c455-0d71-8255-bed2-155b4ca7236f.htm" />
+  <HelpKINode Title="KPComponents.KPFormControl class" Url="html/06e95900-dd46-1304-33e7-f3f94a40dc5e.htm" />
+  <HelpKINode Title="KPComponents.KPFormGridField class" Url="html/933a4f54-56e7-8bf5-9d88-f8a84cc72963.htm" />
+  <HelpKINode Title="KPComponents.KPFormGridFieldCollection class" Url="html/01135dcd-cf9b-7a75-6fb3-067be4e31bec.htm" />
+  <HelpKINode Title="KPComponents.KPFormGridModel class" Url="html/dc382fb9-2b5e-4db3-d695-6f89971e937e.htm" />
+  <HelpKINode Title="KPComponents.KPFormGridModelCollection class" Url="html/6e04e1f4-868c-037f-0a4f-1f3f0b4d2538.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemButton class" Url="html/7d97733a-f3e3-039c-9471-7b840bba780e.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemButtonControl class" Url="html/9d10d2fc-2d0a-1803-3326-719d28ccf467.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemCheckBox class" Url="html/a7796395-e18b-9d4d-2856-c7ad903a56ce.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemCheckBoxControl class" Url="html/2ef6b57d-f4a8-c6d3-bb34-2466bc6179fa.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemCombo class" Url="html/511fecfa-47c9-70a9-262f-8eddaedd8b3e.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemComboControl class" Url="html/e0ffaaf5-e148-5f22-edda-2026e5b67e57.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemControlBase(Of FormItemType) class" Url="html/3ac582a7-db75-4180-639d-c7f779f05093.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemControlBase&lt;FormItemType&gt; class" Url="html/3ac582a7-db75-4180-639d-c7f779f05093.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemDateTime class" Url="html/064c3ad9-e016-ccaa-3db7-97a0b966b59c.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemDateTimeControl class" Url="html/851353df-5980-3499-c506-ecfcbe568ccc.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemEntity class" Url="html/ea4f71b8-b4d5-f6c7-db52-66dc6e1573bd.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemEntityControl class" Url="html/a3e8ec67-8b40-8f73-8ea1-9260b6503b26.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemGrid class" Url="html/fe0a8b27-2d04-2890-cf41-7e6476a85c7f.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemGridControl class" Url="html/af8a9022-2669-a4f7-0a94-25449d247fa0.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemKey class" Url="html/cb350d23-18b8-9094-8fb2-e849d77029cb.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemKeyControl class" Url="html/610edb25-e8ca-331a-ce0e-30d8cb0b3702.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemModel class" Url="html/f1e4f8b4-4edc-a00e-b66a-e04f893f045b.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemModelEntityField class" Url="html/b94b98fe-7171-5ae0-e230-e9650a827595.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemModelField class" Url="html/07785872-7dea-ef46-8087-365ea62f7762.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemPassword class" Url="html/5a35c401-70cb-c1de-cdfe-6ec2fac0bf9d.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemPasswordControl class" Url="html/ec284c7d-d228-17e4-875e-dd036f5813aa.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemSpacer class" Url="html/a0731cd4-c2ae-b99c-623a-0266e71f3c02.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemSpacerControl class" Url="html/87546e15-edac-0aa9-a18f-17e587abe473.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemText class" Url="html/78f035f1-188b-f527-02be-62751d73ae86.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemTextControl class" Url="html/7ce34a79-8bef-8c63-7f88-794a51b66f49.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemZoom class" Url="html/0c4161c6-5553-5f81-d189-ca8056e4b933.htm" />
+  <HelpKINode Title="KPComponents.KPFormItemZoomControl class" Url="html/6c4ccd3a-bec1-3c00-bc16-ba884a703f82.htm" />
+  <HelpKINode Title="KPComponents.KPFormTabControl class" Url="html/ce6da447-4657-486b-5ab1-a975aa0274ca.htm" />
+  <HelpKINode Title="KPComponents.KPFormTabModel class" Url="html/0a88b983-d623-f042-8a5d-6becc6802b64.htm" />
+  <HelpKINode Title="KPComponents.KPFormZoomModel class" Url="html/55ea8944-8a0e-bd37-b66d-72e495434d25.htm" />
+  <HelpKINode Title="KPComponents.KPFormZoomModelCollection class" Url="html/6041f77e-e5fd-46d0-b82b-6f1754798e90.htm" />
+  <HelpKINode Title="KPComponents.KPGeneric namespace" Url="html/657f73eb-7e83-3551-74a5-92588e6ef52d.htm" />
+  <HelpKINode Title="KPComponents.KPGeneric.GenericComparer class" Url="html/b61c75d2-a319-4d1d-4d4e-7ea4d897b062.htm" />
+  <HelpKINode Title="KPComponents.KPGridControl class" Url="html/02f4fc08-4850-1537-e8f1-e27446b3078a.htm" />
+  <HelpKINode Title="KPComponents.KPGridViewControl class" Url="html/b52a401c-23e1-865d-239c-3740868a5601.htm" />
+  <HelpKINode Title="KPComponents.KPHiddenControl class" Url="html/a9d2ece4-ca69-d9a5-634e-c2cf00f206df.htm" />
+  <HelpKINode Title="KPComponents.KPItemModel class" Url="html/092e5903-9ffc-64c2-50fc-26a48a7be666.htm" />
+  <HelpKINode Title="KPComponents.KPItemTextModel class" Url="html/d7d56383-134e-5def-fb70-85f2e846af5f.htm" />
+  <HelpKINode Title="KPComponents.KPLabelControl class" Url="html/0940670b-9dc7-b4bb-d60e-f575645c359f.htm" />
+  <HelpKINode Title="KPComponents.KPMasterPage class" Url="html/2787db0e-db08-4f50-24e7-59bfc93c2808.htm" />
+  <HelpKINode Title="KPComponents.KPMenuControl class" Url="html/10d877ab-95e5-94b0-436d-63bb70e3da6d.htm" />
+  <HelpKINode Title="KPComponents.KPPage(Of PageEnum) class" Url="html/5671ee6b-cfc7-d5bd-17b9-7eeedfc0c52c.htm" />
+  <HelpKINode Title="KPComponents.KPPage&lt;PageEnum&gt; class" Url="html/5671ee6b-cfc7-d5bd-17b9-7eeedfc0c52c.htm" />
+  <HelpKINode Title="KPComponents.KPPageBase class" Url="html/cc5e5105-f646-819a-a18e-f15189d8c171.htm" />
+  <HelpKINode Title="KPComponents.KPReportControl class" Url="html/0260d334-202c-537b-30cc-0df60b2a2b76.htm" />
+  <HelpKINode Title="KPComponents.KPSecurity namespace" Url="html/2fa19e79-c419-ea76-cce5-320a0034851a.htm" />
+  <HelpKINode Title="KPComponents.KPSecurity.KPFormsAuthentication class" Url="html/7c0deb85-f454-8776-84fe-25cfc3b3c4aa.htm" />
+  <HelpKINode Title="KPComponents.KPSession namespace" Url="html/8a6d96e4-5cc1-b457-8904-eef4a85a53cd.htm" />
+  <HelpKINode Title="KPComponents.KPSession.KPSessionData class" Url="html/ec978c71-8daa-49d2-f2e2-85a75975845a.htm" />
+  <HelpKINode Title="KPComponents.KPSession.KPSessionHelper class" Url="html/87b79f98-ef4f-e432-9a25-37a3a887318d.htm" />
+  <HelpKINode Title="KPComponents.KPTabControl class" Url="html/a9148398-1bdf-5f22-da94-8a9d044033c9.htm" />
+  <HelpKINode Title="KPComponents.KPTextBoxField class" Url="html/698870fd-67ee-f587-7127-be7a697c4621.htm" />
+  <HelpKINode Title="KPComponents.KPTextBoxFire class" Url="html/e30564ad-bef3-21eb-86ae-2d529a6a6786.htm" />
+  <HelpKINode Title="KPComponents.KPTextBoxZoomField class" Url="html/301c9b7e-b9f2-9342-9d43-e80335440125.htm" />
+  <HelpKINode Title="KPComponents.KPViewButtonModel class" Url="html/b6191dce-eb6d-b1c2-fb3f-327c9e78bdda.htm" />
+  <HelpKINode Title="KPComponents.KPViewButtonSimple class" Url="html/72624138-d6e9-015e-e130-6d6eee1e26e7.htm" />
+  <HelpKINode Title="KPComponents.KPZoomControl class" Url="html/864e16a3-c593-6547-c23d-b23a22b4922b.htm" />
+  <HelpKINode Title="KPComponents.KPZoomField class" Url="html/a3569fc2-4b4e-eaf1-0a37-0b5404e9edae.htm" />
+  <HelpKINode Title="KPControlExtension class">
+    <HelpKINode Title="KPControlExtension Class" Url="html/6f5c4c47-4b44-9fb2-4add-cc8be3e0fa12.htm" />
+    <HelpKINode Title="about KPControlExtension class" Url="html/6f5c4c47-4b44-9fb2-4add-cc8be3e0fa12.htm" />
+    <HelpKINode Title="methods" Url="html/044e88d1-ce73-4d9c-e2d5-debbeebcfb79.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPControlExtension.BetterFindControl(Of T) method" Url="html/f3200d7b-5ac1-56e7-5623-54a78bb06cce.htm" />
+  <HelpKINode Title="KPControlExtension.BetterFindControl&lt;T&gt; method" Url="html/f3200d7b-5ac1-56e7-5623-54a78bb06cce.htm" />
+  <HelpKINode Title="KPControlExtension.GetWebControlsType method" Url="html/6cd24a2a-37f1-bbf1-c22d-6037942b8a36.htm" />
+  <HelpKINode Title="KPCriterionFilter delegate" Url="html/1a675f93-182c-8c14-93d2-2d01322d4e1a.htm" />
+  <HelpKINode Title="KPCriterionFilterDelegate property" Url="html/022eb3a9-c8e2-536c-5483-0a91d9fd974e.htm" />
+  <HelpKINode Title="KPCssClass class">
+    <HelpKINode Title="KPCssClass Class" Url="html/a75580b3-02d9-79f8-a87b-bd1909ba6085.htm" />
+    <HelpKINode Title="about KPCssClass class" Url="html/a75580b3-02d9-79f8-a87b-bd1909ba6085.htm" />
+    <HelpKINode Title="fields" Url="html/008b73cc-e6cc-65c2-a702-0ee23f55cc48.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPCssClass.ControlButton field" Url="html/6b69803c-1efa-071a-00d1-ac5344ce2d35.htm" />
+  <HelpKINode Title="KPCssClass.ControlCheckBox field" Url="html/04c0e633-13a6-1133-dc4a-98b6060a208e.htm" />
+  <HelpKINode Title="KPCssClass.ControlComboBox field" Url="html/646b2094-1c9b-1850-1904-df506a034543.htm" />
+  <HelpKINode Title="KPCssClass.ControlInput field" Url="html/18dae805-2b79-0bb5-679f-773128174f83.htm" />
+  <HelpKINode Title="KPCssClass.InvalidateField field" Url="html/f53528b4-4567-7294-646b-ed3d9516fa41.htm" />
+  <HelpKINode Title="KPDeleteLine event" Url="html/5d622b9b-737c-3e71-da97-ec5e19273c8b.htm" />
+  <HelpKINode Title="KPEntityModel class">
+    <HelpKINode Title="KPEntityModel Class" Url="html/c35dbc0f-6cf1-60ad-f718-7cb23cf748c1.htm" />
+    <HelpKINode Title="about KPEntityModel class" Url="html/c35dbc0f-6cf1-60ad-f718-7cb23cf748c1.htm" />
+    <HelpKINode Title="constructor" Url="html/0100d8ff-ecd2-9143-90fa-63da241e4409.htm" />
+    <HelpKINode Title="properties" Url="html/190564b0-8f78-a180-dbf1-1b4cc023916f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPEntityModel.FieldNameDescription property" Url="html/47f65a5d-d561-e79f-6f8e-77a453500176.htm" />
+  <HelpKINode Title="KPEntityModel.KPEntityModel constructor" Url="html/0100d8ff-ecd2-9143-90fa-63da241e4409.htm" />
+  <HelpKINode Title="KPEnumModel class">
+    <HelpKINode Title="KPEnumModel Class" Url="html/8ff1f22e-ece2-424d-f16e-57adc994f14e.htm" />
+    <HelpKINode Title="about KPEnumModel class" Url="html/8ff1f22e-ece2-424d-f16e-57adc994f14e.htm" />
+    <HelpKINode Title="constructor" Url="html/8b1ac66a-55db-4f1d-5eb0-a5beb73f65c1.htm" />
+    <HelpKINode Title="properties" Url="html/70ba0e6b-6223-0515-fffc-a7e3260a3f09.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPEnumModel.KPEnumModel constructor" Url="html/8b1ac66a-55db-4f1d-5eb0-a5beb73f65c1.htm" />
+  <HelpKINode Title="KPEnumModel.NamespaceEnum property" Url="html/62dc21e4-77c7-e37e-7aee-0226e6b069c6.htm" />
+  <HelpKINode Title="KPEventAfterControlsCreated event" Url="html/4df57733-c55c-6846-7485-6ca2bfeca844.htm" />
+  <HelpKINode Title="KPEventAfterDelete event" Url="html/68ddcc57-7a7e-fd26-ad71-a63ccd7e61bf.htm" />
+  <HelpKINode Title="KPEventAfterLoad event" Url="html/14bfa349-8b79-399f-5c20-d337e278162f.htm" />
+  <HelpKINode Title="KPEventAfterSaveClick event" Url="html/87e83025-357a-5868-e5e3-a6d9e1c1502e.htm" />
+  <HelpKINode Title="KPEventBeforeDelete event" Url="html/25deee71-e330-547f-bc47-928d5c594f0f.htm" />
+  <HelpKINode Title="KPEventBeforeEdit event" Url="html/0cd9002f-0c33-2db9-b852-1fc72e0bb5a6.htm" />
+  <HelpKINode Title="KPEventBeforeNew event" Url="html/a0f63924-d1a6-d775-eb36-eb139e2d3b45.htm" />
+  <HelpKINode Title="KPEventCheckBoxSelect event" Url="html/8e5d06b7-0aa3-dea5-530f-c734c4fc651a.htm" />
+  <HelpKINode Title="KPEventComboSelectChange event" Url="html/1759502d-c071-919a-224e-88576aa6b5f7.htm" />
+  <HelpKINode Title="KPEventCriterionFilter event">
+    <HelpKINode Title="KPFormZoomModel.KPEventCriterionFilter Event" Url="html/11317d09-7d3d-026d-3afc-5e64e6ae9316.htm" />
+    <HelpKINode Title="KPGridControl.KPEventCriterionFilter Event" Url="html/82a77b74-b495-c029-747f-df64c0470b5a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPEventGetData event" Url="html/48a1abfc-17c9-2692-e03b-d76c4af55ede.htm" />
+  <HelpKINode Title="KPEventOrder event">
+    <HelpKINode Title="KPFormZoomModel.KPEventOrder Event" Url="html/136c4191-84d0-82bd-5105-d8192dfb904b.htm" />
+    <HelpKINode Title="KPGridControl.KPEventOrder Event" Url="html/a3a9ba78-1b56-cc2b-a294-e500e50f7621.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPEventRetrieveComboItems event" Url="html/40285184-ebca-d787-2337-bdd3ab618b1e.htm" />
+  <HelpKINode Title="KPEventSaveClick event" Url="html/809c072a-c8b6-4ec1-2ae7-e9ba4e435e84.htm" />
+  <HelpKINode Title="KPEventTextLostFocus event">
+    <HelpKINode Title="KPFormItemDateTime.KPEventTextLostFocus Event" Url="html/e285d404-04b3-35e8-847c-b3dd4f306ec4.htm" />
+    <HelpKINode Title="KPFormItemPassword.KPEventTextLostFocus Event" Url="html/7fde6758-3c7f-c899-d4f4-4a381f098f98.htm" />
+    <HelpKINode Title="KPFormItemText.KPEventTextLostFocus Event" Url="html/1723e8cb-d803-1c53-a624-28308d79f7d4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPEventZoomClickClose event" Url="html/b2fe8ae5-a226-069a-bae8-ec114bad8d4f.htm" />
+  <HelpKINode Title="KPEventZoomClickOK event" Url="html/6d1e6b15-55cb-1c51-f0c2-8e3625e3c14a.htm" />
+  <HelpKINode Title="KPEventZoomLostFocus event" Url="html/c3ec28e1-a58e-b3ce-4d0c-c0cac91c6905.htm" />
+  <HelpKINode Title="KPExtension namespace" Url="html/210eee95-5134-9b48-8fbf-2cc29af126c9.htm" />
+  <HelpKINode Title="KPExtension.KPControlExtension class" Url="html/6f5c4c47-4b44-9fb2-4add-cc8be3e0fa12.htm" />
+  <HelpKINode Title="KPFormBaseModel class">
+    <HelpKINode Title="KPFormBaseModel Class" Url="html/51b3d94e-96ee-528f-f366-cbdb22749f31.htm" />
+    <HelpKINode Title="about KPFormBaseModel class" Url="html/51b3d94e-96ee-528f-f366-cbdb22749f31.htm" />
+    <HelpKINode Title="constructor" Url="html/948d99a2-6151-11d9-53b0-4a61873fc2ac.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormBaseModel.KPFormBaseModel constructor" Url="html/948d99a2-6151-11d9-53b0-4a61873fc2ac.htm" />
+  <HelpKINode Title="KPFormButtonModel class">
+    <HelpKINode Title="KPFormButtonModel Class" Url="html/b2091a4f-4840-7836-a355-b36aa64112f7.htm" />
+    <HelpKINode Title="about KPFormButtonModel class" Url="html/b2091a4f-4840-7836-a355-b36aa64112f7.htm" />
+    <HelpKINode Title="constructor" Url="html/442552ea-ba74-0b85-2531-d2f5013b4478.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormButtonModel.KPFormButtonModel constructor" Url="html/442552ea-ba74-0b85-2531-d2f5013b4478.htm" />
+  <HelpKINode Title="KPFormButtonModelCollection class">
+    <HelpKINode Title="KPFormButtonModelCollection Class" Url="html/503420f1-ddd2-d4b8-4e37-feadab2db215.htm" />
+    <HelpKINode Title="about KPFormButtonModelCollection class" Url="html/503420f1-ddd2-d4b8-4e37-feadab2db215.htm" />
+    <HelpKINode Title="constructor" Url="html/527d5ea5-a986-f3f9-01e3-a89c933e6bc7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormButtonModelCollection.KPFormButtonModelCollection constructor" Url="html/527d5ea5-a986-f3f9-01e3-a89c933e6bc7.htm" />
+  <HelpKINode Title="KPFormButtonSimple class">
+    <HelpKINode Title="KPFormButtonSimple Class" Url="html/bc06a31c-e16d-8e64-2ec6-512dad1725f1.htm" />
+    <HelpKINode Title="about KPFormButtonSimple class" Url="html/bc06a31c-e16d-8e64-2ec6-512dad1725f1.htm" />
+    <HelpKINode Title="constructor" Url="html/21c2239f-8ad8-6be3-a95d-ca97ee37347a.htm" />
+    <HelpKINode Title="events" Url="html/0ccdb639-3efb-d2e9-0d9c-f52097d2db7b.htm" />
+    <HelpKINode Title="methods" Url="html/4b7ecb7b-2f25-7ecf-95c3-2f6f505e7732.htm" />
+    <HelpKINode Title="properties" Url="html/3687e2d4-1619-25f1-471f-34d186747033.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormButtonSimple.Click event" Url="html/ee310996-31b5-1484-6425-13c4762b1f5b.htm" />
+  <HelpKINode Title="KPFormButtonSimple.KPFormButtonSimple constructor" Url="html/21c2239f-8ad8-6be3-a95d-ca97ee37347a.htm" />
+  <HelpKINode Title="KPFormButtonSimple.OnClick method" Url="html/a0fa2c6f-d8e2-85de-7f92-4fbd5f8ed0e2.htm" />
+  <HelpKINode Title="KPFormButtonSimple.Title property" Url="html/f9dd1fcc-e9a0-edae-fc30-3df23da2a93c.htm" />
+  <HelpKINode Title="KPFormButtonSimpleControl class">
+    <HelpKINode Title="KPFormButtonSimpleControl Class" Url="html/48d6c455-0d71-8255-bed2-155b4ca7236f.htm" />
+    <HelpKINode Title="about KPFormButtonSimpleControl class" Url="html/48d6c455-0d71-8255-bed2-155b4ca7236f.htm" />
+    <HelpKINode Title="constructor" Url="html/f6e80c01-e03b-87b5-2ec5-687a24faa847.htm" />
+    <HelpKINode Title="methods" Url="html/bf929557-3b4f-8c29-6673-5de9b6c8d41d.htm" />
+    <HelpKINode Title="properties" Url="html/56566ba8-3a55-eea0-5f59-f4c45d5b3c0e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormButtonSimpleControl.ButtonItem property" Url="html/14297a92-a505-d052-a0bb-044e48b91d90.htm" />
+  <HelpKINode Title="KPFormButtonSimpleControl.ControlButton property" Url="html/0c1ae911-e22a-730d-ec61-6144749a27b6.htm" />
+  <HelpKINode Title="KPFormButtonSimpleControl.CreateChildControls method" Url="html/ec0f4a38-3881-923f-5173-ea446e9dcec2.htm" />
+  <HelpKINode Title="KPFormButtonSimpleControl.FormControl property" Url="html/03be5bd0-6e7c-da4d-2019-d69263adb43d.htm" />
+  <HelpKINode Title="KPFormButtonSimpleControl.KPFormButtonSimpleControl constructor" Url="html/f6e80c01-e03b-87b5-2ec5-687a24faa847.htm" />
+  <HelpKINode Title="KPFormButtonSimpleControls property" Url="html/86874508-6574-599d-9d9a-936e9c072122.htm" />
+  <HelpKINode Title="KPFormControl class">
+    <HelpKINode Title="KPFormControl Class" Url="html/06e95900-dd46-1304-33e7-f3f94a40dc5e.htm" />
+    <HelpKINode Title="about KPFormControl class" Url="html/06e95900-dd46-1304-33e7-f3f94a40dc5e.htm" />
+    <HelpKINode Title="constructor" Url="html/81c2b36d-e601-ee41-eced-557ce45bb018.htm" />
+    <HelpKINode Title="events" Url="html/3f4bb27b-0ecc-283f-91e8-94e75efcc19a.htm" />
+    <HelpKINode Title="methods" Url="html/7532ad13-2be9-33eb-22a5-8d0e74b55f03.htm" />
+    <HelpKINode Title="properties" Url="html/e96c9e61-5121-e57c-2410-54c01c2cc9c5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormControl.AddErrorView method" Url="html/7c43392c-9ac8-5825-1085-2a6088d47692.htm" />
+  <HelpKINode Title="KPFormControl.CloneDataSource method" Url="html/36d11ca8-751f-2af8-f688-0c4b2be74102.htm" />
+  <HelpKINode Title="KPFormControl.ClosePage method" Url="html/83d851dc-bf88-cb6b-7f43-36bd290dc2ea.htm" />
+  <HelpKINode Title="KPFormControl.ClosePageAndReloadView method" Url="html/0210c2b7-05a9-1904-51f7-3769d18f750c.htm" />
+  <HelpKINode Title="KPFormControl.Controls property" Url="html/601e427f-f7f9-ff2c-b076-7d670886f0d5.htm" />
+  <HelpKINode Title="KPFormControl.CreateChildControls method" Url="html/ae1e6f52-550e-224a-36d6-7bc61a9c2300.htm" />
+  <HelpKINode Title="KPFormControl.CreateFormItemFactory method" Url="html/f4005e8a-3438-febb-2347-f083f54aea2a.htm" />
+  <HelpKINode Title="KPFormControl.DataSource property" Url="html/96257cfa-62df-3bae-39ce-b129abb8be93.htm" />
+  <HelpKINode Title="KPFormControl.DataSourceAltered property" Url="html/2e11e0ee-caf5-362e-5707-a04c4b15c10a.htm" />
+  <HelpKINode Title="KPFormControl.EnableSave property" Url="html/7fb9bedd-e9a1-1942-9370-c4f9dcfc05b0.htm" />
+  <HelpKINode Title="KPFormControl.ErrorsViewer property" Url="html/35551bd4-846e-c0d3-5c8a-89d78caa7c4d.htm" />
+  <HelpKINode Title="KPFormControl.FormActionState property" Url="html/da1261e7-2871-4eda-1727-48399e58fd75.htm" />
+  <HelpKINode Title="KPFormControl.KPButtonsModel property" Url="html/8e8a48f1-c7b0-6def-1f77-3c66017b77cf.htm" />
+  <HelpKINode Title="KPFormControl.KPColumnsModel property" Url="html/c2ffe084-ca26-ef08-f234-b160c6126a08.htm" />
+  <HelpKINode Title="KPFormControl.KPEventAfterControlsCreated event" Url="html/4df57733-c55c-6846-7485-6ca2bfeca844.htm" />
+  <HelpKINode Title="KPFormControl.KPEventAfterLoad event" Url="html/14bfa349-8b79-399f-5c20-d337e278162f.htm" />
+  <HelpKINode Title="KPFormControl.KPEventAfterSaveClick event" Url="html/87e83025-357a-5868-e5e3-a6d9e1c1502e.htm" />
+  <HelpKINode Title="KPFormControl.KPEventSaveClick event" Url="html/809c072a-c8b6-4ec1-2ae7-e9ba4e435e84.htm" />
+  <HelpKINode Title="KPFormControl.KPFormControl constructor" Url="html/81c2b36d-e601-ee41-eced-557ce45bb018.htm" />
+  <HelpKINode Title="KPFormControl.KPFormGridConfig property" Url="html/d37b22f1-d3d5-6e98-94f2-c698a4a2cf9e.htm" />
+  <HelpKINode Title="KPFormControl.KPFormZoomConfig property" Url="html/4d3d7b7f-56e1-ad61-c316-4505c7119771.htm" />
+  <HelpKINode Title="KPFormControl.KPSessionData property" Url="html/a7c0d5dd-5d77-cec5-8cb1-20a0a8b1dcbd.htm" />
+  <HelpKINode Title="KPFormControl.KPTabs property" Url="html/1779f95c-18e6-6769-5383-7f198d0fa678.htm" />
+  <HelpKINode Title="KPFormControl.KPTemplate property" Url="html/4b6d0923-3d1e-7753-4667-d59418546442.htm" />
+  <HelpKINode Title="KPFormControl.OnLoad method" Url="html/5c7619ec-1cbd-0438-dfb1-d4cb58999171.htm" />
+  <HelpKINode Title="KPFormControl.OnPreRender method" Url="html/3877e7da-a533-0356-c1fd-dd98b3289c17.htm" />
+  <HelpKINode Title="KPFormControl.RenderContents method" Url="html/be177463-5c48-d2dd-bf67-39aa4526beb2.htm" />
+  <HelpKINode Title="KPFormControl.TypBOEntity property" Url="html/5b963163-a3e6-835c-3932-008ebc42b84f.htm" />
+  <HelpKINode Title="KPFormControl.TypeBONamespace property" Url="html/79be12be-c292-b745-745e-2ca4f7ae0b5e.htm" />
+  <HelpKINode Title="KPFormControl.TypeEntity property" Url="html/4c35e8d6-2990-8488-5be3-e2a0eb9c9f76.htm" />
+  <HelpKINode Title="KPFormControl.TypeEntityNamespace property" Url="html/6a0bd256-43e1-6d5a-60e4-8b6f79ee6c97.htm" />
+  <HelpKINode Title="KPFormGridConfig property">
+    <HelpKINode Title="KPFormControl.KPFormGridConfig Property " Url="html/d37b22f1-d3d5-6e98-94f2-c698a4a2cf9e.htm" />
+    <HelpKINode Title="KPFormItemFactory.KPFormGridConfig Property " Url="html/6814aae7-aa26-320d-0702-48aadaeab287.htm" />
+    <HelpKINode Title="KPFormItemGridControl.KPFormGridConfig Property " Url="html/19a2bcfa-82bc-d0e7-721f-1539ec0685b3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormGridField class">
+    <HelpKINode Title="KPFormGridField Class" Url="html/933a4f54-56e7-8bf5-9d88-f8a84cc72963.htm" />
+    <HelpKINode Title="about KPFormGridField class" Url="html/933a4f54-56e7-8bf5-9d88-f8a84cc72963.htm" />
+    <HelpKINode Title="constructor" Url="html/a0e2708f-be7f-3dac-7569-abccfd497553.htm" />
+    <HelpKINode Title="properties" Url="html/a0a12fd1-9f22-007e-405f-28faa38df865.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormGridField.Field property" Url="html/58fa23e9-3b13-f8bc-234a-1b26c1b70159.htm" />
+  <HelpKINode Title="KPFormGridField.HeaderName property" Url="html/427c4b23-d7dd-9a89-2c83-752befc8c6be.htm" />
+  <HelpKINode Title="KPFormGridField.KPFormGridField constructor" Url="html/a0e2708f-be7f-3dac-7569-abccfd497553.htm" />
+  <HelpKINode Title="KPFormGridField.Mask property" Url="html/1eaec5f2-7062-7526-5e21-249a3589e61a.htm" />
+  <HelpKINode Title="KPFormGridField.Width property" Url="html/9520e48a-1c1c-7b77-2514-ba719d920c59.htm" />
+  <HelpKINode Title="KPFormGridFieldCollection class">
+    <HelpKINode Title="KPFormGridFieldCollection Class" Url="html/01135dcd-cf9b-7a75-6fb3-067be4e31bec.htm" />
+    <HelpKINode Title="about KPFormGridFieldCollection class" Url="html/01135dcd-cf9b-7a75-6fb3-067be4e31bec.htm" />
+    <HelpKINode Title="constructor" Url="html/e2c48281-4f9a-e298-ba83-d6e6e76c0758.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormGridFieldCollection.KPFormGridFieldCollection constructor" Url="html/e2c48281-4f9a-e298-ba83-d6e6e76c0758.htm" />
+  <HelpKINode Title="KPFormGridModel class">
+    <HelpKINode Title="KPFormGridModel Class" Url="html/dc382fb9-2b5e-4db3-d695-6f89971e937e.htm" />
+    <HelpKINode Title="about KPFormGridModel class" Url="html/dc382fb9-2b5e-4db3-d695-6f89971e937e.htm" />
+    <HelpKINode Title="constructor" Url="html/60cd5e64-598e-5600-747c-70f295421e2e.htm" />
+    <HelpKINode Title="events" Url="html/4f28e019-9c19-fce7-9aa0-9c977fc4a241.htm" />
+    <HelpKINode Title="properties" Url="html/7a801fc6-a75b-3071-86fd-6f9ea1a93fd6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormGridModel.AutoGenerateColumns property" Url="html/beb7c677-1d90-f56d-8853-fa495f9d4cef.htm" />
+  <HelpKINode Title="KPFormGridModel.EnableMemoryDataSource property" Url="html/18400b07-a3c6-8ce5-363f-e8367db0992b.htm" />
+  <HelpKINode Title="KPFormGridModel.GridID property" Url="html/435ac261-1251-74db-7cea-f6c012204160.htm" />
+  <HelpKINode Title="KPFormGridModel.KPButtonsModelBottom property" Url="html/8b42f172-5db0-8203-ee86-ea4699defdae.htm" />
+  <HelpKINode Title="KPFormGridModel.KPButtonsModelTop property" Url="html/9e103da0-f272-86cd-d517-16ec27f64439.htm" />
+  <HelpKINode Title="KPFormGridModel.KPEventGetData event" Url="html/48a1abfc-17c9-2692-e03b-d76c4af55ede.htm" />
+  <HelpKINode Title="KPFormGridModel.KPFormGridModel constructor" Url="html/60cd5e64-598e-5600-747c-70f295421e2e.htm" />
+  <HelpKINode Title="KPFormGridModel.KPGetObjectDataSourceDelegate property" Url="html/895ae3fb-9cda-ee68-b7db-1556ffcbe9f1.htm" />
+  <HelpKINode Title="KPFormGridModel.KPGridFieldsConfig property" Url="html/32cca9d7-1084-0a71-4451-51df5c83eadc.htm" />
+  <HelpKINode Title="KPFormGridModelCollection class">
+    <HelpKINode Title="KPFormGridModelCollection Class" Url="html/6e04e1f4-868c-037f-0a4f-1f3f0b4d2538.htm" />
+    <HelpKINode Title="about KPFormGridModelCollection class" Url="html/6e04e1f4-868c-037f-0a4f-1f3f0b4d2538.htm" />
+    <HelpKINode Title="constructor" Url="html/485d5daa-9ca8-d706-574b-dd393ad429ef.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormGridModelCollection.KPFormGridModelCollection constructor" Url="html/485d5daa-9ca8-d706-574b-dd393ad429ef.htm" />
+  <HelpKINode Title="KPFormItemButton class">
+    <HelpKINode Title="KPFormItemButton Class" Url="html/7d97733a-f3e3-039c-9471-7b840bba780e.htm" />
+    <HelpKINode Title="about KPFormItemButton class" Url="html/7d97733a-f3e3-039c-9471-7b840bba780e.htm" />
+    <HelpKINode Title="constructor" Url="html/a1c41bfd-67a8-c09e-607a-34c4006b597f.htm" />
+    <HelpKINode Title="events" Url="html/cafaaff7-72c4-354b-c37c-04613a24ce7e.htm" />
+    <HelpKINode Title="properties" Url="html/1ed599bd-2b55-6de8-71c5-52e9d9fdc16c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemButton.KPClick event" Url="html/ea16142a-67a1-3856-8048-47ea30da6769.htm" />
+  <HelpKINode Title="KPFormItemButton.KPClickDelegate property" Url="html/7d74a43d-0d34-1154-a8b0-182a12800ecd.htm" />
+  <HelpKINode Title="KPFormItemButton.KPFormItemButton constructor" Url="html/a1c41bfd-67a8-c09e-607a-34c4006b597f.htm" />
+  <HelpKINode Title="KPFormItemButton.Title property" Url="html/1351e2c9-1223-b697-9c2c-b88132258cf0.htm" />
+  <HelpKINode Title="KPFormItemButtonControl class">
+    <HelpKINode Title="KPFormItemButtonControl Class" Url="html/9d10d2fc-2d0a-1803-3326-719d28ccf467.htm" />
+    <HelpKINode Title="about KPFormItemButtonControl class" Url="html/9d10d2fc-2d0a-1803-3326-719d28ccf467.htm" />
+    <HelpKINode Title="constructor" Url="html/2a0a6313-329e-8460-190c-cd8383eef3f8.htm" />
+    <HelpKINode Title="methods" Url="html/4f5318e1-7f3e-a45f-dad9-3eab42ed4cd1.htm" />
+    <HelpKINode Title="properties" Url="html/1e1ae987-6907-61d0-fb1e-1842be3dd5c2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemButtonControl.ControlField property" Url="html/f9bad2c7-4517-badd-cd8f-1aa4122e8a2c.htm" />
+  <HelpKINode Title="KPFormItemButtonControl.CreateChildControls method" Url="html/16962ecb-735d-6f02-5310-87d41594b7fe.htm" />
+  <HelpKINode Title="KPFormItemButtonControl.FormItem property" Url="html/1072ba12-162f-4481-028d-15cf493eae49.htm" />
+  <HelpKINode Title="KPFormItemButtonControl.KPFormItemButtonControl constructor" Url="html/2a0a6313-329e-8460-190c-cd8383eef3f8.htm" />
+  <HelpKINode Title="KPFormItemCheckBox class">
+    <HelpKINode Title="KPFormItemCheckBox Class" Url="html/a7796395-e18b-9d4d-2856-c7ad903a56ce.htm" />
+    <HelpKINode Title="about KPFormItemCheckBox class" Url="html/a7796395-e18b-9d4d-2856-c7ad903a56ce.htm" />
+    <HelpKINode Title="constructor" Url="html/3afa6f2a-f451-e68b-0b8d-8d9ec51ae32f.htm" />
+    <HelpKINode Title="events" Url="html/55890bfe-eb7c-a8c1-6af7-a730be5578ff.htm" />
+    <HelpKINode Title="properties" Url="html/22ba0ad9-5613-5c39-e0e0-a9c165b1a4b8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemCheckBox.Description property" Url="html/0ae2fb3a-a1d3-eace-af3c-194a389386ee.htm" />
+  <HelpKINode Title="KPFormItemCheckBox.IsGroupStyleDisplay property" Url="html/d88cca93-28d2-566a-9435-c208435180a7.htm" />
+  <HelpKINode Title="KPFormItemCheckBox.KPCheckBoxSelectDelegate property" Url="html/99f349f2-b2e8-d96a-982a-4f4849731495.htm" />
+  <HelpKINode Title="KPFormItemCheckBox.KPEventCheckBoxSelect event" Url="html/8e5d06b7-0aa3-dea5-530f-c734c4fc651a.htm" />
+  <HelpKINode Title="KPFormItemCheckBox.KPFormItemCheckBox constructor" Url="html/3afa6f2a-f451-e68b-0b8d-8d9ec51ae32f.htm" />
+  <HelpKINode Title="KPFormItemCheckBoxControl class">
+    <HelpKINode Title="KPFormItemCheckBoxControl Class" Url="html/2ef6b57d-f4a8-c6d3-bb34-2466bc6179fa.htm" />
+    <HelpKINode Title="about KPFormItemCheckBoxControl class" Url="html/2ef6b57d-f4a8-c6d3-bb34-2466bc6179fa.htm" />
+    <HelpKINode Title="constructor" Url="html/ebd21060-552a-63aa-9d1a-3bfc0ae7d2e9.htm" />
+    <HelpKINode Title="methods" Url="html/941708f5-d366-ae96-120c-fb499758b09f.htm" />
+    <HelpKINode Title="properties" Url="html/4e72347a-6672-d4cf-8bdf-b7a18f95301a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemCheckBoxControl.ControlField property" Url="html/54c9d5e0-2365-5b15-24ac-beefa0bc0ef8.htm" />
+  <HelpKINode Title="KPFormItemCheckBoxControl.CreateChildControls method" Url="html/83dcbaa7-8c86-cc0c-e1ad-6cd5ce3cf420.htm" />
+  <HelpKINode Title="KPFormItemCheckBoxControl.FormItem property" Url="html/9f71b62f-b75c-e719-5fd2-6eb960923c1c.htm" />
+  <HelpKINode Title="KPFormItemCheckBoxControl.KPFormItemCheckBoxControl constructor" Url="html/ebd21060-552a-63aa-9d1a-3bfc0ae7d2e9.htm" />
+  <HelpKINode Title="KPFormItemCombo class">
+    <HelpKINode Title="KPFormItemCombo Class" Url="html/511fecfa-47c9-70a9-262f-8eddaedd8b3e.htm" />
+    <HelpKINode Title="about KPFormItemCombo class" Url="html/511fecfa-47c9-70a9-262f-8eddaedd8b3e.htm" />
+    <HelpKINode Title="constructor" Url="html/cc472502-6fec-c5ea-3b06-e90d52586a96.htm" />
+    <HelpKINode Title="events" Url="html/3e286364-4343-c427-aabf-b115d8c88179.htm" />
+    <HelpKINode Title="methods" Url="html/1727ade7-e2ea-77f9-3726-cc39574d3e7d.htm" />
+    <HelpKINode Title="properties" Url="html/0779c849-388f-1157-9379-fb392025107f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemCombo.DataName property" Url="html/cac2be3f-b762-4590-f2c2-d8c8982da164.htm" />
+  <HelpKINode Title="KPFormItemCombo.DataValue property" Url="html/7373764b-6b01-aac8-d6d3-620e789e0ce2.htm" />
+  <HelpKINode Title="KPFormItemCombo.GetRetrieveComboItems method" Url="html/b8bcbd38-3448-d7e8-fb63-287b33ea9499.htm" />
+  <HelpKINode Title="KPFormItemCombo.KPComboSelectChangeDelegate property" Url="html/3a7f06e6-71a7-5753-7e8b-393de337205f.htm" />
+  <HelpKINode Title="KPFormItemCombo.KPEventComboSelectChange event" Url="html/1759502d-c071-919a-224e-88576aa6b5f7.htm" />
+  <HelpKINode Title="KPFormItemCombo.KPEventRetrieveComboItems event" Url="html/40285184-ebca-d787-2337-bdd3ab618b1e.htm" />
+  <HelpKINode Title="KPFormItemCombo.KPFormItemCombo constructor" Url="html/cc472502-6fec-c5ea-3b06-e90d52586a96.htm" />
+  <HelpKINode Title="KPFormItemCombo.NamespaceEnum property" Url="html/f94a587a-af07-bbaf-1433-b1f75137895e.htm" />
+  <HelpKINode Title="KPFormItemCombo.Title property" Url="html/c385ca71-26e8-9dcf-5f32-6add7ef06294.htm" />
+  <HelpKINode Title="KPFormItemComboControl class">
+    <HelpKINode Title="KPFormItemComboControl Class" Url="html/e0ffaaf5-e148-5f22-edda-2026e5b67e57.htm" />
+    <HelpKINode Title="about KPFormItemComboControl class" Url="html/e0ffaaf5-e148-5f22-edda-2026e5b67e57.htm" />
+    <HelpKINode Title="constructor" Url="html/de926654-e48a-b18d-b8dd-627c21d5e28b.htm" />
+    <HelpKINode Title="methods" Url="html/c0832218-e4bb-2a2a-15a7-4bd0b01b8885.htm" />
+    <HelpKINode Title="properties" Url="html/bad85cc4-6fe1-b7fe-8557-13a8aab5a00a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemComboControl.ControlField property" Url="html/13bd33d2-2011-6446-1b40-41ad3c01c2c7.htm" />
+  <HelpKINode Title="KPFormItemComboControl.ControlLabel property" Url="html/e2023923-4eea-b15f-ea10-419e13f2d61b.htm" />
+  <HelpKINode Title="KPFormItemComboControl.CreateChildControls method" Url="html/c4bab913-ccb8-5004-423e-2518c2b309db.htm" />
+  <HelpKINode Title="KPFormItemComboControl.FormItem property" Url="html/7a1d1fef-f908-0abb-acb9-4a71831be8f1.htm" />
+  <HelpKINode Title="KPFormItemComboControl.KPFormItemComboControl constructor" Url="html/de926654-e48a-b18d-b8dd-627c21d5e28b.htm" />
+  <HelpKINode Title="KPFormItemControlBase(Of FormItemType) class">
+    <HelpKINode Title="KPFormItemControlBase(FormItemType) Class" Url="html/3ac582a7-db75-4180-639d-c7f779f05093.htm" />
+    <HelpKINode Title="about KPFormItemControlBase(Of FormItemType) class" Url="html/3ac582a7-db75-4180-639d-c7f779f05093.htm" />
+    <HelpKINode Title="constructor" Url="html/96986db7-665f-3ec8-2dc6-06c511ccfaeb.htm" />
+    <HelpKINode Title="methods" Url="html/7eb34627-b2bb-0d80-636f-dfa56913649d.htm" />
+    <HelpKINode Title="properties" Url="html/9eebcd39-0f03-5279-aa0b-3fe5b5836b90.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemControlBase(Of FormItemType).CreateIDField method" Url="html/f67adb3c-1ec5-b0e0-ffd8-24beb8eace15.htm" />
+  <HelpKINode Title="KPFormItemControlBase(Of FormItemType).CreateIDLabel method" Url="html/d796c4c4-f508-ba30-66c4-f13024978457.htm" />
+  <HelpKINode Title="KPFormItemControlBase(Of FormItemType).FormControl property" Url="html/78efa4d9-7e44-c877-7a1a-774fe64d019a.htm" />
+  <HelpKINode Title="KPFormItemControlBase(Of FormItemType).FormItem property" Url="html/fc4b63dc-a01d-5575-f5e6-36c06149147a.htm" />
+  <HelpKINode Title="KPFormItemControlBase(Of FormItemType).ItemValue property" Url="html/40b49fff-79e9-1321-ab6a-2a900eb3b15a.htm" />
+  <HelpKINode Title="KPFormItemControlBase(Of FormItemType).KPFormItemControlBase constructor" Url="html/96986db7-665f-3ec8-2dc6-06c511ccfaeb.htm" />
+  <HelpKINode Title="KPFormItemControlBase(Of FormItemType).TypeEntity property" Url="html/9aff1996-3d94-6aa2-1e63-48fdcf20f09a.htm" />
+  <HelpKINode Title="KPFormItemControlBase&lt;FormItemType&gt; class">
+    <HelpKINode Title="KPFormItemControlBase(FormItemType) Class" Url="html/3ac582a7-db75-4180-639d-c7f779f05093.htm" />
+    <HelpKINode Title="about KPFormItemControlBase&lt;FormItemType&gt; class" Url="html/3ac582a7-db75-4180-639d-c7f779f05093.htm" />
+    <HelpKINode Title="constructor" Url="html/96986db7-665f-3ec8-2dc6-06c511ccfaeb.htm" />
+    <HelpKINode Title="methods" Url="html/7eb34627-b2bb-0d80-636f-dfa56913649d.htm" />
+    <HelpKINode Title="properties" Url="html/9eebcd39-0f03-5279-aa0b-3fe5b5836b90.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemControlBase&lt;FormItemType&gt;.CreateIDField method" Url="html/f67adb3c-1ec5-b0e0-ffd8-24beb8eace15.htm" />
+  <HelpKINode Title="KPFormItemControlBase&lt;FormItemType&gt;.CreateIDLabel method" Url="html/d796c4c4-f508-ba30-66c4-f13024978457.htm" />
+  <HelpKINode Title="KPFormItemControlBase&lt;FormItemType&gt;.FormControl property" Url="html/78efa4d9-7e44-c877-7a1a-774fe64d019a.htm" />
+  <HelpKINode Title="KPFormItemControlBase&lt;FormItemType&gt;.FormItem property" Url="html/fc4b63dc-a01d-5575-f5e6-36c06149147a.htm" />
+  <HelpKINode Title="KPFormItemControlBase&lt;FormItemType&gt;.ItemValue property" Url="html/40b49fff-79e9-1321-ab6a-2a900eb3b15a.htm" />
+  <HelpKINode Title="KPFormItemControlBase&lt;FormItemType&gt;.KPFormItemControlBase constructor" Url="html/96986db7-665f-3ec8-2dc6-06c511ccfaeb.htm" />
+  <HelpKINode Title="KPFormItemControlBase&lt;FormItemType&gt;.TypeEntity property" Url="html/9aff1996-3d94-6aa2-1e63-48fdcf20f09a.htm" />
+  <HelpKINode Title="KPFormItemDateTime class">
+    <HelpKINode Title="KPFormItemDateTime Class" Url="html/064c3ad9-e016-ccaa-3db7-97a0b966b59c.htm" />
+    <HelpKINode Title="about KPFormItemDateTime class" Url="html/064c3ad9-e016-ccaa-3db7-97a0b966b59c.htm" />
+    <HelpKINode Title="constructor" Url="html/5018d379-e58a-4269-6f69-ea3e77aeca4a.htm" />
+    <HelpKINode Title="events" Url="html/ed761047-ff66-5e3b-4ab9-3a2c00ed59ce.htm" />
+    <HelpKINode Title="properties" Url="html/7a32f732-a5ed-ab0c-b4a4-9f1ac6df8f68.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemDateTime.KPEventTextLostFocus event" Url="html/e285d404-04b3-35e8-847c-b3dd4f306ec4.htm" />
+  <HelpKINode Title="KPFormItemDateTime.KPFormItemDateTime constructor" Url="html/5018d379-e58a-4269-6f69-ea3e77aeca4a.htm" />
+  <HelpKINode Title="KPFormItemDateTime.KPTextLostFocusDelegate property" Url="html/a4cc1014-e8c1-0954-1a6e-0c29e5f7e5be.htm" />
+  <HelpKINode Title="KPFormItemDateTime.Title property" Url="html/039388e3-6790-840b-cdb5-bbb82661595f.htm" />
+  <HelpKINode Title="KPFormItemDateTime.Type property" Url="html/ef4736a9-69cf-28d9-8e21-dfbf96c4b9a0.htm" />
+  <HelpKINode Title="KPFormItemDateTimeControl class">
+    <HelpKINode Title="KPFormItemDateTimeControl Class" Url="html/851353df-5980-3499-c506-ecfcbe568ccc.htm" />
+    <HelpKINode Title="about KPFormItemDateTimeControl class" Url="html/851353df-5980-3499-c506-ecfcbe568ccc.htm" />
+    <HelpKINode Title="constructor" Url="html/8d747872-11f7-f2d8-29a8-6f8409bb0bc1.htm" />
+    <HelpKINode Title="methods" Url="html/d019f7c6-6f2f-8d86-7efa-297b73de9f71.htm" />
+    <HelpKINode Title="properties" Url="html/345e62f9-2a2b-1d8f-caed-e38bae87706d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemDateTimeControl.ControlField property" Url="html/58a0ad9c-754e-5dca-6509-1ace9e3ec42c.htm" />
+  <HelpKINode Title="KPFormItemDateTimeControl.ControlLabel property" Url="html/dd730f61-d51c-b47d-65c0-72340ce65960.htm" />
+  <HelpKINode Title="KPFormItemDateTimeControl.CreateChildControls method" Url="html/275e5914-3d11-c40c-dfa2-5fae981604a9.htm" />
+  <HelpKINode Title="KPFormItemDateTimeControl.FormItem property" Url="html/a8b870fb-b929-7da9-f54d-913edc6614a4.htm" />
+  <HelpKINode Title="KPFormItemDateTimeControl.KPFormItemDateTimeControl constructor" Url="html/8d747872-11f7-f2d8-29a8-6f8409bb0bc1.htm" />
+  <HelpKINode Title="KPFormItemEntity class">
+    <HelpKINode Title="KPFormItemEntity Class" Url="html/ea4f71b8-b4d5-f6c7-db52-66dc6e1573bd.htm" />
+    <HelpKINode Title="about KPFormItemEntity class" Url="html/ea4f71b8-b4d5-f6c7-db52-66dc6e1573bd.htm" />
+    <HelpKINode Title="constructor" Url="html/08267d87-23cc-aab8-3a07-61d805758193.htm" />
+    <HelpKINode Title="properties" Url="html/ab68fea5-ee9e-1961-ed16-674a31d1d6d8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemEntity.KPFormItemEntity constructor" Url="html/08267d87-23cc-aab8-3a07-61d805758193.htm" />
+  <HelpKINode Title="KPFormItemEntity.Title property" Url="html/ce196888-5a5f-dfd6-0332-e79918f31d1a.htm" />
+  <HelpKINode Title="KPFormItemEntityControl class">
+    <HelpKINode Title="KPFormItemEntityControl Class" Url="html/a3e8ec67-8b40-8f73-8ea1-9260b6503b26.htm" />
+    <HelpKINode Title="about KPFormItemEntityControl class" Url="html/a3e8ec67-8b40-8f73-8ea1-9260b6503b26.htm" />
+    <HelpKINode Title="constructor" Url="html/66a07884-3a38-25b4-3f0f-eb00616f83b9.htm" />
+    <HelpKINode Title="methods" Url="html/4eb82ff4-5cf9-98f3-66ab-ad9664fb3cd6.htm" />
+    <HelpKINode Title="properties" Url="html/c6d45758-d008-e922-8b87-da2d9e109cc2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemEntityControl.ControlField property" Url="html/0cfd133b-41ea-5be7-d95e-91500c8d7e28.htm" />
+  <HelpKINode Title="KPFormItemEntityControl.ControlLabel property" Url="html/deec6b77-8489-984d-ecff-a10f44d6802c.htm" />
+  <HelpKINode Title="KPFormItemEntityControl.CreateChildControls method" Url="html/8e2cb2ef-4bbc-f255-4224-6fc9119e2190.htm" />
+  <HelpKINode Title="KPFormItemEntityControl.FormItem property" Url="html/fa203c5a-3164-56e2-561a-5bfe8c28e1c6.htm" />
+  <HelpKINode Title="KPFormItemEntityControl.KPFormItemEntityControl constructor" Url="html/66a07884-3a38-25b4-3f0f-eb00616f83b9.htm" />
+  <HelpKINode Title="KPFormItemFactory class">
+    <HelpKINode Title="KPFormItemFactory Class" Url="html/e9069c17-b48f-785d-b470-77181e27d19d.htm" />
+    <HelpKINode Title="about KPFormItemFactory class" Url="html/e9069c17-b48f-785d-b470-77181e27d19d.htm" />
+    <HelpKINode Title="constructor" Url="html/d961861b-fd5a-81e6-aef6-80e2a9037614.htm" />
+    <HelpKINode Title="methods" Url="html/5921d723-1d81-2257-21e3-357ba95b8039.htm" />
+    <HelpKINode Title="properties" Url="html/d6b2fe72-ebcb-0344-c9a0-8870a20a550a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemFactory.AddFormItem method" Url="html/e57570c6-ead2-586d-becb-3fc000f51550.htm" />
+  <HelpKINode Title="KPFormItemFactory.ControlsFieldset property" Url="html/7c42894d-c43b-8671-6b53-c7d12c3ef4be.htm" />
+  <HelpKINode Title="KPFormItemFactory.ItemsFieldset property" Url="html/4b170fe9-71dc-6cfd-4afc-7d4b0e657d7f.htm" />
+  <HelpKINode Title="KPFormItemFactory.KPFormGridConfig property" Url="html/6814aae7-aa26-320d-0702-48aadaeab287.htm" />
+  <HelpKINode Title="KPFormItemFactory.KPFormItemFactory constructor" Url="html/d961861b-fd5a-81e6-aef6-80e2a9037614.htm" />
+  <HelpKINode Title="KPFormItemFactory.KPFormZoomConfig property" Url="html/acf88031-d529-d55d-7260-631896f5e3f6.htm" />
+  <HelpKINode Title="KPFormItemFactory.TypeEntity property" Url="html/f9e63611-734d-8483-5f00-9e9fb1dc64d2.htm" />
+  <HelpKINode Title="KPFormItemGrid class">
+    <HelpKINode Title="KPFormItemGrid Class" Url="html/fe0a8b27-2d04-2890-cf41-7e6476a85c7f.htm" />
+    <HelpKINode Title="about KPFormItemGrid class" Url="html/fe0a8b27-2d04-2890-cf41-7e6476a85c7f.htm" />
+    <HelpKINode Title="constructor" Url="html/21ab1db3-d8ae-2ad4-d2ba-9328b27a36e5.htm" />
+    <HelpKINode Title="events" Url="html/ab05abab-89c9-7fc1-296c-a9724fe85511.htm" />
+    <HelpKINode Title="properties" Url="html/ed482c85-edbe-f032-e5aa-2bb1ca1145b4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemGrid.GridIDConfig property" Url="html/eea6d26d-478e-73e0-04e0-03d050c59aca.htm" />
+  <HelpKINode Title="KPFormItemGrid.Height property" Url="html/4aa03130-39fc-25de-e7ed-cd5acbed0dbd.htm" />
+  <HelpKINode Title="KPFormItemGrid.KPDeleteLine event" Url="html/5d622b9b-737c-3e71-da97-ec5e19273c8b.htm" />
+  <HelpKINode Title="KPFormItemGrid.KPFormItemGrid constructor" Url="html/21ab1db3-d8ae-2ad4-d2ba-9328b27a36e5.htm" />
+  <HelpKINode Title="KPFormItemGrid.KPGridViewDeleteDelegate property" Url="html/08495f1d-9529-0670-7193-f2b0319d2335.htm" />
+  <HelpKINode Title="KPFormItemGridControl class">
+    <HelpKINode Title="KPFormItemGridControl Class" Url="html/af8a9022-2669-a4f7-0a94-25449d247fa0.htm" />
+    <HelpKINode Title="about KPFormItemGridControl class" Url="html/af8a9022-2669-a4f7-0a94-25449d247fa0.htm" />
+    <HelpKINode Title="constructor" Url="html/d3548acc-19fe-110b-45d8-ed19566c068b.htm" />
+    <HelpKINode Title="methods" Url="html/2db28a95-134f-5071-0948-cada55053912.htm" />
+    <HelpKINode Title="properties" Url="html/c35412ce-7edc-f468-a164-fbd517f80cbb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemGridControl.CreateChildControls method" Url="html/86d8fdeb-8997-6edf-1e2e-c52daae42e5a.htm" />
+  <HelpKINode Title="KPFormItemGridControl.FormItem property" Url="html/04cea67c-e29f-5609-c536-be4fa6a4140f.htm" />
+  <HelpKINode Title="KPFormItemGridControl.GridViewField property" Url="html/797cb692-a04b-2f6b-c212-6ae8d6a2b575.htm" />
+  <HelpKINode Title="KPFormItemGridControl.KPFormButtonSimpleControls property" Url="html/86874508-6574-599d-9d9a-936e9c072122.htm" />
+  <HelpKINode Title="KPFormItemGridControl.KPFormGridConfig property" Url="html/19a2bcfa-82bc-d0e7-721f-1539ec0685b3.htm" />
+  <HelpKINode Title="KPFormItemGridControl.KPFormItemGridControl constructor" Url="html/d3548acc-19fe-110b-45d8-ed19566c068b.htm" />
+  <HelpKINode Title="KPFormItemKey class">
+    <HelpKINode Title="KPFormItemKey Class" Url="html/cb350d23-18b8-9094-8fb2-e849d77029cb.htm" />
+    <HelpKINode Title="about KPFormItemKey class" Url="html/cb350d23-18b8-9094-8fb2-e849d77029cb.htm" />
+    <HelpKINode Title="constructor" Url="html/ac1b6cc8-51f5-257c-428e-36de6e3a59f5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemKey.KPFormItemKey constructor" Url="html/ac1b6cc8-51f5-257c-428e-36de6e3a59f5.htm" />
+  <HelpKINode Title="KPFormItemKeyControl class">
+    <HelpKINode Title="KPFormItemKeyControl Class" Url="html/610edb25-e8ca-331a-ce0e-30d8cb0b3702.htm" />
+    <HelpKINode Title="about KPFormItemKeyControl class" Url="html/610edb25-e8ca-331a-ce0e-30d8cb0b3702.htm" />
+    <HelpKINode Title="constructor" Url="html/214aa68c-e4cd-f00e-6745-a6fab98b0a13.htm" />
+    <HelpKINode Title="methods" Url="html/afcacc37-b369-8e41-663c-68ede059e717.htm" />
+    <HelpKINode Title="properties" Url="html/921c83f5-ff7f-5cab-8b31-7a7dd3f2b2b1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemKeyControl.ControlField property" Url="html/d8fdbc5d-dee7-6cd7-f99d-96aafffbe493.htm" />
+  <HelpKINode Title="KPFormItemKeyControl.CreateChildControls method" Url="html/c59cdb90-213f-fa92-12a5-06be69aea242.htm" />
+  <HelpKINode Title="KPFormItemKeyControl.FormItem property" Url="html/743e815b-c2f0-2f27-7096-a2d9e8256637.htm" />
+  <HelpKINode Title="KPFormItemKeyControl.KPFormItemKeyControl constructor" Url="html/214aa68c-e4cd-f00e-6745-a6fab98b0a13.htm" />
+  <HelpKINode Title="KPFormItemModel class">
+    <HelpKINode Title="KPFormItemModel Class" Url="html/f1e4f8b4-4edc-a00e-b66a-e04f893f045b.htm" />
+    <HelpKINode Title="about KPFormItemModel class" Url="html/f1e4f8b4-4edc-a00e-b66a-e04f893f045b.htm" />
+    <HelpKINode Title="constructor" Url="html/dda1f97d-9eb3-19d1-ffce-045e3d2983cc.htm" />
+    <HelpKINode Title="properties" Url="html/6f8183a3-0515-8550-0e6b-3564da98a905.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemModel.IndexTab property" Url="html/1b2e9fd7-9dfc-ea43-fc15-9fb091ba3ca0.htm" />
+  <HelpKINode Title="KPFormItemModel.KPFormItemModel constructor" Url="html/dda1f97d-9eb3-19d1-ffce-045e3d2983cc.htm" />
+  <HelpKINode Title="KPFormItemModel.Width property" Url="html/c759a045-1bdd-c57d-1b56-1ba4900222ab.htm" />
+  <HelpKINode Title="KPFormItemModelCollection class">
+    <HelpKINode Title="KPFormItemModelCollection Class" Url="html/58b353f9-8d87-46bf-8ae1-8056921f83ad.htm" />
+    <HelpKINode Title="about KPFormItemModelCollection class" Url="html/58b353f9-8d87-46bf-8ae1-8056921f83ad.htm" />
+    <HelpKINode Title="constructor" Url="html/2e932a22-3a13-60d6-ada2-9476a8287bb9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemModelCollection.KPFormItemModelCollection constructor" Url="html/2e932a22-3a13-60d6-ada2-9476a8287bb9.htm" />
+  <HelpKINode Title="KPFormItemModelEntityField class">
+    <HelpKINode Title="KPFormItemModelEntityField Class" Url="html/b94b98fe-7171-5ae0-e230-e9650a827595.htm" />
+    <HelpKINode Title="about KPFormItemModelEntityField class" Url="html/b94b98fe-7171-5ae0-e230-e9650a827595.htm" />
+    <HelpKINode Title="constructor" Url="html/9719a2c4-22ba-65aa-b974-dba0878509f5.htm" />
+    <HelpKINode Title="properties" Url="html/5466889a-647f-b6cc-c366-6e40f697bef2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemModelEntityField.FieldNameDescription property" Url="html/89c13859-a477-1ef9-d53e-34efba47b000.htm" />
+  <HelpKINode Title="KPFormItemModelEntityField.KPFormItemModelEntityField constructor" Url="html/9719a2c4-22ba-65aa-b974-dba0878509f5.htm" />
+  <HelpKINode Title="KPFormItemModelField class">
+    <HelpKINode Title="KPFormItemModelField Class" Url="html/07785872-7dea-ef46-8087-365ea62f7762.htm" />
+    <HelpKINode Title="about KPFormItemModelField class" Url="html/07785872-7dea-ef46-8087-365ea62f7762.htm" />
+    <HelpKINode Title="constructor" Url="html/c86f6cf3-11fe-ddf0-6b8b-c7954f9e544a.htm" />
+    <HelpKINode Title="properties" Url="html/e9a94cff-adc4-061b-9655-7e26ac7bbe2d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemModelField.FieldName property" Url="html/6d13a42f-8483-724e-cb6e-9a195aa16134.htm" />
+  <HelpKINode Title="KPFormItemModelField.ID property" Url="html/bf7ff52a-3152-4edd-5042-6e2ad3027d23.htm" />
+  <HelpKINode Title="KPFormItemModelField.IsRequired property" Url="html/f43a8942-4fd7-b3e8-8999-fc18477d9118.htm" />
+  <HelpKINode Title="KPFormItemModelField.KPFormItemModelField constructor" Url="html/c86f6cf3-11fe-ddf0-6b8b-c7954f9e544a.htm" />
+  <HelpKINode Title="KPFormItemPassword class">
+    <HelpKINode Title="KPFormItemPassword Class" Url="html/5a35c401-70cb-c1de-cdfe-6ec2fac0bf9d.htm" />
+    <HelpKINode Title="about KPFormItemPassword class" Url="html/5a35c401-70cb-c1de-cdfe-6ec2fac0bf9d.htm" />
+    <HelpKINode Title="constructor" Url="html/e2958d16-1dfd-0036-e48f-e6e292a0a3d3.htm" />
+    <HelpKINode Title="events" Url="html/4d6f4e29-b6d1-6653-9e72-2717a32bf220.htm" />
+    <HelpKINode Title="properties" Url="html/ebd0f096-3a4c-2e2c-8d15-99971f2070c7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemPassword.KPEventTextLostFocus event" Url="html/7fde6758-3c7f-c899-d4f4-4a381f098f98.htm" />
+  <HelpKINode Title="KPFormItemPassword.KPFormItemPassword constructor" Url="html/e2958d16-1dfd-0036-e48f-e6e292a0a3d3.htm" />
+  <HelpKINode Title="KPFormItemPassword.KPTextPasswordLostFocusDelegate property" Url="html/d3e5d207-762a-4c4d-a453-69535464f413.htm" />
+  <HelpKINode Title="KPFormItemPassword.Title property" Url="html/166c03a0-8076-50d8-74a0-62dd432db529.htm" />
+  <HelpKINode Title="KPFormItemPasswordControl class">
+    <HelpKINode Title="KPFormItemPasswordControl Class" Url="html/ec284c7d-d228-17e4-875e-dd036f5813aa.htm" />
+    <HelpKINode Title="about KPFormItemPasswordControl class" Url="html/ec284c7d-d228-17e4-875e-dd036f5813aa.htm" />
+    <HelpKINode Title="constructor" Url="html/fa92328f-884a-2f39-0873-cee4ad920ccf.htm" />
+    <HelpKINode Title="methods" Url="html/b4f8f8cd-6039-effb-c7b0-6e0b2a9fce00.htm" />
+    <HelpKINode Title="properties" Url="html/0864afe8-b8e5-cb4f-ae4e-b5119d2ec514.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemPasswordControl.ControlField property" Url="html/881ecad4-3167-4ecd-3ec0-90d9fb8317ce.htm" />
+  <HelpKINode Title="KPFormItemPasswordControl.ControlLabel property" Url="html/84b6bfcd-8043-469d-6646-da7f7b1a74dd.htm" />
+  <HelpKINode Title="KPFormItemPasswordControl.CreateChildControls method" Url="html/824a094e-bc63-d31c-2abd-557030711f17.htm" />
+  <HelpKINode Title="KPFormItemPasswordControl.FormItem property" Url="html/92af30c9-6388-36f6-73a8-6fcb853ba140.htm" />
+  <HelpKINode Title="KPFormItemPasswordControl.KPFormItemPasswordControl constructor" Url="html/fa92328f-884a-2f39-0873-cee4ad920ccf.htm" />
+  <HelpKINode Title="KPFormItemSpacer class">
+    <HelpKINode Title="KPFormItemSpacer Class" Url="html/a0731cd4-c2ae-b99c-623a-0266e71f3c02.htm" />
+    <HelpKINode Title="about KPFormItemSpacer class" Url="html/a0731cd4-c2ae-b99c-623a-0266e71f3c02.htm" />
+    <HelpKINode Title="constructor" Url="html/bf7e7020-b328-8c6b-9918-61e735661b95.htm" />
+    <HelpKINode Title="properties" Url="html/ced2c018-f4ad-3633-9d8e-4bcb7124614d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemSpacer.Height property" Url="html/71605b8d-3694-01f0-c550-cefbd808d4e0.htm" />
+  <HelpKINode Title="KPFormItemSpacer.KPFormItemSpacer constructor" Url="html/bf7e7020-b328-8c6b-9918-61e735661b95.htm" />
+  <HelpKINode Title="KPFormItemSpacerControl class">
+    <HelpKINode Title="KPFormItemSpacerControl Class" Url="html/87546e15-edac-0aa9-a18f-17e587abe473.htm" />
+    <HelpKINode Title="about KPFormItemSpacerControl class" Url="html/87546e15-edac-0aa9-a18f-17e587abe473.htm" />
+    <HelpKINode Title="constructor" Url="html/e2a0ab9b-6b5e-a785-42bc-d87ad4d0a0da.htm" />
+    <HelpKINode Title="methods" Url="html/fad1cbe2-b437-4d8f-ad32-8242c4c7da54.htm" />
+    <HelpKINode Title="properties" Url="html/742670ec-e60e-24b0-7f1d-8a2c74517c58.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemSpacerControl.CreateChildControls method" Url="html/f1014ec8-9553-df94-fafd-72cc856d0285.htm" />
+  <HelpKINode Title="KPFormItemSpacerControl.FormItem property" Url="html/d20ea0c7-d20e-5c98-ed69-a052ecb2faa9.htm" />
+  <HelpKINode Title="KPFormItemSpacerControl.KPFormItemSpacerControl constructor" Url="html/e2a0ab9b-6b5e-a785-42bc-d87ad4d0a0da.htm" />
+  <HelpKINode Title="KPFormItemText class">
+    <HelpKINode Title="KPFormItemText Class" Url="html/78f035f1-188b-f527-02be-62751d73ae86.htm" />
+    <HelpKINode Title="about KPFormItemText class" Url="html/78f035f1-188b-f527-02be-62751d73ae86.htm" />
+    <HelpKINode Title="constructor" Url="html/7385cd46-f0b6-6c6f-8e07-02f66be77cd4.htm" />
+    <HelpKINode Title="events" Url="html/75e7b0e7-65c2-4270-75d7-e5a0005459eb.htm" />
+    <HelpKINode Title="properties" Url="html/ae22d9fc-51ba-1298-9c9a-07a773d13829.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemText.Height property" Url="html/7b71ad3c-58dd-0351-f486-42039657aa84.htm" />
+  <HelpKINode Title="KPFormItemText.KPEventTextLostFocus event" Url="html/1723e8cb-d803-1c53-a624-28308d79f7d4.htm" />
+  <HelpKINode Title="KPFormItemText.KPFormItemText constructor" Url="html/7385cd46-f0b6-6c6f-8e07-02f66be77cd4.htm" />
+  <HelpKINode Title="KPFormItemText.KPTextLostFocusDelegate property" Url="html/7bea5030-1afe-7fce-f414-c30daf30bdbd.htm" />
+  <HelpKINode Title="KPFormItemText.Mask property" Url="html/bf2c00da-a11d-34fe-cfd1-1f821deb82d8.htm" />
+  <HelpKINode Title="KPFormItemText.MultiLine property" Url="html/4792cc65-aad4-b1a9-d009-d4f9f8da0c8a.htm" />
+  <HelpKINode Title="KPFormItemText.Title property" Url="html/2cd784f8-1035-d959-f3a5-8e95fd1cc703.htm" />
+  <HelpKINode Title="KPFormItemTextControl class">
+    <HelpKINode Title="KPFormItemTextControl Class" Url="html/7ce34a79-8bef-8c63-7f88-794a51b66f49.htm" />
+    <HelpKINode Title="about KPFormItemTextControl class" Url="html/7ce34a79-8bef-8c63-7f88-794a51b66f49.htm" />
+    <HelpKINode Title="constructor" Url="html/bd2b8efa-636c-da7b-c9f2-5451415e790d.htm" />
+    <HelpKINode Title="methods" Url="html/baf7705b-6643-9fc8-e847-bb75b6c736c0.htm" />
+    <HelpKINode Title="properties" Url="html/46baeb20-33fc-d4ea-0f49-e767374b0c52.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemTextControl.ControlField property" Url="html/f820f743-20a5-65d7-f30d-cbb8352a859a.htm" />
+  <HelpKINode Title="KPFormItemTextControl.ControlLabel property" Url="html/5d1fe6d0-9d55-bdae-242e-062700feb92c.htm" />
+  <HelpKINode Title="KPFormItemTextControl.CreateChildControls method" Url="html/b7988bfe-04af-e014-77ea-4e9a2d31faec.htm" />
+  <HelpKINode Title="KPFormItemTextControl.FormItem property" Url="html/594ed4bb-c13a-9022-c7de-291578ebe989.htm" />
+  <HelpKINode Title="KPFormItemTextControl.KPFormItemTextControl constructor" Url="html/bd2b8efa-636c-da7b-c9f2-5451415e790d.htm" />
+  <HelpKINode Title="KPFormItemZoom class">
+    <HelpKINode Title="KPFormItemZoom Class" Url="html/0c4161c6-5553-5f81-d189-ca8056e4b933.htm" />
+    <HelpKINode Title="about KPFormItemZoom class" Url="html/0c4161c6-5553-5f81-d189-ca8056e4b933.htm" />
+    <HelpKINode Title="constructor" Url="html/c1a89132-3675-e1e3-5dc7-0c85efa648fe.htm" />
+    <HelpKINode Title="events" Url="html/05446e65-d2fe-fda5-7846-4e6030191889.htm" />
+    <HelpKINode Title="properties" Url="html/bf226fb0-dad9-5f15-4709-d69289d8ce44.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemZoom.DescriptionWidth property" Url="html/6a3f08ee-c0f7-b873-2cdc-276c328398e0.htm" />
+  <HelpKINode Title="KPFormItemZoom.KPEventZoomLostFocus event" Url="html/c3ec28e1-a58e-b3ce-4d0c-c0cac91c6905.htm" />
+  <HelpKINode Title="KPFormItemZoom.KPFormItemZoom constructor" Url="html/c1a89132-3675-e1e3-5dc7-0c85efa648fe.htm" />
+  <HelpKINode Title="KPFormItemZoom.KPZoomLostFocusDelegate property" Url="html/59a61d6f-4cda-82f0-ed3f-366c6c8d05b1.htm" />
+  <HelpKINode Title="KPFormItemZoom.Mask property" Url="html/c0c5e997-62f2-7944-bafc-07149e3c96e4.htm" />
+  <HelpKINode Title="KPFormItemZoom.Title property" Url="html/7ba9ef9e-3b51-fd07-4b9f-8b7aba6939ec.htm" />
+  <HelpKINode Title="KPFormItemZoom.ZoomIDConfig property" Url="html/7c3d58bb-e8a2-e679-4f87-e4e67a80ad9b.htm" />
+  <HelpKINode Title="KPFormItemZoomControl class">
+    <HelpKINode Title="KPFormItemZoomControl Class" Url="html/6c4ccd3a-bec1-3c00-bc16-ba884a703f82.htm" />
+    <HelpKINode Title="about KPFormItemZoomControl class" Url="html/6c4ccd3a-bec1-3c00-bc16-ba884a703f82.htm" />
+    <HelpKINode Title="constructor" Url="html/471e9c75-6a9d-6879-276c-cee38d0073fd.htm" />
+    <HelpKINode Title="methods" Url="html/102c394b-f265-6df2-bd21-d95c0fb7a858.htm" />
+    <HelpKINode Title="properties" Url="html/c78c0d75-cb86-cd90-58aa-fed71ad96e87.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormItemZoomControl.ControlField property" Url="html/5e4ac53d-090c-babf-f5c6-337c4344e2b3.htm" />
+  <HelpKINode Title="KPFormItemZoomControl.ControlLabel property" Url="html/84ef02f9-165b-9b66-06b4-75680176bfa7.htm" />
+  <HelpKINode Title="KPFormItemZoomControl.CreateChildControls method" Url="html/6135bacf-b7e1-011a-8359-3f78951c71c3.htm" />
+  <HelpKINode Title="KPFormItemZoomControl.Enabled property" Url="html/b410dd26-d839-3956-fe86-b16641c46c46.htm" />
+  <HelpKINode Title="KPFormItemZoomControl.FormItem property" Url="html/cd23ecd9-ca14-d9ec-fdce-f1bcda5bbadb.htm" />
+  <HelpKINode Title="KPFormItemZoomControl.KPFormItemZoomControl constructor" Url="html/471e9c75-6a9d-6879-276c-cee38d0073fd.htm" />
+  <HelpKINode Title="KPFormItemZoomControl.KPFormZoomConfig property" Url="html/397a7d6e-40de-b1e4-33c5-a967f9bb3a15.htm" />
+  <HelpKINode Title="KPFormsAuthentication class">
+    <HelpKINode Title="KPFormsAuthentication Class" Url="html/7c0deb85-f454-8776-84fe-25cfc3b3c4aa.htm" />
+    <HelpKINode Title="about KPFormsAuthentication class" Url="html/7c0deb85-f454-8776-84fe-25cfc3b3c4aa.htm" />
+    <HelpKINode Title="methods" Url="html/6ba277f5-58de-4c10-d624-0207ec413028.htm" />
+    <HelpKINode Title="properties" Url="html/35335889-e8ac-5e44-e2ca-36b3166e10ac.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormsAuthentication.AuthenticateAndRedirect method" Url="html/22e15cac-bb25-f56e-f0ca-0226066d7b97.htm" />
+  <HelpKINode Title="KPFormsAuthentication.Logout method" Url="html/b2107fa8-8a48-21e6-0d51-f8c98813b171.htm" />
+  <HelpKINode Title="KPFormsAuthentication.SecuritySession property" Url="html/d69ac134-6675-8cf9-aee8-d2d90b9767c4.htm" />
+  <HelpKINode Title="KPFormTabControl class">
+    <HelpKINode Title="KPFormTabControl Class" Url="html/ce6da447-4657-486b-5ab1-a975aa0274ca.htm" />
+    <HelpKINode Title="about KPFormTabControl class" Url="html/ce6da447-4657-486b-5ab1-a975aa0274ca.htm" />
+    <HelpKINode Title="constructor" Url="html/4c21f927-f430-0110-5b5e-3f882d2d52d9.htm" />
+    <HelpKINode Title="methods" Url="html/2119c360-0e12-bec0-ec60-4eb36c3bcf5a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormTabControl.CreateChildControls method" Url="html/bb918192-1abe-e85f-1dc3-ebbae6b02cd0.htm" />
+  <HelpKINode Title="KPFormTabControl.KPFormTabControl constructor" Url="html/4c21f927-f430-0110-5b5e-3f882d2d52d9.htm" />
+  <HelpKINode Title="KPFormTabControl.OnLoad method" Url="html/13b7f5a5-0985-c538-199b-7a0ada9e6449.htm" />
+  <HelpKINode Title="KPFormTabControl.Render method" Url="html/8242b164-a745-3656-0195-186025221e59.htm" />
+  <HelpKINode Title="KPFormTabModel class">
+    <HelpKINode Title="KPFormTabModel Class" Url="html/0a88b983-d623-f042-8a5d-6becc6802b64.htm" />
+    <HelpKINode Title="about KPFormTabModel class" Url="html/0a88b983-d623-f042-8a5d-6becc6802b64.htm" />
+    <HelpKINode Title="constructor" Url="html/4f3f2821-5cdf-a2cf-7ea2-91f9ab6f76c9.htm" />
+    <HelpKINode Title="properties" Url="html/14e7f92f-9e58-b7ce-be3a-8964fa153f5c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormTabModel.KPColumnsModel property" Url="html/450684ec-245f-97df-aca0-3638da8b50c8.htm" />
+  <HelpKINode Title="KPFormTabModel.KPFormTabModel constructor" Url="html/4f3f2821-5cdf-a2cf-7ea2-91f9ab6f76c9.htm" />
+  <HelpKINode Title="KPFormTabModel.Title property" Url="html/6418b577-4ffe-81d8-4aff-8c71f897dfb6.htm" />
+  <HelpKINode Title="KPFormTabModelCollection class">
+    <HelpKINode Title="KPFormTabModelCollection Class" Url="html/ce4a20fc-dee8-a30e-8162-bc213f1f83c6.htm" />
+    <HelpKINode Title="about KPFormTabModelCollection class" Url="html/ce4a20fc-dee8-a30e-8162-bc213f1f83c6.htm" />
+    <HelpKINode Title="constructor" Url="html/d8eead30-f076-ec83-34aa-838872cc36b6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormTabModelCollection.KPFormTabModelCollection constructor" Url="html/d8eead30-f076-ec83-34aa-838872cc36b6.htm" />
+  <HelpKINode Title="KPFormZoomConfig property">
+    <HelpKINode Title="KPFormControl.KPFormZoomConfig Property " Url="html/4d3d7b7f-56e1-ad61-c316-4505c7119771.htm" />
+    <HelpKINode Title="KPFormItemFactory.KPFormZoomConfig Property " Url="html/acf88031-d529-d55d-7260-631896f5e3f6.htm" />
+    <HelpKINode Title="KPFormItemZoomControl.KPFormZoomConfig Property " Url="html/397a7d6e-40de-b1e4-33c5-a967f9bb3a15.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormZoomModel class">
+    <HelpKINode Title="KPFormZoomModel Class" Url="html/55ea8944-8a0e-bd37-b66d-72e495434d25.htm" />
+    <HelpKINode Title="about KPFormZoomModel class" Url="html/55ea8944-8a0e-bd37-b66d-72e495434d25.htm" />
+    <HelpKINode Title="constructor" Url="html/c2225aaf-4d9b-c8ec-2212-865d86da2ab7.htm" />
+    <HelpKINode Title="events" Url="html/53f412ec-9b7f-ee8e-9a68-3db245dd0fb6.htm" />
+    <HelpKINode Title="properties" Url="html/96e8883b-e007-a26a-f687-96cdfe4ff3ef.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormZoomModel.DisplaySearchField property" Url="html/e3b52fec-6c72-b704-8ad2-a16b3d57ce2b.htm" />
+  <HelpKINode Title="KPFormZoomModel.FieldReturnId property" Url="html/74675495-38c9-e4c5-5322-a7992034389e.htm" />
+  <HelpKINode Title="KPFormZoomModel.FieldReturnText property" Url="html/c27b608f-a46e-d896-9fbf-248c8148e090.htm" />
+  <HelpKINode Title="KPFormZoomModel.HeightZoom property" Url="html/afdc76aa-1fb2-4dba-1dab-01983a4a6815.htm" />
+  <HelpKINode Title="KPFormZoomModel.ID property" Url="html/dc6f782b-b837-8a6d-850e-be80c0e0c424.htm" />
+  <HelpKINode Title="KPFormZoomModel.KPCriterionFilterDelegate property" Url="html/022eb3a9-c8e2-536c-5483-0a91d9fd974e.htm" />
+  <HelpKINode Title="KPFormZoomModel.KPEventCriterionFilter event" Url="html/11317d09-7d3d-026d-3afc-5e64e6ae9316.htm" />
+  <HelpKINode Title="KPFormZoomModel.KPEventOrder event" Url="html/136c4191-84d0-82bd-5105-d8192dfb904b.htm" />
+  <HelpKINode Title="KPFormZoomModel.KPFormZoomModel constructor" Url="html/c2225aaf-4d9b-c8ec-2212-865d86da2ab7.htm" />
+  <HelpKINode Title="KPFormZoomModel.KPOrderDelegate property" Url="html/20cc81a3-ebef-9632-ff20-dfd39cfc5223.htm" />
+  <HelpKINode Title="KPFormZoomModel.KPZoomFieldsConfig property" Url="html/79f8bc6e-8b50-6421-9ca8-68f43d0a1391.htm" />
+  <HelpKINode Title="KPFormZoomModel.OpenZoomSearchNotFound property" Url="html/04fff2ab-c346-13bf-f120-02b2df5915bd.htm" />
+  <HelpKINode Title="KPFormZoomModel.PropertyCompanyEntity property" Url="html/d008c7a6-074c-20b1-2847-3a3c2f64711f.htm" />
+  <HelpKINode Title="KPFormZoomModel.SearchByField property" Url="html/faf35354-b70c-4778-d101-98f60517517b.htm" />
+  <HelpKINode Title="KPFormZoomModel.TypeEntity property" Url="html/9f87411e-abf8-cae2-447f-13b1ecf44014.htm" />
+  <HelpKINode Title="KPFormZoomModel.TypeEntityNamespace property" Url="html/e1debcc8-1c48-6b98-e918-0bf6dbff9af9.htm" />
+  <HelpKINode Title="KPFormZoomModel.WidthZoom property" Url="html/bb74df60-d316-0e7a-f769-ae15e8c296d1.htm" />
+  <HelpKINode Title="KPFormZoomModel.WindowTitle property" Url="html/3dc8647a-da25-fe98-f671-5144fae859e2.htm" />
+  <HelpKINode Title="KPFormZoomModel.ZoomID property" Url="html/0b04131a-ade9-224d-93cf-77400c8ef33d.htm" />
+  <HelpKINode Title="KPFormZoomModelCollection class">
+    <HelpKINode Title="KPFormZoomModelCollection Class" Url="html/6041f77e-e5fd-46d0-b82b-6f1754798e90.htm" />
+    <HelpKINode Title="about KPFormZoomModelCollection class" Url="html/6041f77e-e5fd-46d0-b82b-6f1754798e90.htm" />
+    <HelpKINode Title="constructor" Url="html/72604973-8d99-b392-b18e-15df8c60608e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPFormZoomModelCollection.KPFormZoomModelCollection constructor" Url="html/72604973-8d99-b392-b18e-15df8c60608e.htm" />
+  <HelpKINode Title="KPGetObjectDataSource delegate" Url="html/0d903a61-e5b6-e114-0c25-99a3eae66ff8.htm" />
+  <HelpKINode Title="KPGetObjectDataSourceDelegate property" Url="html/895ae3fb-9cda-ee68-b7db-1556ffcbe9f1.htm" />
+  <HelpKINode Title="KPGridControl class">
+    <HelpKINode Title="KPGridControl Class" Url="html/02f4fc08-4850-1537-e8f1-e27446b3078a.htm" />
+    <HelpKINode Title="about KPGridControl class" Url="html/02f4fc08-4850-1537-e8f1-e27446b3078a.htm" />
+    <HelpKINode Title="constructor" Url="html/8d6b2dd3-4369-e539-9ae3-375a64312a52.htm" />
+    <HelpKINode Title="events" Url="html/90382850-35da-9fd0-e0bb-7ae495fc0549.htm" />
+    <HelpKINode Title="methods" Url="html/4c47d096-7409-8eae-547d-f633d8bd2b1a.htm" />
+    <HelpKINode Title="properties" Url="html/f928f9b6-951d-d272-0b5b-1ad017d0bf59.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPGridControl property" Url="html/d31a153c-9f50-1a08-344f-64ff3128c783.htm" />
+  <HelpKINode Title="KPGridControl.Caption property" Url="html/1453fb9e-4d67-71a2-d8bb-7a9fb371777c.htm" />
+  <HelpKINode Title="KPGridControl.CreateChildControls method" Url="html/6d8e67ce-db5a-b51f-a463-bf5f1fb9539b.htm" />
+  <HelpKINode Title="KPGridControl.DataBind method" Url="html/40461143-8fcc-9b1c-a3db-2932eb235f10.htm" />
+  <HelpKINode Title="KPGridControl.DoubleClickAction property" Url="html/7bb1348e-2890-7e3b-1bfb-37b9aba135e1.htm" />
+  <HelpKINode Title="KPGridControl.EnableDelete property" Url="html/af6521de-65ea-d2ab-2048-9588877ed3f8.htm" />
+  <HelpKINode Title="KPGridControl.EnableEdit property" Url="html/70919562-7b57-3a85-4e5a-efc192c67a2b.htm" />
+  <HelpKINode Title="KPGridControl.EnableNew property" Url="html/ddef4162-7121-84af-8153-cca9c0bfe30d.htm" />
+  <HelpKINode Title="KPGridControl.FindWindowTitleById method" Url="html/1e9c410d-553a-d59b-3b49-4484516e2abb.htm" />
+  <HelpKINode Title="KPGridControl.GetSelectedEntity(Of Entity) method" Url="html/6954abf1-b4e8-9cf7-300f-780ac724d864.htm" />
+  <HelpKINode Title="KPGridControl.GetSelectedEntity&lt;Entity&gt; method" Url="html/6954abf1-b4e8-9cf7-300f-780ac724d864.htm" />
+  <HelpKINode Title="KPGridControl.GuidValue property" Url="html/ced2b77d-cd04-98a0-0c47-40a0e4a75c4a.htm" />
+  <HelpKINode Title="KPGridControl.Height property" Url="html/035e86bf-64cb-d3ec-7b67-971422f486fa.htm" />
+  <HelpKINode Title="KPGridControl.HeightForm property" Url="html/f5845465-d2a0-62ff-b4d6-40838b126790.htm" />
+  <HelpKINode Title="KPGridControl.IsWindowAccessAllowed method" Url="html/21e64fef-3d86-cd7e-7d1d-60bbf1272880.htm" />
+  <HelpKINode Title="KPGridControl.KPButtonsModel property" Url="html/0dfe8719-189f-d74e-de2c-46658f9418ce.htm" />
+  <HelpKINode Title="KPGridControl.KPEventAfterDelete event" Url="html/68ddcc57-7a7e-fd26-ad71-a63ccd7e61bf.htm" />
+  <HelpKINode Title="KPGridControl.KPEventBeforeDelete event" Url="html/25deee71-e330-547f-bc47-928d5c594f0f.htm" />
+  <HelpKINode Title="KPGridControl.KPEventBeforeEdit event" Url="html/0cd9002f-0c33-2db9-b852-1fc72e0bb5a6.htm" />
+  <HelpKINode Title="KPGridControl.KPEventBeforeNew event" Url="html/a0f63924-d1a6-d775-eb36-eb139e2d3b45.htm" />
+  <HelpKINode Title="KPGridControl.KPEventCriterionFilter event" Url="html/82a77b74-b495-c029-747f-df64c0470b5a.htm" />
+  <HelpKINode Title="KPGridControl.KPEventOrder event" Url="html/a3a9ba78-1b56-cc2b-a294-e500e50f7621.htm" />
+  <HelpKINode Title="KPGridControl.KPGridControl constructor" Url="html/8d6b2dd3-4369-e539-9ae3-375a64312a52.htm" />
+  <HelpKINode Title="KPGridControl.KPItemsModel property" Url="html/b7d6bb41-6518-be95-f5d4-de7d58f64a00.htm" />
+  <HelpKINode Title="KPGridControl.OnInit method" Url="html/67992918-1384-e816-311c-09d2192fcae7.htm" />
+  <HelpKINode Title="KPGridControl.OrderRecords property" Url="html/50a91412-1afb-8593-e4d1-89be3138a445.htm" />
+  <HelpKINode Title="KPGridControl.PageFormUrl property" Url="html/45cee93b-0116-6c42-fd8c-bb70cd13ef85.htm" />
+  <HelpKINode Title="KPGridControl.PagerID property" Url="html/6a12c789-cab8-973c-aa79-ec4df94ab513.htm" />
+  <HelpKINode Title="KPGridControl.PrimaryKey property" Url="html/8dea4db1-c907-4578-e3b9-048f684da0fd.htm" />
+  <HelpKINode Title="KPGridControl.PropertyCompanyEntity property" Url="html/c3ccac17-4ce1-bfd5-e751-98390d2b1403.htm" />
+  <HelpKINode Title="KPGridControl.Render method" Url="html/5adc472f-60d8-6a02-d9bd-a97d51d08483.htm" />
+  <HelpKINode Title="KPGridControl.RowNum property" Url="html/5f27d44c-9a91-38aa-6bf3-a7cf6133702a.htm" />
+  <HelpKINode Title="KPGridControl.RowSelectedKey property" Url="html/6de3a80d-2571-d132-37c2-4b563f8f64c8.htm" />
+  <HelpKINode Title="KPGridControl.TableID property" Url="html/00fb5ee7-5d15-da7e-1fb8-47163d5929d6.htm" />
+  <HelpKINode Title="KPGridControl.Text property" Url="html/f60af47e-10b1-2931-6efc-bce127059559.htm" />
+  <HelpKINode Title="KPGridControl.TypeEntity property" Url="html/386285c9-fa1c-7dc9-193f-c57f15e516ae.htm" />
+  <HelpKINode Title="KPGridControl.TypeEntityNamespace property" Url="html/1201a36b-b868-4a50-6029-d301c8b0182b.htm" />
+  <HelpKINode Title="KPGridControl.Url property" Url="html/d06d0a0a-b755-1be1-e68d-de72df6d122c.htm" />
+  <HelpKINode Title="KPGridControl.ViewTotalRecordsLabel property" Url="html/c1a046e4-655c-e10a-70fa-f199cbe5eee6.htm" />
+  <HelpKINode Title="KPGridControl.Width property" Url="html/216417fe-7ef0-0640-66c1-5f04ad9868a0.htm" />
+  <HelpKINode Title="KPGridControl.WidthForm property" Url="html/783e9b88-8f2c-2c49-959a-70cf352108c8.htm" />
+  <HelpKINode Title="KPGridFieldsConfig property" Url="html/32cca9d7-1084-0a71-4451-51df5c83eadc.htm" />
+  <HelpKINode Title="KPGridViewControl class">
+    <HelpKINode Title="KPGridViewControl Class" Url="html/b52a401c-23e1-865d-239c-3740868a5601.htm" />
+    <HelpKINode Title="about KPGridViewControl class" Url="html/b52a401c-23e1-865d-239c-3740868a5601.htm" />
+    <HelpKINode Title="constructor" Url="html/8ef8eda4-3126-ef4b-cc42-9b046a1a9727.htm" />
+    <HelpKINode Title="methods" Url="html/d5d862ed-c0c1-e4d4-a582-8f457ce2ab78.htm" />
+    <HelpKINode Title="properties" Url="html/7e92dea6-cc68-21dc-974a-ca35c3135092.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPGridViewControl.AddEntityInMemoryDataSource method" Url="html/96427525-56f1-b73d-9b5d-e65326654632.htm" />
+  <HelpKINode Title="KPGridViewControl.CreateChildControls method" Url="html/d8e9832d-ecbe-14bc-ca6b-bfc5b96cfff6.htm" />
+  <HelpKINode Title="KPGridViewControl.GetEntitiesInMemoryDataSource(Of Entity) method" Url="html/49df9aca-9391-12dd-e3d1-f9ef16685faf.htm" />
+  <HelpKINode Title="KPGridViewControl.GetEntitiesInMemoryDataSource&lt;Entity&gt; method" Url="html/49df9aca-9391-12dd-e3d1-f9ef16685faf.htm" />
+  <HelpKINode Title="KPGridViewControl.GetEntitySelectedInMemoryDataSource(Of Entity) method" Url="html/1d925e14-d4b5-996f-9b3c-6b81033df8ad.htm" />
+  <HelpKINode Title="KPGridViewControl.GetEntitySelectedInMemoryDataSource&lt;Entity&gt; method" Url="html/1d925e14-d4b5-996f-9b3c-6b81033df8ad.htm" />
+  <HelpKINode Title="KPGridViewControl.GridConfig property" Url="html/f00046a4-38ea-4a95-cd3f-93185568513b.htm" />
+  <HelpKINode Title="KPGridViewControl.ItemGrid property" Url="html/6d9c33a0-6fd0-2003-60ee-f7e8e55fe1e5.htm" />
+  <HelpKINode Title="KPGridViewControl.KPGridViewControl constructor" Url="html/8ef8eda4-3126-ef4b-cc42-9b046a1a9727.htm" />
+  <HelpKINode Title="KPGridViewControl.RemoveEntityInMemoryDataSource method" Url="html/3264df91-74c4-a644-c0ae-1aa683b96734.htm" />
+  <HelpKINode Title="KPGridViewDeleteDelegate property" Url="html/08495f1d-9529-0670-7193-f2b0319d2335.htm" />
+  <HelpKINode Title="KPHiddenControl class">
+    <HelpKINode Title="KPHiddenControl Class" Url="html/a9d2ece4-ca69-d9a5-634e-c2cf00f206df.htm" />
+    <HelpKINode Title="about KPHiddenControl class" Url="html/a9d2ece4-ca69-d9a5-634e-c2cf00f206df.htm" />
+    <HelpKINode Title="constructor" Url="html/5c55b1a0-2989-56a3-543d-2bb85b73fa21.htm" />
+    <HelpKINode Title="methods" Url="html/b9d1741f-8833-cee7-050a-f67ffcc25a28.htm" />
+    <HelpKINode Title="properties" Url="html/9dac53b9-a584-1be0-e1eb-b31f600e2521.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPHiddenControl.FieldName property" Url="html/0de3f74a-afed-7691-b84b-1c2ccf799dc8.htm" />
+  <HelpKINode Title="KPHiddenControl.KPHiddenControl constructor" Url="html/5c55b1a0-2989-56a3-543d-2bb85b73fa21.htm" />
+  <HelpKINode Title="KPItemModel class">
+    <HelpKINode Title="KPItemModel Class" Url="html/092e5903-9ffc-64c2-50fc-26a48a7be666.htm" />
+    <HelpKINode Title="about KPItemModel class" Url="html/092e5903-9ffc-64c2-50fc-26a48a7be666.htm" />
+    <HelpKINode Title="constructor" Url="html/d1d994d6-0aaa-ed63-c543-89e70aa4fa87.htm" />
+    <HelpKINode Title="properties" Url="html/5874be4f-e7cb-6b0a-4e45-5b16a78c7a29.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPItemModel.Editable property" Url="html/2f6dd996-a444-d5d4-1bb9-927f822d8a38.htm" />
+  <HelpKINode Title="KPItemModel.FieldName property" Url="html/5f6fb568-f77d-967d-36df-7608e518d18a.htm" />
+  <HelpKINode Title="KPItemModel.HeaderName property" Url="html/a87f4cec-4fd1-0c40-619a-cfe3d80c49a7.htm" />
+  <HelpKINode Title="KPItemModel.KPItemModel constructor" Url="html/d1d994d6-0aaa-ed63-c543-89e70aa4fa87.htm" />
+  <HelpKINode Title="KPItemModel.Sortable property" Url="html/58093b56-2af3-7d72-640a-d977a5f1860e.htm" />
+  <HelpKINode Title="KPItemModel.Visible property" Url="html/e523f597-6161-140c-cc0b-db681b638294.htm" />
+  <HelpKINode Title="KPItemModel.Width property" Url="html/ac8fa8a7-b063-4f59-affc-b77dfa54c8d8.htm" />
+  <HelpKINode Title="KPItemsModel property" Url="html/b7d6bb41-6518-be95-f5d4-de7d58f64a00.htm" />
+  <HelpKINode Title="KPItemTextModel class">
+    <HelpKINode Title="KPItemTextModel Class" Url="html/d7d56383-134e-5def-fb70-85f2e846af5f.htm" />
+    <HelpKINode Title="about KPItemTextModel class" Url="html/d7d56383-134e-5def-fb70-85f2e846af5f.htm" />
+    <HelpKINode Title="constructor" Url="html/5fa344bb-1aa7-7f4b-4947-654e4addb5c6.htm" />
+    <HelpKINode Title="properties" Url="html/219d863d-b012-b190-c48a-73f41ff6a440.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPItemTextModel.KPItemTextModel constructor" Url="html/5fa344bb-1aa7-7f4b-4947-654e4addb5c6.htm" />
+  <HelpKINode Title="KPItemTextModel.Mask property" Url="html/83ca7019-9a1a-f6be-4798-fc8c644442f2.htm" />
+  <HelpKINode Title="KPLabelControl class">
+    <HelpKINode Title="KPLabelControl Class" Url="html/0940670b-9dc7-b4bb-d60e-f575645c359f.htm" />
+    <HelpKINode Title="about KPLabelControl class" Url="html/0940670b-9dc7-b4bb-d60e-f575645c359f.htm" />
+    <HelpKINode Title="constructor" Url="html/0603c196-15c7-2731-cab7-8383d1f37950.htm" />
+    <HelpKINode Title="methods" Url="html/89a7f2e1-a334-3ed1-9ade-602dc352a526.htm" />
+    <HelpKINode Title="properties" Url="html/64780a95-0f42-76b8-ca12-bb278b20dc9f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPLabelControl.FieldName property" Url="html/249a276f-b10e-3ee7-58c9-6f27651a45eb.htm" />
+  <HelpKINode Title="KPLabelControl.KPLabelControl constructor" Url="html/0603c196-15c7-2731-cab7-8383d1f37950.htm" />
+  <HelpKINode Title="KPLabelControl.RemoveInvalidateMsg method" Url="html/26102a23-db8b-06ad-adda-81935c963d32.htm" />
+  <HelpKINode Title="KPLabelControl.SetInvalidateMsg method" Url="html/7dbc52ac-d1ce-a6cf-08c4-893872087f23.htm" />
+  <HelpKINode Title="KPMasterPage class">
+    <HelpKINode Title="KPMasterPage Class" Url="html/2787db0e-db08-4f50-24e7-59bfc93c2808.htm" />
+    <HelpKINode Title="about KPMasterPage class" Url="html/2787db0e-db08-4f50-24e7-59bfc93c2808.htm" />
+    <HelpKINode Title="constructor" Url="html/bf5862e4-116c-630a-fe11-e868ab4c3ad9.htm" />
+    <HelpKINode Title="methods" Url="html/03c0094c-8082-3000-af96-8d9f8cd9acda.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPMasterPage.KPMasterPage constructor" Url="html/bf5862e4-116c-630a-fe11-e868ab4c3ad9.htm" />
+  <HelpKINode Title="KPMasterPage.OnLoad method" Url="html/a144aa2d-d70e-7d8e-6e8d-57883a7e68d4.htm" />
+  <HelpKINode Title="KPMenuControl class">
+    <HelpKINode Title="KPMenuControl Class" Url="html/10d877ab-95e5-94b0-436d-63bb70e3da6d.htm" />
+    <HelpKINode Title="about KPMenuControl class" Url="html/10d877ab-95e5-94b0-436d-63bb70e3da6d.htm" />
+    <HelpKINode Title="constructor" Url="html/002cd7a8-ae62-bcd8-e2af-13313d6e82e6.htm" />
+    <HelpKINode Title="methods" Url="html/acb04660-d983-b669-399b-130018a48d9c.htm" />
+    <HelpKINode Title="properties" Url="html/9e12f80e-4f1d-5247-863d-c714f15d9b80.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPMenuControl.CreateChildControls method" Url="html/79729f9a-29b3-88c6-3eda-6ce9fc46c7c8.htm" />
+  <HelpKINode Title="KPMenuControl.KPMenuControl constructor" Url="html/002cd7a8-ae62-bcd8-e2af-13313d6e82e6.htm" />
+  <HelpKINode Title="KPMenuControl.MainMenuBar method" Url="html/70a86bf6-fa4c-1edc-1ebd-7529b7c97a67.htm" />
+  <HelpKINode Title="KPMenuControl.OnInit method" Url="html/ad1c8d69-32d5-d11f-404b-2f8c88633dc1.htm" />
+  <HelpKINode Title="KPMenuControl.Title property" Url="html/8c6cbbb0-36a1-32a0-c2b9-a9e1ebac22dc.htm" />
+  <HelpKINode Title="KPOrder delegate" Url="html/85679fa1-9118-a3c7-bfcc-cf017f721efa.htm" />
+  <HelpKINode Title="KPOrderDelegate property" Url="html/20cc81a3-ebef-9632-ff20-dfd39cfc5223.htm" />
+  <HelpKINode Title="KPPage(Of PageEnum) class">
+    <HelpKINode Title="KPPage(PageEnum) Class" Url="html/5671ee6b-cfc7-d5bd-17b9-7eeedfc0c52c.htm" />
+    <HelpKINode Title="about KPPage(Of PageEnum) class" Url="html/5671ee6b-cfc7-d5bd-17b9-7eeedfc0c52c.htm" />
+    <HelpKINode Title="constructor" Url="html/31f46367-a276-579f-b663-6b39bea19bf0.htm" />
+    <HelpKINode Title="methods" Url="html/a449341f-faf2-becd-e360-f056545f8b0f.htm" />
+    <HelpKINode Title="properties" Url="html/c06fb5a1-a98e-0743-0b43-5d2f3a89ea68.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPPage(Of PageEnum).ClosePageForm method" Url="html/b4e7bc2e-d9ac-1791-2975-9383fe6cb3eb.htm" />
+  <HelpKINode Title="KPPage(Of PageEnum).KPPage constructor" Url="html/31f46367-a276-579f-b663-6b39bea19bf0.htm" />
+  <HelpKINode Title="KPPage(Of PageEnum).PageEnumeratorForm property" Url="html/9e3ba569-67a9-1db8-583d-7de200a3dadf.htm" />
+  <HelpKINode Title="KPPage(Of PageEnum).PageEnumeratorView property" Url="html/c4317b49-508b-8b04-b334-03d8c6b1c452.htm" />
+  <HelpKINode Title="KPPage&lt;PageEnum&gt; class">
+    <HelpKINode Title="KPPage(PageEnum) Class" Url="html/5671ee6b-cfc7-d5bd-17b9-7eeedfc0c52c.htm" />
+    <HelpKINode Title="about KPPage&lt;PageEnum&gt; class" Url="html/5671ee6b-cfc7-d5bd-17b9-7eeedfc0c52c.htm" />
+    <HelpKINode Title="constructor" Url="html/31f46367-a276-579f-b663-6b39bea19bf0.htm" />
+    <HelpKINode Title="methods" Url="html/a449341f-faf2-becd-e360-f056545f8b0f.htm" />
+    <HelpKINode Title="properties" Url="html/c06fb5a1-a98e-0743-0b43-5d2f3a89ea68.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPPage&lt;PageEnum&gt;.ClosePageForm method" Url="html/b4e7bc2e-d9ac-1791-2975-9383fe6cb3eb.htm" />
+  <HelpKINode Title="KPPage&lt;PageEnum&gt;.KPPage constructor" Url="html/31f46367-a276-579f-b663-6b39bea19bf0.htm" />
+  <HelpKINode Title="KPPage&lt;PageEnum&gt;.PageEnumeratorForm property" Url="html/9e3ba569-67a9-1db8-583d-7de200a3dadf.htm" />
+  <HelpKINode Title="KPPage&lt;PageEnum&gt;.PageEnumeratorView property" Url="html/c4317b49-508b-8b04-b334-03d8c6b1c452.htm" />
+  <HelpKINode Title="KPPageBase class">
+    <HelpKINode Title="KPPageBase Class" Url="html/cc5e5105-f646-819a-a18e-f15189d8c171.htm" />
+    <HelpKINode Title="about KPPageBase class" Url="html/cc5e5105-f646-819a-a18e-f15189d8c171.htm" />
+    <HelpKINode Title="constructor" Url="html/b3b9239f-9db3-a197-203f-0b8182cd8dd6.htm" />
+    <HelpKINode Title="methods" Url="html/c91c522c-86c1-85b8-8426-4a42cf38afd1.htm" />
+    <HelpKINode Title="properties" Url="html/b16f1fd8-0a26-7e4e-07c5-74590a2e7767.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPPageBase.KPPageBase constructor" Url="html/b3b9239f-9db3-a197-203f-0b8182cd8dd6.htm" />
+  <HelpKINode Title="KPPageBase.KPWindow method" Url="html/5d20515a-7df0-30c4-dc49-24b97254dce8.htm" />
+  <HelpKINode Title="KPPageBase.OnInit method" Url="html/362ca920-7fc8-a731-3bb7-96f3f72d77dc.htm" />
+  <HelpKINode Title="KPPageBase.SecuritySession property" Url="html/81483876-c23c-e52b-95e3-4307282ab8fe.htm" />
+  <HelpKINode Title="KPPageBase.SetLoading method" Url="html/8c99188e-3d5d-2545-4ef5-285a8cb26d3b.htm" />
+  <HelpKINode Title="KPPageBase.ShowMessage method" Url="html/86418e99-f31d-41fc-63a8-f1138351cc8d.htm" />
+  <HelpKINode Title="KPReportControl class">
+    <HelpKINode Title="KPReportControl Class" Url="html/0260d334-202c-537b-30cc-0df60b2a2b76.htm" />
+    <HelpKINode Title="about KPReportControl class" Url="html/0260d334-202c-537b-30cc-0df60b2a2b76.htm" />
+    <HelpKINode Title="constructor" Url="html/f0d7bc03-1b4a-d543-c7f4-72f102f715d7.htm" />
+    <HelpKINode Title="methods" Url="html/dad05cb1-e77a-de4b-b24d-0e75f2338275.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPReportControl.KPReportControl constructor" Url="html/f0d7bc03-1b4a-d543-c7f4-72f102f715d7.htm" />
+  <HelpKINode Title="KPRetrieveComboItems delegate" Url="html/aebe4a68-d274-7ed8-7686-57e53dcd92d2.htm" />
+  <HelpKINode Title="KPSenderEntity delegate" Url="html/48d97b66-f704-9dee-135f-942cf9164c30.htm" />
+  <HelpKINode Title="KPSenderEntityBefore delegate" Url="html/2178d3e5-eaff-a3a5-fd43-31995ae7b822.htm" />
+  <HelpKINode Title="KPSenderEntityBO delegate" Url="html/eaa07efa-8f57-529e-95b3-7984b7bcb417.htm" />
+  <HelpKINode Title="KPSessionData class">
+    <HelpKINode Title="KPSessionData Class" Url="html/ec978c71-8daa-49d2-f2e2-85a75975845a.htm" />
+    <HelpKINode Title="about KPSessionData class" Url="html/ec978c71-8daa-49d2-f2e2-85a75975845a.htm" />
+    <HelpKINode Title="constructor" Url="html/ff930a04-00e8-e74c-e306-2962c639f8e6.htm" />
+    <HelpKINode Title="properties" Url="html/77ca983a-8563-a5e7-67a6-4ad458502d6a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPSessionData property" Url="html/a7c0d5dd-5d77-cec5-8cb1-20a0a8b1dcbd.htm" />
+  <HelpKINode Title="KPSessionData.Entity property" Url="html/d52d2e57-0ec3-1661-46b3-fd69d2b35ca2.htm" />
+  <HelpKINode Title="KPSessionData.FormState property" Url="html/bb94fe21-c888-3143-fba4-bdca46166877.htm" />
+  <HelpKINode Title="KPSessionData.GridTableID property" Url="html/445b3351-9f13-27c5-eaf6-1483baf0d0f8.htm" />
+  <HelpKINode Title="KPSessionData.KPGridControl property" Url="html/d31a153c-9f50-1a08-344f-64ff3128c783.htm" />
+  <HelpKINode Title="KPSessionData.KPSessionData constructor" Url="html/ff930a04-00e8-e74c-e306-2962c639f8e6.htm" />
+  <HelpKINode Title="KPSessionData.TypeEntity property" Url="html/1af94eaf-d2c1-210f-4177-a384bb423ac2.htm" />
+  <HelpKINode Title="KPSessionHelper class">
+    <HelpKINode Title="KPSessionHelper Class" Url="html/87b79f98-ef4f-e432-9a25-37a3a887318d.htm" />
+    <HelpKINode Title="about KPSessionHelper class" Url="html/87b79f98-ef4f-e432-9a25-37a3a887318d.htm" />
+    <HelpKINode Title="methods" Url="html/efc0a4f5-5ad7-ed39-8f40-1f0d0471db68.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPSessionHelper.GetCurrentCompany method" Url="html/7eacbe2d-5f4b-b629-6fb7-d18d32df9291.htm" />
+  <HelpKINode Title="KPSessionHelper.GetSession method" Url="html/1844fc15-ee3e-31f1-f9e4-ec8e03822ec6.htm" />
+  <HelpKINode Title="KPSessionHelper.GetSessionData method" Url="html/adc30c2a-d1aa-662e-c949-d2e5f621da68.htm" />
+  <HelpKINode Title="KPSessionHelper.RemoveSession method" Url="html/c83e434e-75cb-fa55-ad72-da71c33d2301.htm" />
+  <HelpKINode Title="KPSessionHelper.RemoveSessionData method" Url="html/2394777e-faac-df71-6907-f4cbde006d67.htm" />
+  <HelpKINode Title="KPSessionHelper.SetSession method" Url="html/8a4b1a7a-852b-32ae-2015-d8c5696fe3d8.htm" />
+  <HelpKINode Title="KPSessionHelper.SetSessionData method" Url="html/5ac86d07-b50c-65ab-6fbf-34b3b6a193bc.htm" />
+  <HelpKINode Title="KPTabControl class">
+    <HelpKINode Title="KPTabControl Class" Url="html/a9148398-1bdf-5f22-da94-8a9d044033c9.htm" />
+    <HelpKINode Title="about KPTabControl class" Url="html/a9148398-1bdf-5f22-da94-8a9d044033c9.htm" />
+    <HelpKINode Title="constructor" Url="html/636ed2eb-cb34-55bd-34cf-0d1e3fbf4c93.htm" />
+    <HelpKINode Title="methods" Url="html/365fb26b-b2a3-cf61-7503-9b99940d647d.htm" />
+    <HelpKINode Title="properties" Url="html/e988dba8-a0df-6849-71b5-47dbc48ffccc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPTabControl.DashboardTitle property" Url="html/54277585-a8d0-46ce-ad2b-451fe621892b.htm" />
+  <HelpKINode Title="KPTabControl.DashboardUrl property" Url="html/2dcbc4b8-e27f-fd10-0bb3-71004275dca3.htm" />
+  <HelpKINode Title="KPTabControl.GetTabIndexScript method" Url="html/8ba14824-c1fc-65fd-2464-49d6b99a517e.htm" />
+  <HelpKINode Title="KPTabControl.KPTabControl constructor" Url="html/636ed2eb-cb34-55bd-34cf-0d1e3fbf4c93.htm" />
+  <HelpKINode Title="KPTabControl.Render method" Url="html/d97d10c6-9286-2e4e-b344-88cc72992b54.htm" />
+  <HelpKINode Title="KPTabControl.SetTabIndex method" Url="html/68e20686-0afc-8d2a-e596-45359e538f52.htm" />
+  <HelpKINode Title="KPTabs property" Url="html/1779f95c-18e6-6769-5383-7f198d0fa678.htm" />
+  <HelpKINode Title="KPTemplate property" Url="html/4b6d0923-3d1e-7753-4667-d59418546442.htm" />
+  <HelpKINode Title="KPTextBoxField class">
+    <HelpKINode Title="KPTextBoxField Class" Url="html/698870fd-67ee-f587-7127-be7a697c4621.htm" />
+    <HelpKINode Title="about KPTextBoxField class" Url="html/698870fd-67ee-f587-7127-be7a697c4621.htm" />
+    <HelpKINode Title="constructor" Url="html/3fbc44a0-82f5-d179-02a7-578661133035.htm" />
+    <HelpKINode Title="methods" Url="html/f1a60065-b5ce-8b2e-8476-305843428374.htm" />
+    <HelpKINode Title="properties" Url="html/baa5494e-4d0d-9a87-d500-39682ba147d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPTextBoxField.CreateChildControls method" Url="html/b25b6ac4-4c66-ecc0-0c50-26f8569491cb.htm" />
+  <HelpKINode Title="KPTextBoxField.FieldName property" Url="html/8794504b-f917-3d54-b63e-1b76e1209c83.htm" />
+  <HelpKINode Title="KPTextBoxField.KPTextBoxField constructor" Url="html/3fbc44a0-82f5-d179-02a7-578661133035.htm" />
+  <HelpKINode Title="KPTextBoxField.Mask property" Url="html/aaac5363-0487-0513-9d34-9d54336bbb1e.htm" />
+  <HelpKINode Title="KPTextBoxField.RemoveInvalidateMsg method" Url="html/914774e2-c926-2742-dfb2-3e5d07c53b7c.htm" />
+  <HelpKINode Title="KPTextBoxField.SetInvalidateMsg method" Url="html/b597b21a-013a-b330-69bc-d8b9d22af405.htm" />
+  <HelpKINode Title="KPTextBoxField.Text property" Url="html/6a6389d6-0f9c-38eb-34bf-f8b6e7f9c113.htm" />
+  <HelpKINode Title="KPTextBoxFire class">
+    <HelpKINode Title="KPTextBoxFire Class" Url="html/e30564ad-bef3-21eb-86ae-2d529a6a6786.htm" />
+    <HelpKINode Title="about KPTextBoxFire class" Url="html/e30564ad-bef3-21eb-86ae-2d529a6a6786.htm" />
+    <HelpKINode Title="constructor" Url="html/6a5a0f31-1383-58ed-8a88-c155955133bf.htm" />
+    <HelpKINode Title="methods" Url="html/7dc77976-2445-84da-8244-cee7fa748eb4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPTextBoxFire.CreateChildControls method" Url="html/f8f0175a-7f2e-55cc-bfb8-e76927e1a043.htm" />
+  <HelpKINode Title="KPTextBoxFire.KPTextBoxFire constructor" Url="html/6a5a0f31-1383-58ed-8a88-c155955133bf.htm" />
+  <HelpKINode Title="KPTextBoxZoomField class">
+    <HelpKINode Title="KPTextBoxZoomField Class" Url="html/301c9b7e-b9f2-9342-9d43-e80335440125.htm" />
+    <HelpKINode Title="about KPTextBoxZoomField class" Url="html/301c9b7e-b9f2-9342-9d43-e80335440125.htm" />
+    <HelpKINode Title="constructor" Url="html/2e4afd78-3217-51f1-c46f-4bd90309611c.htm" />
+    <HelpKINode Title="methods" Url="html/d22b3344-6c1d-25ef-e2f2-fb65ef5fd3b5.htm" />
+    <HelpKINode Title="properties" Url="html/ceddcb9b-5050-c9bc-6082-89a82a7b0742.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPTextBoxZoomField.CreateChildControls method" Url="html/3c030cfc-28d8-358d-c074-33ef78a3f0b9.htm" />
+  <HelpKINode Title="KPTextBoxZoomField.FieldName property" Url="html/9908effe-5df0-1c7e-7b62-8f4375d8d8f8.htm" />
+  <HelpKINode Title="KPTextBoxZoomField.KPTextBoxZoomField constructor" Url="html/2e4afd78-3217-51f1-c46f-4bd90309611c.htm" />
+  <HelpKINode Title="KPTextBoxZoomField.Mask property" Url="html/99e823f4-4005-70e3-77e9-77dcf06d0cb5.htm" />
+  <HelpKINode Title="KPTextBoxZoomField.RemoveInvalidateMsg method" Url="html/b00502a6-e34a-779f-0f66-c2a9264d0b2c.htm" />
+  <HelpKINode Title="KPTextBoxZoomField.SetInvalidateMsg method" Url="html/d4319efd-5c86-4cd8-2f52-fef538e3e379.htm" />
+  <HelpKINode Title="KPTextBoxZoomField.Text property" Url="html/ea20c590-d4b8-4c3b-e85d-f6f98ff634a3.htm" />
+  <HelpKINode Title="KPTextLostFocus delegate" Url="html/79c36a56-aecc-a8e7-cfc2-50317e2e52fa.htm" />
+  <HelpKINode Title="KPTextLostFocusDelegate property">
+    <HelpKINode Title="KPFormItemDateTime.KPTextLostFocusDelegate Property " Url="html/a4cc1014-e8c1-0954-1a6e-0c29e5f7e5be.htm" />
+    <HelpKINode Title="KPFormItemText.KPTextLostFocusDelegate Property " Url="html/7bea5030-1afe-7fce-f414-c30daf30bdbd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPTextPasswordLostFocus delegate" Url="html/884603fd-4384-f2ae-6ab8-e88ac28e09a6.htm" />
+  <HelpKINode Title="KPTextPasswordLostFocusDelegate property" Url="html/d3e5d207-762a-4c4d-a453-69535464f413.htm" />
+  <HelpKINode Title="KPViewButtonModel class">
+    <HelpKINode Title="KPViewButtonModel Class" Url="html/b6191dce-eb6d-b1c2-fb3f-327c9e78bdda.htm" />
+    <HelpKINode Title="about KPViewButtonModel class" Url="html/b6191dce-eb6d-b1c2-fb3f-327c9e78bdda.htm" />
+    <HelpKINode Title="constructor" Url="html/d3532da4-be79-bc37-f61c-2097aada1321.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPViewButtonModel.KPViewButtonModel constructor" Url="html/d3532da4-be79-bc37-f61c-2097aada1321.htm" />
+  <HelpKINode Title="KPViewButtonModelCollection class">
+    <HelpKINode Title="KPViewButtonModelCollection Class" Url="html/80414d1c-5981-9c36-0299-dadee16c2bbe.htm" />
+    <HelpKINode Title="about KPViewButtonModelCollection class" Url="html/80414d1c-5981-9c36-0299-dadee16c2bbe.htm" />
+    <HelpKINode Title="constructor" Url="html/54e385bd-4d66-1ef0-936e-da5067e37286.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPViewButtonModelCollection.KPViewButtonModelCollection constructor" Url="html/54e385bd-4d66-1ef0-936e-da5067e37286.htm" />
+  <HelpKINode Title="KPViewButtonSimple class">
+    <HelpKINode Title="KPViewButtonSimple Class" Url="html/72624138-d6e9-015e-e130-6d6eee1e26e7.htm" />
+    <HelpKINode Title="about KPViewButtonSimple class" Url="html/72624138-d6e9-015e-e130-6d6eee1e26e7.htm" />
+    <HelpKINode Title="constructor" Url="html/e6dbc98c-e5b5-584c-b8f2-537abeae2117.htm" />
+    <HelpKINode Title="events" Url="html/4c797bf2-0e8c-6393-bacc-100711b8608c.htm" />
+    <HelpKINode Title="methods" Url="html/643acce7-74ba-73a9-c07d-dd8fb68a34a8.htm" />
+    <HelpKINode Title="properties" Url="html/76a8aebe-762a-3f12-ebb3-101c88404268.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPViewButtonSimple.Click event" Url="html/a933e18f-259d-b58a-7c7a-2425081395be.htm" />
+  <HelpKINode Title="KPViewButtonSimple.KPViewButtonSimple constructor" Url="html/e6dbc98c-e5b5-584c-b8f2-537abeae2117.htm" />
+  <HelpKINode Title="KPViewButtonSimple.OnClick method" Url="html/e21cf191-1396-5359-cc41-f072b9743dfc.htm" />
+  <HelpKINode Title="KPViewButtonSimple.Title property" Url="html/3644ba2b-7cbc-3fa1-e2a1-c126c989dcc2.htm" />
+  <HelpKINode Title="KPWindow method" Url="html/5d20515a-7df0-30c4-dc49-24b97254dce8.htm" />
+  <HelpKINode Title="KPZoomClick delegate" Url="html/288087cd-1738-f9e5-410d-1a41e2892a26.htm" />
+  <HelpKINode Title="KPZoomControl class">
+    <HelpKINode Title="KPZoomControl Class" Url="html/864e16a3-c593-6547-c23d-b23a22b4922b.htm" />
+    <HelpKINode Title="about KPZoomControl class" Url="html/864e16a3-c593-6547-c23d-b23a22b4922b.htm" />
+    <HelpKINode Title="constructor" Url="html/46d2c028-138e-368d-e032-1948d206140b.htm" />
+    <HelpKINode Title="events" Url="html/193054f3-7d0a-d74f-85ea-97a1620014e3.htm" />
+    <HelpKINode Title="methods" Url="html/6d4e727e-d3de-a057-8133-a2b047448f62.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPZoomControl.KPEventZoomClickClose event" Url="html/b2fe8ae5-a226-069a-bae8-ec114bad8d4f.htm" />
+  <HelpKINode Title="KPZoomControl.KPEventZoomClickOK event" Url="html/6d1e6b15-55cb-1c51-f0c2-8e3625e3c14a.htm" />
+  <HelpKINode Title="KPZoomControl.KPZoomControl constructor" Url="html/46d2c028-138e-368d-e032-1948d206140b.htm" />
+  <HelpKINode Title="KPZoomControl.OnInit method" Url="html/708fefeb-9efe-7628-3182-e796b0beb0b8.htm" />
+  <HelpKINode Title="KPZoomControl.Render method" Url="html/c38dd8b9-cee2-7e70-3dd8-84090f67d66b.htm" />
+  <HelpKINode Title="KPZoomField class">
+    <HelpKINode Title="KPZoomField Class" Url="html/a3569fc2-4b4e-eaf1-0a37-0b5404e9edae.htm" />
+    <HelpKINode Title="about KPZoomField class" Url="html/a3569fc2-4b4e-eaf1-0a37-0b5404e9edae.htm" />
+    <HelpKINode Title="constructor" Url="html/e2188bb5-1c4f-4758-172a-a55817a73bce.htm" />
+    <HelpKINode Title="methods" Url="html/7f43d5f3-a620-299a-5bd8-d536cb185ac5.htm" />
+    <HelpKINode Title="properties" Url="html/3292bf61-bd0e-4edd-0bb6-8dbab7ba48f7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="KPZoomField.CreateChildControls method" Url="html/33e4abbc-3270-b64d-f979-cb06cf04e681.htm" />
+  <HelpKINode Title="KPZoomField.CssClass property" Url="html/d4e1045d-a18e-ae9d-ec26-35408db551af.htm" />
+  <HelpKINode Title="KPZoomField.Description property" Url="html/d3d45e2b-4f59-fe68-dc72-e69e3ba2ebef.htm" />
+  <HelpKINode Title="KPZoomField.DescriptionWidth property" Url="html/e3c49058-df2c-313f-d53b-f21631efd01c.htm" />
+  <HelpKINode Title="KPZoomField.FieldName property" Url="html/45e9fc92-a31a-58ed-6068-6e3bcf2f165d.htm" />
+  <HelpKINode Title="KPZoomField.ItemZoom property" Url="html/d7e701d4-2fb6-6d55-9e63-eff7cc1bd014.htm" />
+  <HelpKINode Title="KPZoomField.KPZoomField constructor" Url="html/e2188bb5-1c4f-4758-172a-a55817a73bce.htm" />
+  <HelpKINode Title="KPZoomField.RemoveInvalidateMsg method" Url="html/e6f9dbf8-3c45-16dc-b8db-4a20c896324e.htm" />
+  <HelpKINode Title="KPZoomField.SetInvalidateMsg method" Url="html/932ed121-c116-9e2e-1211-62b859b19733.htm" />
+  <HelpKINode Title="KPZoomField.Value property" Url="html/6711a392-0a38-9d9d-2dd5-e7772f5865f1.htm" />
+  <HelpKINode Title="KPZoomField.ValueViewed property" Url="html/b868fb87-c491-6f63-03e0-be239c6966c9.htm" />
+  <HelpKINode Title="KPZoomField.Width property" Url="html/850665bd-45f9-49b3-0575-fecd55f61811.htm" />
+  <HelpKINode Title="KPZoomField.ZoomConfig property" Url="html/e1deff88-825e-9cf6-8bac-2d8ca9124cd2.htm" />
+  <HelpKINode Title="KPZoomFieldsConfig property" Url="html/79f8bc6e-8b50-6421-9ca8-68f43d0a1391.htm" />
+  <HelpKINode Title="KPZoomLostFocus delegate" Url="html/ff333e45-ba42-723f-a697-1eaf3a976f0d.htm" />
+  <HelpKINode Title="KPZoomLostFocusDelegate property" Url="html/59a61d6f-4cda-82f0-ed3f-366c6c8d05b1.htm" />
+  <HelpKINode Title="LoadViewState method">
+    <HelpKINode Title="StateManagedCollection(T).LoadViewState Method " Url="html/e98c1283-8754-6ea2-4326-123d7d5c23e1.htm" />
+    <HelpKINode Title="StateManagedCompositeControl.LoadViewState Method " Url="html/3ebfe263-b6c3-779f-4aab-5dc9f76e9430.htm" />
+    <HelpKINode Title="StateManagedItem.LoadViewState Method " Url="html/52da9eba-fc0d-242f-b69f-cdbefebe0ce6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Logout method" Url="html/b2107fa8-8a48-21e6-0d51-f8c98813b171.htm" />
+  <HelpKINode Title="MainMenuBar method" Url="html/70a86bf6-fa4c-1edc-1ebd-7529b7c97a67.htm" />
+  <HelpKINode Title="Mask property">
+    <HelpKINode Title="KPFormGridField.Mask Property " Url="html/1eaec5f2-7062-7526-5e21-249a3589e61a.htm" />
+    <HelpKINode Title="KPFormItemText.Mask Property " Url="html/bf2c00da-a11d-34fe-cfd1-1f821deb82d8.htm" />
+    <HelpKINode Title="KPFormItemZoom.Mask Property " Url="html/c0c5e997-62f2-7944-bafc-07149e3c96e4.htm" />
+    <HelpKINode Title="KPItemTextModel.Mask Property " Url="html/83ca7019-9a1a-f6be-4798-fc8c644442f2.htm" />
+    <HelpKINode Title="KPTextBoxField.Mask Property " Url="html/aaac5363-0487-0513-9d34-9d54336bbb1e.htm" />
+    <HelpKINode Title="KPTextBoxZoomField.Mask Property " Url="html/99e823f4-4005-70e3-77e9-77dcf06d0cb5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MultiLine property" Url="html/4792cc65-aad4-b1a9-d009-d4f9f8da0c8a.htm" />
+  <HelpKINode Title="NamespaceEnum property">
+    <HelpKINode Title="KPEnumModel.NamespaceEnum Property " Url="html/62dc21e4-77c7-e37e-7aee-0226e6b069c6.htm" />
+    <HelpKINode Title="KPFormItemCombo.NamespaceEnum Property " Url="html/f94a587a-af07-bbaf-1433-b1f75137895e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnClick method">
+    <HelpKINode Title="KPFormButtonSimple.OnClick Method " Url="html/a0fa2c6f-d8e2-85de-7f92-4fbd5f8ed0e2.htm" />
+    <HelpKINode Title="KPViewButtonSimple.OnClick Method " Url="html/e21cf191-1396-5359-cc41-f072b9743dfc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnInit method">
+    <HelpKINode Title="KPGridControl.OnInit Method " Url="html/67992918-1384-e816-311c-09d2192fcae7.htm" />
+    <HelpKINode Title="KPMenuControl.OnInit Method " Url="html/ad1c8d69-32d5-d11f-404b-2f8c88633dc1.htm" />
+    <HelpKINode Title="KPPageBase.OnInit Method " Url="html/362ca920-7fc8-a731-3bb7-96f3f72d77dc.htm" />
+    <HelpKINode Title="KPZoomControl.OnInit Method " Url="html/708fefeb-9efe-7628-3182-e796b0beb0b8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnLoad method">
+    <HelpKINode Title="KPFormControl.OnLoad Method " Url="html/5c7619ec-1cbd-0438-dfb1-d4cb58999171.htm" />
+    <HelpKINode Title="KPFormTabControl.OnLoad Method " Url="html/13b7f5a5-0985-c538-199b-7a0ada9e6449.htm" />
+    <HelpKINode Title="KPMasterPage.OnLoad Method " Url="html/a144aa2d-d70e-7d8e-6e8d-57883a7e68d4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnPreRender method" Url="html/3877e7da-a533-0356-c1fd-dd98b3289c17.htm" />
+  <HelpKINode Title="OpenZoomSearchNotFound property" Url="html/04fff2ab-c346-13bf-f120-02b2df5915bd.htm" />
+  <HelpKINode Title="OrderRecords property" Url="html/50a91412-1afb-8593-e4d1-89be3138a445.htm" />
+  <HelpKINode Title="PageEnumeratorForm property" Url="html/9e3ba569-67a9-1db8-583d-7de200a3dadf.htm" />
+  <HelpKINode Title="PageEnumeratorView property" Url="html/c4317b49-508b-8b04-b334-03d8c6b1c452.htm" />
+  <HelpKINode Title="PageFormUrl property" Url="html/45cee93b-0116-6c42-fd8c-bb70cd13ef85.htm" />
+  <HelpKINode Title="PagerID property" Url="html/6a12c789-cab8-973c-aa79-ec4df94ab513.htm" />
+  <HelpKINode Title="PrimaryKey property" Url="html/8dea4db1-c907-4578-e3b9-048f684da0fd.htm" />
+  <HelpKINode Title="PropertyCompanyEntity property">
+    <HelpKINode Title="KPFormZoomModel.PropertyCompanyEntity Property " Url="html/d008c7a6-074c-20b1-2847-3a3c2f64711f.htm" />
+    <HelpKINode Title="KPGridControl.PropertyCompanyEntity Property " Url="html/c3ccac17-4ce1-bfd5-e751-98390d2b1403.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyComparer property" Url="html/238253c5-d276-7ac6-8ffc-98ac24addc41.htm" />
+  <HelpKINode Title="Remove method">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.Remove Method " Url="html/6074b367-b06f-d819-a7e4-c17703561e95.htm" />
+    <HelpKINode Title="StateManagedCollection(T).Remove Method " Url="html/717d295f-6e3b-3d66-d932-09f8e172c320.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveAt method">
+    <HelpKINode Title="KPComboBoxFieldItemCollection.RemoveAt Method " Url="html/b5a87043-5da8-313b-18ef-87b3ea1186bb.htm" />
+    <HelpKINode Title="StateManagedCollection(T).RemoveAt Method " Url="html/3a53916a-07da-2212-8147-1b3a0d1610e8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveEntityInMemoryDataSource method" Url="html/3264df91-74c4-a644-c0ae-1aa683b96734.htm" />
+  <HelpKINode Title="RemoveInvalidateMsg method">
+    <HelpKINode Title="IKPComponentData.RemoveInvalidateMsg Method " Url="html/99c74af4-7bb9-ac22-2360-a2367ee20988.htm" />
+    <HelpKINode Title="KPCheckBoxField.RemoveInvalidateMsg Method " Url="html/cd08031d-d383-d1c4-349a-02fdad5c9ecd.htm" />
+    <HelpKINode Title="KPComboBoxField.RemoveInvalidateMsg Method " Url="html/b59a5ad8-a6a5-9f77-b990-6d2ab6e10670.htm" />
+    <HelpKINode Title="KPLabelControl.RemoveInvalidateMsg Method " Url="html/26102a23-db8b-06ad-adda-81935c963d32.htm" />
+    <HelpKINode Title="KPTextBoxField.RemoveInvalidateMsg Method " Url="html/914774e2-c926-2742-dfb2-3e5d07c53b7c.htm" />
+    <HelpKINode Title="KPTextBoxZoomField.RemoveInvalidateMsg Method " Url="html/b00502a6-e34a-779f-0f66-c2a9264d0b2c.htm" />
+    <HelpKINode Title="KPZoomField.RemoveInvalidateMsg Method " Url="html/e6f9dbf8-3c45-16dc-b8db-4a20c896324e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveSession method" Url="html/c83e434e-75cb-fa55-ad72-da71c33d2301.htm" />
+  <HelpKINode Title="RemoveSessionData method" Url="html/2394777e-faac-df71-6907-f4cbde006d67.htm" />
+  <HelpKINode Title="Render method">
+    <HelpKINode Title="KPAssetLoader.Render Method " Url="html/fdf86fc2-b336-1468-8e74-570eb2c1f459.htm" />
+    <HelpKINode Title="KPFormTabControl.Render Method " Url="html/8242b164-a745-3656-0195-186025221e59.htm" />
+    <HelpKINode Title="KPGridControl.Render Method " Url="html/5adc472f-60d8-6a02-d9bd-a97d51d08483.htm" />
+    <HelpKINode Title="KPTabControl.Render Method " Url="html/d97d10c6-9286-2e4e-b344-88cc72992b54.htm" />
+    <HelpKINode Title="KPZoomControl.Render Method " Url="html/c38dd8b9-cee2-7e70-3dd8-84090f67d66b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RenderContents method" Url="html/be177463-5c48-d2dd-bf67-39aa4526beb2.htm" />
+  <HelpKINode Title="RowNum property" Url="html/5f27d44c-9a91-38aa-6bf3-a7cf6133702a.htm" />
+  <HelpKINode Title="RowSelectedKey property" Url="html/6de3a80d-2571-d132-37c2-4b563f8f64c8.htm" />
+  <HelpKINode Title="SaveViewState method">
+    <HelpKINode Title="StateManagedCollection(T).SaveViewState Method " Url="html/ff7f9357-bd96-8a7a-8f77-9301b3023a54.htm" />
+    <HelpKINode Title="StateManagedCompositeControl.SaveViewState Method " Url="html/e67f5b4f-b591-1adf-9100-6060ac425f7c.htm" />
+    <HelpKINode Title="StateManagedItem.SaveViewState Method " Url="html/d91f2f0b-da9f-f39e-916d-54893b025308.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SearchByField property" Url="html/faf35354-b70c-4778-d101-98f60517517b.htm" />
+  <HelpKINode Title="SecuritySession property">
+    <HelpKINode Title="KPFormsAuthentication.SecuritySession Property " Url="html/d69ac134-6675-8cf9-aee8-d2d90b9767c4.htm" />
+    <HelpKINode Title="KPPageBase.SecuritySession Property " Url="html/81483876-c23c-e52b-95e3-4307282ab8fe.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SelectedIndex property" Url="html/996fafdc-d4f2-4aa2-cdf2-718b33a28310.htm" />
+  <HelpKINode Title="SelectedItem property" Url="html/2239f2cb-cba7-1b73-1dd4-9c6fd236b77d.htm" />
+  <HelpKINode Title="SelectedItemEntity property" Url="html/2a5a7792-a769-b48d-7dff-995452c03161.htm" />
+  <HelpKINode Title="SelectedValue property" Url="html/d24fb77c-e3c7-5a79-21d3-dd3bfba1823c.htm" />
+  <HelpKINode Title="SetDirty method">
+    <HelpKINode Title="IStateManagedItem.SetDirty Method " Url="html/0e285011-76cd-1f17-902c-9d1fa82b0cc4.htm" />
+    <HelpKINode Title="StateManagedCollection(T).SetDirty Method " Url="html/9c205da0-b2fa-40fb-f543-fcb21aaf3cd5.htm" />
+    <HelpKINode Title="StateManagedCompositeControl.SetDirty Method " Url="html/1127fa25-ae77-db5d-9f46-03f694872763.htm" />
+    <HelpKINode Title="StateManagedItem.SetDirty Method " Url="html/09ccd5e8-6e64-d0d6-b41e-93695804a87c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetInvalidateMsg method">
+    <HelpKINode Title="IKPComponentData.SetInvalidateMsg Method " Url="html/9cbd8530-7364-282d-34b5-d2ee7831f4b1.htm" />
+    <HelpKINode Title="KPCheckBoxField.SetInvalidateMsg Method " Url="html/8c9a0545-9b23-65f9-c685-e1b13f8bd434.htm" />
+    <HelpKINode Title="KPComboBoxField.SetInvalidateMsg Method " Url="html/3aa4c9e6-92ec-cc9c-f379-b6d04e5fd292.htm" />
+    <HelpKINode Title="KPLabelControl.SetInvalidateMsg Method " Url="html/7dbc52ac-d1ce-a6cf-08c4-893872087f23.htm" />
+    <HelpKINode Title="KPTextBoxField.SetInvalidateMsg Method " Url="html/b597b21a-013a-b330-69bc-d8b9d22af405.htm" />
+    <HelpKINode Title="KPTextBoxZoomField.SetInvalidateMsg Method " Url="html/d4319efd-5c86-4cd8-2f52-fef538e3e379.htm" />
+    <HelpKINode Title="KPZoomField.SetInvalidateMsg Method " Url="html/932ed121-c116-9e2e-1211-62b859b19733.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetItemDirty method" Url="html/1ac0646a-cf4b-bb68-177a-9ba579b597d0.htm" />
+  <HelpKINode Title="SetLoading method" Url="html/8c99188e-3d5d-2545-4ef5-285a8cb26d3b.htm" />
+  <HelpKINode Title="SetSession method" Url="html/8a4b1a7a-852b-32ae-2015-d8c5696fe3d8.htm" />
+  <HelpKINode Title="SetSessionData method" Url="html/5ac86d07-b50c-65ab-6fbf-34b3b6a193bc.htm" />
+  <HelpKINode Title="SetTabIndex method" Url="html/68e20686-0afc-8d2a-e596-45359e538f52.htm" />
+  <HelpKINode Title="Show method" Url="html/0fea78fd-680a-56b2-4830-8e7af78eb4eb.htm" />
+  <HelpKINode Title="ShowMessage method" Url="html/86418e99-f31d-41fc-63a8-f1138351cc8d.htm" />
+  <HelpKINode Title="ShowNoButton field" Url="html/3b9aa146-7779-2b38-ff4b-1d835f0cd524.htm" />
+  <HelpKINode Title="ShowYesButton field" Url="html/d5b2a61d-9751-8cfc-7e75-e48ab5641e29.htm" />
+  <HelpKINode Title="Sortable property" Url="html/58093b56-2af3-7d72-640a-d977a5f1860e.htm" />
+  <HelpKINode Title="Source property" Url="html/c7d265ef-d65d-e49f-9025-76e269f53160.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T) class">
+    <HelpKINode Title="StateManagedCollection(T) Class" Url="html/c0572df2-d7a4-6983-3025-fee7a706c756.htm" />
+    <HelpKINode Title="about StateManagedCollection(Of T) class" Url="html/c0572df2-d7a4-6983-3025-fee7a706c756.htm" />
+    <HelpKINode Title="constructor" Url="html/91248a55-4995-7f5a-5b4b-742b832ad5ee.htm" />
+    <HelpKINode Title="methods" Url="html/ee7b4e92-1b44-faea-5718-09cbfe1e9971.htm" />
+    <HelpKINode Title="properties" Url="html/1529d160-48b5-6c28-cf2f-a34eadbce285.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StateManagedCollection(Of T).Add method" Url="html/9f768508-966a-3c33-a9f1-fe3c9f3c4a71.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).Clear method" Url="html/032423d3-50f8-6337-6486-88619594e390.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).Contains method" Url="html/f2fb5732-24db-0db4-d0d0-93503a2addb8.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).CopyTo method" Url="html/d2b679f3-a6cf-909a-34a9-fe742dcea1df.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).Count property" Url="html/2d8256c3-0fa8-fe23-c8ef-37962583fede.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).GetEnumerator method" Url="html/730ac3b6-2597-cab4-37ca-9b400adf45e9.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).IndexOf method" Url="html/5a7340a8-f1ac-d3f0-3abe-d0ec8db6f86d.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).Insert method" Url="html/ab551390-2b77-c2cb-2105-a8684211a309.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).IsReadOnly property" Url="html/4fdff4f5-5282-92bd-0c7e-9fd60e8f63f7.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).IsSaveAll property" Url="html/ec02d215-6884-4e29-a11f-9aa99b50b590.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).IsTrackingViewState property" Url="html/15c3062f-396d-e735-4c42-274cd378ba58.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).Item property" Url="html/8d8977a9-ea16-6445-7b1a-1bd2b9191661.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).LoadViewState method" Url="html/e98c1283-8754-6ea2-4326-123d7d5c23e1.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).Remove method" Url="html/717d295f-6e3b-3d66-d932-09f8e172c320.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).RemoveAt method" Url="html/3a53916a-07da-2212-8147-1b3a0d1610e8.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).SaveViewState method" Url="html/ff7f9357-bd96-8a7a-8f77-9301b3023a54.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).SetDirty method" Url="html/9c205da0-b2fa-40fb-f543-fcb21aaf3cd5.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).SetItemDirty method" Url="html/1ac0646a-cf4b-bb68-177a-9ba579b597d0.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).StateManagedCollection constructor" Url="html/91248a55-4995-7f5a-5b4b-742b832ad5ee.htm" />
+  <HelpKINode Title="StateManagedCollection(Of T).TrackViewState method" Url="html/58926058-5cd9-0656-f80a-99c4a12b622c.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt; class">
+    <HelpKINode Title="StateManagedCollection(T) Class" Url="html/c0572df2-d7a4-6983-3025-fee7a706c756.htm" />
+    <HelpKINode Title="about StateManagedCollection&lt;T&gt; class" Url="html/c0572df2-d7a4-6983-3025-fee7a706c756.htm" />
+    <HelpKINode Title="constructor" Url="html/91248a55-4995-7f5a-5b4b-742b832ad5ee.htm" />
+    <HelpKINode Title="methods" Url="html/ee7b4e92-1b44-faea-5718-09cbfe1e9971.htm" />
+    <HelpKINode Title="properties" Url="html/1529d160-48b5-6c28-cf2f-a34eadbce285.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.Add method" Url="html/9f768508-966a-3c33-a9f1-fe3c9f3c4a71.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.Clear method" Url="html/032423d3-50f8-6337-6486-88619594e390.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.Contains method" Url="html/f2fb5732-24db-0db4-d0d0-93503a2addb8.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.CopyTo method" Url="html/d2b679f3-a6cf-909a-34a9-fe742dcea1df.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.Count property" Url="html/2d8256c3-0fa8-fe23-c8ef-37962583fede.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.GetEnumerator method" Url="html/730ac3b6-2597-cab4-37ca-9b400adf45e9.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.IndexOf method" Url="html/5a7340a8-f1ac-d3f0-3abe-d0ec8db6f86d.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.Insert method" Url="html/ab551390-2b77-c2cb-2105-a8684211a309.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.IsReadOnly property" Url="html/4fdff4f5-5282-92bd-0c7e-9fd60e8f63f7.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.IsSaveAll property" Url="html/ec02d215-6884-4e29-a11f-9aa99b50b590.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.IsTrackingViewState property" Url="html/15c3062f-396d-e735-4c42-274cd378ba58.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.Item property" Url="html/8d8977a9-ea16-6445-7b1a-1bd2b9191661.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.LoadViewState method" Url="html/e98c1283-8754-6ea2-4326-123d7d5c23e1.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.Remove method" Url="html/717d295f-6e3b-3d66-d932-09f8e172c320.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.RemoveAt method" Url="html/3a53916a-07da-2212-8147-1b3a0d1610e8.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.SaveViewState method" Url="html/ff7f9357-bd96-8a7a-8f77-9301b3023a54.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.SetDirty method" Url="html/9c205da0-b2fa-40fb-f543-fcb21aaf3cd5.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.SetItemDirty method" Url="html/1ac0646a-cf4b-bb68-177a-9ba579b597d0.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.StateManagedCollection constructor" Url="html/91248a55-4995-7f5a-5b4b-742b832ad5ee.htm" />
+  <HelpKINode Title="StateManagedCollection&lt;T&gt;.TrackViewState method" Url="html/58926058-5cd9-0656-f80a-99c4a12b622c.htm" />
+  <HelpKINode Title="StateManagedCompositeControl class">
+    <HelpKINode Title="StateManagedCompositeControl Class" Url="html/bbe9a884-b038-425a-f404-fd3cc1af434d.htm" />
+    <HelpKINode Title="about StateManagedCompositeControl class" Url="html/bbe9a884-b038-425a-f404-fd3cc1af434d.htm" />
+    <HelpKINode Title="constructor" Url="html/3400770a-9198-f85e-0d25-13ec503a49dd.htm" />
+    <HelpKINode Title="methods" Url="html/b200a371-f198-5136-7562-50edc11cb275.htm" />
+    <HelpKINode Title="properties" Url="html/44a6294e-2d86-779c-d229-d888c4d5f8be.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StateManagedCompositeControl.IsTrackingViewState property" Url="html/2fa6f384-3e16-bdd5-9b4d-4257b07e19a5.htm" />
+  <HelpKINode Title="StateManagedCompositeControl.LoadViewState method" Url="html/3ebfe263-b6c3-779f-4aab-5dc9f76e9430.htm" />
+  <HelpKINode Title="StateManagedCompositeControl.SaveViewState method" Url="html/e67f5b4f-b591-1adf-9100-6060ac425f7c.htm" />
+  <HelpKINode Title="StateManagedCompositeControl.SetDirty method" Url="html/1127fa25-ae77-db5d-9f46-03f694872763.htm" />
+  <HelpKINode Title="StateManagedCompositeControl.StateManagedCompositeControl constructor" Url="html/3400770a-9198-f85e-0d25-13ec503a49dd.htm" />
+  <HelpKINode Title="StateManagedCompositeControl.TrackViewState method" Url="html/11c9c60a-55be-298c-df3e-7e45eff070a0.htm" />
+  <HelpKINode Title="StateManagedItem class">
+    <HelpKINode Title="StateManagedItem Class" Url="html/bbc2b2a9-9ed9-2dcb-beca-20a16a96a49e.htm" />
+    <HelpKINode Title="about StateManagedItem class" Url="html/bbc2b2a9-9ed9-2dcb-beca-20a16a96a49e.htm" />
+    <HelpKINode Title="constructor" Url="html/71e0634e-0279-98e6-5a11-73b5a41ca555.htm" />
+    <HelpKINode Title="methods" Url="html/f61db209-3aa1-3385-c46c-42908d1cdefa.htm" />
+    <HelpKINode Title="properties" Url="html/cd2cdec1-f525-79eb-4a0b-bcdb8b1fdf86.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StateManagedItem.ID property" Url="html/fe3a9d9f-c5e5-280e-b7dd-7d2a73736c88.htm" />
+  <HelpKINode Title="StateManagedItem.IsTrackingViewState property" Url="html/ac4df1f5-3e5f-02a4-a6c2-732ef83b4e2f.htm" />
+  <HelpKINode Title="StateManagedItem.LoadViewState method" Url="html/52da9eba-fc0d-242f-b69f-cdbefebe0ce6.htm" />
+  <HelpKINode Title="StateManagedItem.SaveViewState method" Url="html/d91f2f0b-da9f-f39e-916d-54893b025308.htm" />
+  <HelpKINode Title="StateManagedItem.SetDirty method" Url="html/09ccd5e8-6e64-d0d6-b41e-93695804a87c.htm" />
+  <HelpKINode Title="StateManagedItem.StateManagedItem constructor" Url="html/71e0634e-0279-98e6-5a11-73b5a41ca555.htm" />
+  <HelpKINode Title="StateManagedItem.TrackViewState method" Url="html/601ad3eb-7b2e-7a88-6874-ad9b07e2495a.htm" />
+  <HelpKINode Title="StateManagedItem.ViewState property" Url="html/68644986-4f47-da79-689a-c63938e99a17.htm" />
+  <HelpKINode Title="TableID property" Url="html/00fb5ee7-5d15-da7e-1fb8-47163d5929d6.htm" />
+  <HelpKINode Title="Text property">
+    <HelpKINode Title="KPGridControl.Text Property " Url="html/f60af47e-10b1-2931-6efc-bce127059559.htm" />
+    <HelpKINode Title="KPTextBoxField.Text Property " Url="html/6a6389d6-0f9c-38eb-34bf-f8b6e7f9c113.htm" />
+    <HelpKINode Title="KPTextBoxZoomField.Text Property " Url="html/ea20c590-d4b8-4c3b-e85d-f6f98ff634a3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Title property">
+    <HelpKINode Title="KPCaptionControl.Title Property " Url="html/d44fc954-2708-e05d-c803-18354398a336.htm" />
+    <HelpKINode Title="KPFormButtonSimple.Title Property " Url="html/f9dd1fcc-e9a0-edae-fc30-3df23da2a93c.htm" />
+    <HelpKINode Title="KPFormItemButton.Title Property " Url="html/1351e2c9-1223-b697-9c2c-b88132258cf0.htm" />
+    <HelpKINode Title="KPFormItemCombo.Title Property " Url="html/c385ca71-26e8-9dcf-5f32-6add7ef06294.htm" />
+    <HelpKINode Title="KPFormItemDateTime.Title Property " Url="html/039388e3-6790-840b-cdb5-bbb82661595f.htm" />
+    <HelpKINode Title="KPFormItemEntity.Title Property " Url="html/ce196888-5a5f-dfd6-0332-e79918f31d1a.htm" />
+    <HelpKINode Title="KPFormItemPassword.Title Property " Url="html/166c03a0-8076-50d8-74a0-62dd432db529.htm" />
+    <HelpKINode Title="KPFormItemText.Title Property " Url="html/2cd784f8-1035-d959-f3a5-8e95fd1cc703.htm" />
+    <HelpKINode Title="KPFormItemZoom.Title Property " Url="html/7ba9ef9e-3b51-fd07-4b9f-8b7aba6939ec.htm" />
+    <HelpKINode Title="KPFormTabModel.Title Property " Url="html/6418b577-4ffe-81d8-4aff-8c71f897dfb6.htm" />
+    <HelpKINode Title="KPMenuControl.Title Property " Url="html/8c6cbbb0-36a1-32a0-c2b9-a9e1ebac22dc.htm" />
+    <HelpKINode Title="KPViewButtonSimple.Title Property " Url="html/3644ba2b-7cbc-3fa1-e2a1-c126c989dcc2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TrackViewState method">
+    <HelpKINode Title="StateManagedCollection(T).TrackViewState Method " Url="html/58926058-5cd9-0656-f80a-99c4a12b622c.htm" />
+    <HelpKINode Title="StateManagedCompositeControl.TrackViewState Method " Url="html/11c9c60a-55be-298c-df3e-7e45eff070a0.htm" />
+    <HelpKINode Title="StateManagedItem.TrackViewState Method " Url="html/601ad3eb-7b2e-7a88-6874-ad9b07e2495a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TypBOEntity property" Url="html/5b963163-a3e6-835c-3932-008ebc42b84f.htm" />
+  <HelpKINode Title="Type property">
+    <HelpKINode Title="KPAssetLoader.Type Property " Url="html/73d6ad38-2c78-2507-558f-10126d3d68c7.htm" />
+    <HelpKINode Title="KPFormItemDateTime.Type Property " Url="html/ef4736a9-69cf-28d9-8e21-dfbf96c4b9a0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TypeBONamespace property" Url="html/79be12be-c292-b745-745e-2ca4f7ae0b5e.htm" />
+  <HelpKINode Title="TypeEntity property">
+    <HelpKINode Title="KPFormControl.TypeEntity Property " Url="html/4c35e8d6-2990-8488-5be3-e2a0eb9c9f76.htm" />
+    <HelpKINode Title="KPFormItemControlBase(FormItemType).TypeEntity Property " Url="html/9aff1996-3d94-6aa2-1e63-48fdcf20f09a.htm" />
+    <HelpKINode Title="KPFormItemFactory.TypeEntity Property " Url="html/f9e63611-734d-8483-5f00-9e9fb1dc64d2.htm" />
+    <HelpKINode Title="KPFormZoomModel.TypeEntity Property " Url="html/9f87411e-abf8-cae2-447f-13b1ecf44014.htm" />
+    <HelpKINode Title="KPGridControl.TypeEntity Property " Url="html/386285c9-fa1c-7dc9-193f-c57f15e516ae.htm" />
+    <HelpKINode Title="KPSessionData.TypeEntity Property " Url="html/1af94eaf-d2c1-210f-4177-a384bb423ac2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TypeEntityNamespace property">
+    <HelpKINode Title="KPFormControl.TypeEntityNamespace Property " Url="html/6a0bd256-43e1-6d5a-60e4-8b6f79ee6c97.htm" />
+    <HelpKINode Title="KPFormZoomModel.TypeEntityNamespace Property " Url="html/e1debcc8-1c48-6b98-e918-0bf6dbff9af9.htm" />
+    <HelpKINode Title="KPGridControl.TypeEntityNamespace Property " Url="html/1201a36b-b868-4a50-6029-d301c8b0182b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Url property" Url="html/d06d0a0a-b755-1be1-e68d-de72df6d122c.htm" />
+  <HelpKINode Title="Value property" Url="html/6711a392-0a38-9d9d-2dd5-e7772f5865f1.htm" />
+  <HelpKINode Title="ValueViewed property" Url="html/b868fb87-c491-6f63-03e0-be239c6966c9.htm" />
+  <HelpKINode Title="ViewState property" Url="html/68644986-4f47-da79-689a-c63938e99a17.htm" />
+  <HelpKINode Title="ViewTotalRecordsLabel property" Url="html/c1a046e4-655c-e10a-70fa-f199cbe5eee6.htm" />
+  <HelpKINode Title="Visible property" Url="html/e523f597-6161-140c-cc0b-db681b638294.htm" />
+  <HelpKINode Title="Warning enumeration member" Url="html/229b5e1d-3e87-b317-d6b2-f971d7655475.htm" />
+  <HelpKINode Title="Width property">
+    <HelpKINode Title="KPFormGridField.Width Property " Url="html/9520e48a-1c1c-7b77-2514-ba719d920c59.htm" />
+    <HelpKINode Title="KPFormItemModel.Width Property " Url="html/c759a045-1bdd-c57d-1b56-1ba4900222ab.htm" />
+    <HelpKINode Title="KPGridControl.Width Property " Url="html/216417fe-7ef0-0640-66c1-5f04ad9868a0.htm" />
+    <HelpKINode Title="KPItemModel.Width Property " Url="html/ac8fa8a7-b063-4f59-affc-b77dfa54c8d8.htm" />
+    <HelpKINode Title="KPZoomField.Width Property " Url="html/850665bd-45f9-49b3-0575-fecd55f61811.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WidthForm property" Url="html/783e9b88-8f2c-2c49-959a-70cf352108c8.htm" />
+  <HelpKINode Title="WidthZoom property" Url="html/bb74df60-d316-0e7a-f769-ae15e8c296d1.htm" />
+  <HelpKINode Title="WindowTitle property" Url="html/3dc8647a-da25-fe98-f671-5144fae859e2.htm" />
+  <HelpKINode Title="ZoomConfig property" Url="html/e1deff88-825e-9cf6-8bac-2d8ca9124cd2.htm" />
+  <HelpKINode Title="ZoomID property" Url="html/0b04131a-ade9-224d-93cf-77400c8ef33d.htm" />
+  <HelpKINode Title="ZoomIDConfig property" Url="html/7c3d58bb-e8a2-e679-4f87-e4e67a80ad9b.htm" />
+</HelpKI>

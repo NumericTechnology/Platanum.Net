@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6ED172B2-CAA2-4CDE-95F1-02EB7A514130}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KPCore</RootNamespace>
+    <AssemblyName>KPCore</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Release\KPCore.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>KPCore.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Castle.ActiveRecord">
+      <HintPath>..\Assemblies\ActiveRecord\Castle.ActiveRecord.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.Validator, Version=1.3.1.4000, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Assemblies\NHibernate.Validator\NHibernate.Validator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="KPConfig\KPConfigurationHelper.cs" />
+    <Compile Include="KPException\KPExceptionHelper.cs" />
+    <Compile Include="KPException\KPExceptionSecurity.cs" />
+    <Compile Include="KPException\KPExceptionSession.cs" />
+    <Compile Include="KPException\KPExceptionSqlForeignKey.cs" />
+    <Compile Include="KPException\KPExceptionSuggestion.cs" />
+    <Compile Include="KPExtension\KPEnumExtension.cs" />
+    <Compile Include="KPExtension\KPTypeExtension.cs" />
+    <Compile Include="KPGlobalization\KPGlobalizationLanguageEnum.cs" />
+    <Compile Include="KPSecurity\ComponentPermission.cs" />
+    <Compile Include="KPSecurity\KPCryptography.cs" />
+    <Compile Include="KPSecurity\KPSecuritySession.cs" />
+    <Compile Include="KPSecurity\PagePermission.cs" />
+    <Compile Include="KPUtil\KPGenericUtil.cs" />
+    <Compile Include="KPUtil\KPSendMail.cs" />
+    <Compile Include="KPValidator\KPActiveRecordBase.cs" />
+    <Compile Include="KPValidator\KPExceptionValidator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SerializerHelper.cs" />
+    <Compile Include="SerializerMap\KPConfiguration.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KPAttributes\KPAttributes.csproj">
+      <Project>{84147d9b-69af-4b59-990c-69c8769ace62}</Project>
+      <Name>KPAttributes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPEnumerator\KPEnumerator.csproj">
+      <Project>{e844bae8-2364-498a-8fe1-6751e344b3d6}</Project>
+      <Name>KPEnumerator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KPGlobalization\KPGlobalization.csproj">
+      <Project>{586fa852-8709-4e7c-bd11-047d2be71260}</Project>
+      <Name>KPGlobalization</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="KPCore.snk" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy /y $(ProjectDir)$(OutDir)$(TargetFileName) "..\..\..\..\Assemblies_KPFramework.Net"</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
